@@ -19,8 +19,7 @@ Photos: add `{"kind": "image", "src": "tools/reels/photos/<file>.jpg", "height":
 to a scene. It is cover-cropped into a rounded card the width of the text; `focus` moves the crop
 up (0) or down (1). Use only photos FoundHer owns or has rights to (event photos, the article's own images).
 
-Decoration (on by default): small hearts drift up through the lower corner, a hand-drawn swirl
-draws itself in wherever a scene has `{"kind": "swirl"}`, and on the end card a cursor clicks
-READ IT IN THE APP. Turn off with `"decoration": false` or `"click": false` in the spec.
+Decoration (on by default): small hearts drift up through the lower corner, and on the end card a
+cursor clicks READ IT IN THE APP. (A `{"kind": "swirl"}` item exists but Jess asked not to use swirls.) Turn off with `"decoration": false` or `"click": false` in the spec.
 
 Text rules: only words that come from the article, second person, no em dashes.

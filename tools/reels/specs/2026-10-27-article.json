@@ -4,10 +4,8 @@
   "duration": 16.5,
   "still_times": [
     0,
-    15.2,
-    15.75,
-    15.95,
-    16.4
+    2.0,
+    13.0
   ],
   "photo_source": "Article hero image: https://images.unsplash.com/photo-1653762378429-8030175fda56 (Unsplash), as used on foundhertribe.app/article/acquaintance-to-friend",
   "scenes": [
@@ -37,12 +35,7 @@
               "on a bad day?",
               true
             ]
-          ],
-          "gap": 24
-        },
-        {
-          "kind": "swirl",
-          "at": 0.5
+          ]
         }
       ]
     },
@@ -129,12 +122,7 @@
               true
             ]
           ],
-          "gap": 20
-        },
-        {
-          "kind": "swirl",
-          "at": 0.6,
-          "gap": 36
+          "gap": 56
         },
         {
           "kind": "body",

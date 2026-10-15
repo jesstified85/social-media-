@@ -4,10 +4,8 @@
   "duration": 16.5,
   "still_times": [
     0,
-    15.2,
-    15.75,
-    15.95,
-    16.4
+    2.0,
+    13.0
   ],
   "scenes": [
     {
@@ -36,12 +34,7 @@
               "drive home?",
               true
             ]
-          ],
-          "gap": 24
-        },
-        {
-          "kind": "swirl",
-          "at": 0.5
+          ]
         }
       ]
     },
@@ -135,12 +128,7 @@
               true
             ]
           ],
-          "gap": 20
-        },
-        {
-          "kind": "swirl",
-          "at": 0.6,
-          "gap": 36
+          "gap": 50
         },
         {
           "kind": "body",

@@ -4,10 +4,8 @@
   "duration": 16.5,
   "still_times": [
     0,
-    15.2,
-    15.75,
-    15.95,
-    16.4
+    2.0,
+    13.0
   ],
   "scenes": [
     {
@@ -32,12 +30,7 @@
               "group chat again?",
               true
             ]
-          ],
-          "gap": 24
-        },
-        {
-          "kind": "swirl",
-          "at": 0.5
+          ]
         }
       ]
     },
@@ -138,13 +131,8 @@
               true
             ]
           ],
-          "gap": 20,
+          "gap": 60,
           "at": 0.8
-        },
-        {
-          "kind": "swirl",
-          "at": 1.4,
-          "gap": 36
         },
         {
           "kind": "body",
