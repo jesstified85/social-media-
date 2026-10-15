@@ -1,0 +1,30 @@
+{
+  "theme": "sage",
+  "category": "Lifestyle",
+  "duration": 16.5,
+  "still_times": [0, 2.0, 5.6, 10.0, 13.4, 16.3],
+  "scenes": [
+    {"start": 0, "end": 3.6, "top": 640, "instant": true, "items": [
+      {"kind": "headline", "size": 96, "lines": [["Girls' night plan", false], ["died in the", false], ["group chat again?", true]]}
+    ]},
+    {"start": 3.6, "end": 7.6, "top": 600, "stagger": 0.4, "items": [
+      {"kind": "eyebrow", "text": "PICK ONE BY MOOD", "rule": true, "gap": 46},
+      {"kind": "pills", "items": ["Dinner and dessert", "Dirty soda crawl", "Pottery and paint", "Escape rooms", "Live shows", "Cozy night in"], "gap": 40},
+      {"kind": "body", "text": "Ideas across Salt Lake City and Utah County.", "size": 36, "at": 1.0}
+    ]},
+    {"start": 7.6, "end": 11.0, "top": 640, "items": [
+      {"kind": "headline", "size": 84, "lines": [["Ask the group:", false], ["do we want to", false], ["talk, do or watch?", true]], "gap": 60},
+      {"kind": "body", "text": "Mix two and you have a great night.", "size": 38, "at": 1.0}
+    ]},
+    {"start": 11.0, "end": 14.4, "top": 640, "items": [
+      {"kind": "headline", "size": 80, "lines": [["The best girls' nights", false], ["aren't the fanciest.", false]], "gap": 30},
+      {"kind": "headline", "size": 80, "lines": [["They're the ones", true], ["on the calendar.", true]], "gap": 60, "at": 0.8},
+      {"kind": "body", "text": "Pick one, send the link, set a date.", "size": 36, "at": 1.5}
+    ]}
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Girls' Night Ideas in Salt Lake City and Utah County",
+    "summary": "Ideas sorted by mood, and almost all of them work with or without a drink in hand."
+  }
+}

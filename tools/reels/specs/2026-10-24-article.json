@@ -1,0 +1,31 @@
+{
+  "theme": "terracotta",
+  "category": "Community",
+  "duration": 16.5,
+  "still_times": [0, 2.0, 5.5, 10.4, 13.6, 16.3],
+  "scenes": [
+    {"start": 0, "end": 3.6, "top": 640, "instant": true, "items": [
+      {"kind": "headline", "size": 90, "lines": [["Sitting in your car,", false], ["wondering if you", false], ["can just", false], ["drive home?", true]]}
+    ]},
+    {"start": 3.6, "end": 7.3, "top": 640, "items": [
+      {"kind": "headline", "size": 84, "lines": [["Plenty of the women", false], ["inside did the", false], ["exact same thing.", true]], "gap": 60},
+      {"kind": "body", "text": "Walking in on your own is how most friendships start.", "size": 38, "at": 0.9}
+    ]},
+    {"start": 7.3, "end": 11.3, "top": 560, "stagger": 0.45, "items": [
+      {"kind": "eyebrow", "text": "BEFORE YOU GO", "rule": true, "gap": 46},
+      {"kind": "bullet", "text": "Set one small goal: two real conversations."},
+      {"kind": "bullet", "text": "Arrive early. A room of six beats a room of sixty."},
+      {"kind": "bullet", "text": "Pick an exit time. Knowing you can leave makes it easier to stay."}
+    ]},
+    {"start": 11.3, "end": 14.4, "top": 600, "items": [
+      {"kind": "eyebrow", "text": "RESEARCH: PSYCHOLOGICAL SCIENCE, 2018", "rule": true, "gap": 46},
+      {"kind": "headline", "size": 76, "lines": [["The person you just", false], ["talked to probably", false], ["liked you more", true], ["than you think.", true]], "gap": 50},
+      {"kind": "body", "text": "Researchers call it the liking gap.", "size": 36, "at": 1.1}
+    ]}
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Go to an Event Alone (and Actually Make Friends There)",
+    "summary": "What to do before you go, what to say once you're there, and how to turn a nice chat into a friend."
+  }
+}
