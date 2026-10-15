@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T02:09:01+00:00",
+ "updatedAt": "2026-10-15T02:13:08+00:00",
  "posts": [
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -92,7 +92,6 @@
    "id": "2026-10-26-event"
   },
   {
-   "assetNote": "Reel written (rose, with the article's Unsplash photo). Rendering once the photo can be downloaded.",
    "date": "2026-10-27",
    "links": {
     "facebook": "https://foundhertribe.app/article/acquaintance-to-friend?utm_source=facebook&utm_medium=social&utm_campaign=articles",
@@ -107,7 +106,10 @@
    "caption": "You know plenty of people. But who could you call on a bad day?\n\nMost acquaintances live inside a container: the gym, the office, the school pickup line. The friendship only grows when someone moves it somewhere new.\n\nOur guide walks you through it step by step, with the exact words to use, from an easy invitation to the text that keeps things going between plans.\n\nPick one woman you already like and make the first move this week. Read the guide, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #AdultFriendships #MakingFriendsAsAnAdult #UtahWomen #SaltLakeCity #UtahCounty",
    "linktreeTitle": "How to Turn an Acquaintance Into a Real Friend",
-   "notes": "Article checked live on 14 Oct 2026."
+   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-27-article.mp4",
+   "assetName": "FHT_2026-10-27_article_acquaintance-to-friend.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
