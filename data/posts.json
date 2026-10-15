@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T01:25:46+00:00",
+ "updatedAt": "2026-10-15T01:58:52+00:00",
  "posts": [
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -12,7 +12,6 @@
    "id": "2026-10-19-event"
   },
   {
-   "assetNote": "Reel in progress (new style). Asset will be attached here.",
    "caption": "Tired of the group chat plan that dies at \"idk, whatever you want\"?\n\nOur new guide rounds up girls' night ideas in Salt Lake City and Utah County, sorted by mood: dinner and dessert, a dirty soda crawl, pottery and paint classes, escape rooms, live shows and cozy nights in.\n\nAlmost all of them work just as well with a soda as with a cocktail, so everyone in your group can say yes.\n\nPick one, send the link and put a date on the calendar. Read the full list, link in bio.\n\nWhere you find your people.",
    "date": "2026-10-20",
    "hashtags": "#FoundHerTribe #FindYourPeople #GirlsNightOut #SaltLakeCity #UtahCounty #DirtySoda #UtahWomen",
@@ -21,13 +20,16 @@
     "instagram": "https://foundhertribe.app/article/girls-night-ideas-salt-lake-city?utm_source=instagram&utm_medium=social&utm_campaign=articles"
    },
    "linktreeTitle": "Girls' Night Ideas in Salt Lake City and Utah County",
-   "notes": "Article checked live on 14 Oct 2026.",
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
    "order": 1,
    "platform": "Instagram + Facebook",
    "status": "draft",
    "title": "Girls' Night Ideas in Salt Lake City and Utah County",
    "type": "article",
-   "id": "2026-10-20-article"
+   "id": "2026-10-20-article",
+   "asset": "assets/2026-10-20-article.mp4",
+   "assetName": "FHT_2026-10-20_article_girls-night-ideas.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -50,7 +52,6 @@
    "id": "2026-10-23-event"
   },
   {
-   "assetNote": "Reel in progress (new style). Asset will be attached here.",
    "caption": "Sitting in your car in the parking lot, wondering if you can just drive home? You're not the only one.\n\nWalking in on your own isn't a sign you have no friends. It's how most friendships start.\n\nOur guide covers what to do before you go, easy conversation openers, how to leave a chat without it feeling awkward, and the follow-up text that turns a nice chat into a real friend.\n\nAnd research on the \"liking gap\" suggests the person you just talked to probably liked you more than you think.\n\nRead it, then come to something on your own. We saved you a seat. Link in bio.\n\nWhere you find your people.",
    "date": "2026-10-24",
    "hashtags": "#FoundHerTribe #FindYourPeople #GoingSolo #MakingFriendsAsAnAdult #UtahWomen #SaltLakeCity #UtahCounty",
@@ -59,13 +60,16 @@
     "instagram": "https://foundhertribe.app/article/go-to-an-event-alone?utm_source=instagram&utm_medium=social&utm_campaign=articles"
    },
    "linktreeTitle": "How to Go to an Event Alone (and Actually Make Friends There)",
-   "notes": "Article checked live on 14 Oct 2026.",
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
    "order": 1,
    "platform": "Instagram + Facebook",
    "status": "draft",
    "title": "How to Go to an Event Alone (and Actually Make Friends There)",
    "type": "article",
-   "id": "2026-10-24-article"
+   "id": "2026-10-24-article",
+   "asset": "assets/2026-10-24-article.mp4",
+   "assetName": "FHT_2026-10-24_article_go-to-an-event-alone.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
