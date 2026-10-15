@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>FoundHer Content Calendar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap">
+<link rel="stylesheet" href="styles.css">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <span class="eyebrow">FoundHer Tribe social</span>
+      <h1>Content <em>calendar</em></h1>
+    </div>
+    <div class="monthnav">
+      <button class="iconbtn" id="prev" aria-label="Previous month">&#8249;</button>
+      <h2 id="monthlabel">Month</h2>
+      <button class="iconbtn" id="next" aria-label="Next month">&#8250;</button>
+      <button class="ghost" id="todaybtn">Today</button>
+    </div>
+  </header>
+
+  <div class="legend" aria-label="Post types">
+    <span><i class="dot d-event"></i>Event</span>
+    <span><i class="dot d-article"></i>Article</span>
+    <span><i class="dot d-auction"></i>Auction</span>
+    <span><i class="dot d-recap"></i>Recap</span>
+    <span style="opacity:.6">Faded = placeholder</span>
+    <span class="updated" id="updated"></span>
+  </div>
+
+  <div class="main">
+    <section class="cal" aria-label="Month view">
+      <div class="dow"><div>Mon</div><div>Tue</div><div>Wed</div><div>Thu</div><div>Fri</div><div>Sat</div><div>Sun</div></div>
+      <div class="grid" id="grid"></div>
+    </section>
+    <section class="panel" id="panel" aria-live="polite"></section>
+  </div>
+  <p class="foot">Where you find your people.</p>
+</div>
+<div class="toast" id="toast" role="status"></div>
+<script src="app.js"></script>
+</body>
+</html>
