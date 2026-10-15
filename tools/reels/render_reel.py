@@ -6,6 +6,8 @@ logo are taken from the team's own reference Reels (see plates/).
 Usage: python3 tools/reels/render_reel.py <spec.json> <out.mp4> [--stills DIR]
 """
 import json
+import math
+import random
 import subprocess
 import sys
 from pathlib import Path
@@ -27,11 +29,11 @@ CORAL = (255, 107, 91)
 BODY_ON_CREAM = (77, 68, 60)
 
 THEMES = {
-    "terracotta": {"plate": "plate_terracotta.png", "pin": "pin_terracotta.png",
+    "terracotta": {"plate": "plate_terracotta.png", "pin": "pin_terracotta.png", "deco": (252, 242, 232),
                    "fg": CREAM, "soft": (246, 214, 194), "line": (226, 160, 125), "dot": CREAM},
-    "rose": {"plate": "plate_rose.png", "pin": "pin_rose.png",
+    "rose": {"plate": "plate_rose.png", "pin": "pin_rose.png", "deco": (255, 246, 247),
              "fg": CHARCOAL, "soft": (62, 40, 44), "line": (176, 112, 120), "dot": TERRACOTTA},
-    "sage": {"plate": "plate_sage.png", "pin": "pin_sage.png",
+    "sage": {"plate": "plate_sage.png", "pin": "pin_sage.png", "deco": (255, 255, 252),
              "fg": CHARCOAL, "soft": (52, 58, 48), "line": (120, 136, 112), "dot": TERRACOTTA},
 }
 
@@ -72,7 +74,7 @@ def balanced(draw, text, f, maxw):
 
 def wrap(draw, text, f, maxw):
     lines, cur = [], ""
-    for w in text.split():
+    for w in text.split(" "):
         t = (cur + " " + w).strip()
         if draw.textlength(t, font=f) <= maxw:
             cur = t
@@ -88,6 +90,7 @@ class Element:
 
     def __init__(self, img, x, y, appear):
         self.img, self.x, self.y, self.appear = img, x, y, appear
+        self.reveal = False
         self._cache = {}
 
     def at_opacity(self, op):
@@ -202,6 +205,102 @@ def make_image(src, height=620, radius=28, focus=0.5):
     return im
 
 
+# ---------- Decoration: hearts and swirls (simple shapes, never the logo or pin) ----------
+
+def heart_points(cx, cy, size, n=90):
+    pts = []
+    for i in range(n):
+        a = 2 * math.pi * i / n
+        x = 16 * math.sin(a) ** 3
+        y = -(13 * math.cos(a) - 5 * math.cos(2 * a) - 2 * math.cos(3 * a) - math.cos(4 * a))
+        pts.append((cx + x * size / 34, cy + y * size / 34))
+    return pts
+
+
+_heart_cache = {}
+
+
+def heart_sprite(size, color, outline):
+    key = (size, color, outline)
+    if key not in _heart_cache:
+        k = 4
+        big = Image.new("RGBA", (size * k, size * k), (0, 0, 0, 0))
+        d = ImageDraw.Draw(big)
+        pts = heart_points(size * k / 2, size * k / 2 + size * k * 0.04, size * k * 0.92)
+        if outline:
+            d.line(pts + [pts[0]], fill=color + (255,), width=max(2, int(size * k * 0.07)), joint="curve")
+        else:
+            d.polygon(pts, fill=color + (255,))
+        _heart_cache[key] = big.resize((size, size), Image.LANCZOS)
+    return _heart_cache[key]
+
+
+def with_alpha(im, a):
+    out = im.copy()
+    out.putalpha(im.getchannel("A").point(lambda v: int(v * a)))
+    return out
+
+
+class Floaters:
+    """Small hearts drifting upward with a gentle sway, in a band away from the text."""
+
+    def __init__(self, color, seed, count=10, x_range=(620, 1010), y_range=(1330, 1890), max_alpha=0.68):
+        rnd = random.Random(seed)
+        self.color, self.y_range, self.max_alpha = color, y_range, max_alpha
+        self.items = []
+        for i in range(count):
+            self.items.append({
+                "x": rnd.uniform(*x_range),
+                "phase": rnd.uniform(0, 1),
+                "speed": rnd.uniform(38, 70),
+                "sway": rnd.uniform(8, 20),
+                "period": rnd.uniform(2.6, 4.2),
+                "size": rnd.choice([30, 38, 46, 54, 64]),
+                "outline": rnd.random() < 0.45,
+                "spin": rnd.uniform(-10, 10),
+            })
+
+    def draw(self, frame, t, fade=1.0):
+        lo, hi = self.y_range
+        span = hi - lo
+        for it in self.items:
+            travel = (t * it["speed"] + it["phase"] * span) % span
+            y = hi - travel
+            x = it["x"] + it["sway"] * math.sin(2 * math.pi * t / it["period"] + it["phase"] * 6)
+            pos = travel / span  # 0 at the bottom, 1 at the top of the band
+            a = min(1.0, pos / 0.15) * min(1.0, (1 - pos) / 0.3) * self.max_alpha * fade
+            if a <= 0.02:
+                continue
+            spr = heart_sprite(it["size"], self.color, it["outline"])
+            spr = spr.rotate(it["spin"] * math.sin(t + it["phase"] * 5), resample=Image.BICUBIC, expand=True)
+            frame.alpha_composite(with_alpha(spr, a), (int(x - spr.width / 2), int(y - spr.height / 2)))
+
+
+def make_swirl(color, width=420, height=90, stroke=5):
+    """A hand-drawn style flourish: a soft wave with one loop and a small heart at the end."""
+    k = 3
+    big = Image.new("RGBA", (W * k, height * k), (0, 0, 0, 0))
+    d = ImageDraw.Draw(big)
+    pts = []
+    for i in range(400):
+        t = i / 399
+        x = MARGIN + t * width
+        y = height * 0.55 + 12 * math.sin(2 * math.pi * 1.2 * t)
+        if 0.48 < t < 0.68:
+            ph = (t - 0.48) / 0.2 * 2 * math.pi
+            x -= 30 * math.sin(ph)
+            y -= 26 * (1 - math.cos(ph)) / 2 * 1.6
+        pts.append((x * k, y * k))
+    d.line(pts, fill=color + (255,), width=stroke * k, joint="curve")
+    ex, ey = pts[-1]
+    hp = heart_points(ex + 22 * k, ey - 4 * k, 26 * k)
+    d.polygon(hp, fill=color + (255,))
+    small = big.resize((W, height), Image.LANCZOS)
+    im = layer(height)
+    im.alpha_composite(small)
+    return im
+
+
 def build_scene(scene, theme):
     """Turn a scene spec into positioned Elements."""
     th = THEMES[theme]
@@ -221,13 +320,17 @@ def build_scene(scene, theme):
             im = make_bullet(item["text"], th["fg"], th["dot"])
         elif kind == "pills":
             im = make_pills(item["items"], th["fg"])
+        elif kind == "swirl":
+            im = make_swirl(th["dot"], item.get("width", 420))
         elif kind == "image":
             im = make_image(item["src"], item.get("height", 620), item.get("radius", 28), item.get("focus", 0.5))
         else:
             raise ValueError(kind)
         bbox = im.getbbox()
         h = bbox[3] if bbox else im.height
-        els.append(Element(im, 0, y, item.get("at", t)))
+        el = Element(im, 0, y, item.get("at", t))
+        el.reveal = kind == "swirl"
+        els.append(el)
         y += h + item.get("gap", 34)
         t += stagger
     assert y <= SAFE_BOT, f"scene content runs below the 4:5 crop (y={y})"
@@ -272,6 +375,7 @@ def build_end_card(spec):
     y += 50
     bw, bh = 513, 102
     bx = (W - bw) // 2
+    button = (bx, y, bx + bw, y + bh)
     d.rounded_rectangle((bx, y, bx + bw, y + bh), radius=bh // 2, fill=TERRACOTTA)
     fb = font("sans", 28, "Bold")
     tw = tracked_width(d, "READ IT IN THE APP", fb, 28 * 0.1)
@@ -283,7 +387,55 @@ def build_end_card(spec):
     w = d.textlength(tag, font=fi)
     d.text(((W - w) / 2, 1520), tag, font=fi, fill=TERRACOTTA)
     assert y + 40 < 1520, "end card content collides with the tagline"
-    return im
+    return im, button
+
+
+def cursor_sprite(height=64):
+    """A plain arrow pointer: white fill, charcoal outline."""
+    k = 4
+    hgt = height * k
+    pts = [(0, 0), (0, 0.80), (0.21, 0.62), (0.36, 0.95), (0.49, 0.89), (0.34, 0.57), (0.60, 0.57)]
+    pts = [(x * hgt + 6 * k, y * hgt + 6 * k) for x, y in pts]
+    big = Image.new("RGBA", (int(hgt * 0.7) + 12 * k, hgt + 12 * k), (0, 0, 0, 0))
+    d = ImageDraw.Draw(big)
+    d.polygon(pts, fill=(255, 255, 255, 255))
+    d.line(pts + [pts[0]], fill=CHARCOAL + (255,), width=3 * k, joint="curve")
+    return big.resize((big.width // k, big.height // k), Image.LANCZOS)
+
+
+CURSOR = None
+
+
+def draw_click(frame, tr, button):
+    """Cursor glides onto the button, presses it, and a ripple pulses out. tr = seconds into the end card."""
+    global CURSOR
+    if CURSOR is None:
+        CURSOR = cursor_sprite()
+    x0, y0, x1, y1 = button
+    tx, ty = x0 + (x1 - x0) * 0.64, y0 + (y1 - y0) * 0.58
+    sx, sy = 960, 1760
+    if tr < 0.75:
+        return
+    m = ease((tr - 0.75) / 0.8)
+    cx, cy = sx + (tx - sx) * m, sy + (ty - sy) * m
+    click = 1.7
+    if click <= tr < click + 0.6:
+        r_k = (tr - click) / 0.6
+        ring = layer(H)
+        rd = ImageDraw.Draw(ring)
+        rad = 14 + 70 * r_k
+        a = int(200 * (1 - r_k))
+        rd.ellipse((tx - rad, ty - rad, tx + rad, ty + rad), outline=(255, 255, 255, a), width=5)
+        frame.alpha_composite(ring)
+    pressed = click <= tr < click + 0.18
+    if pressed:
+        shade = layer(H)
+        ImageDraw.Draw(shade).rounded_rectangle(button, radius=(y1 - y0) // 2, fill=(0, 0, 0, 46))
+        frame.alpha_composite(shade)
+    spr = CURSOR
+    if pressed:
+        spr = spr.resize((int(spr.width * 0.88), int(spr.height * 0.88)), Image.LANCZOS)
+    frame.alpha_composite(spr, (int(cx), int(cy)))
 
 
 def ease(x):
@@ -299,10 +451,14 @@ def render(spec, out, stills=None):
     for sc in spec["scenes"]:
         scenes.append((sc["start"], sc["end"], build_scene(sc, theme), sc.get("instant", False)))
     end_start = spec["end_card"]["start"]
-    end_img = build_end_card(spec["end_card"])
+    end_img, button = build_end_card(spec["end_card"])
     total = spec["duration"]
     nframes = int(round(total * FPS))
     fade_in, fade_out, rise, xfade = 0.5, 0.35, 26, 0.45
+    deco_on = spec.get("decoration", True)
+    seed = spec.get("seed", spec["end_card"]["title"])
+    floaters = Floaters(THEMES[theme]["deco"], seed)
+    end_floaters = Floaters((215, 154, 160), seed + "-end", count=7, x_range=(90, 990), y_range=(1590, 1900), max_alpha=0.45)
 
     proc = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
@@ -312,6 +468,8 @@ def render(spec, out, stills=None):
     for n in range(nframes):
         t = n / FPS
         frame = plate.copy()
+        if deco_on:
+            floaters.draw(frame, t)
         frame.alpha_composite(label.img, (0, label.y))
         for start, end, els, instant in scenes:
             if t < start or t >= end:
@@ -326,11 +484,24 @@ def render(spec, out, stills=None):
                 op = k * out_k
                 if op <= 0.01:
                     continue
+                if el.reveal:
+                    p = ease(local / 1.1) if not (instant and el.appear == 0) else 1.0
+                    if p <= 0:
+                        continue
+                    img = el.at_opacity(out_k)
+                    cut = int(MARGIN + p * (img.width - MARGIN))
+                    frame.alpha_composite(img.crop((0, 0, cut, img.height)), (0, el.y))
+                    continue
                 dy = int((1 - k) * rise)
                 frame.alpha_composite(el.at_opacity(op), (0, el.y + dy))
         if t >= end_start:
             a = min(1.0, (t - end_start) / xfade)
-            frame = Image.blend(frame, end_img, a) if a < 1 else end_img.copy()
+            end_frame = end_img.copy()
+            if deco_on:
+                end_floaters.draw(end_frame, t - end_start)
+            if spec.get("click", True):
+                draw_click(end_frame, t - end_start, button)
+            frame = Image.blend(frame, end_frame, a) if a < 1 else end_frame
         rgb = frame.convert("RGB")
         if stills is not None and n in stills:
             rgb.save(stills[n])
