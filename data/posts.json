@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T01:58:52+00:00",
+ "updatedAt": "2026-10-15T02:09:01+00:00",
  "posts": [
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -92,7 +92,7 @@
    "id": "2026-10-26-event"
   },
   {
-   "assetNote": "Suggested article. Reel and caption to build once confirmed.",
+   "assetNote": "Reel written (rose, with the article's Unsplash photo). Rendering once the photo can be downloaded.",
    "date": "2026-10-27",
    "links": {
     "facebook": "https://foundhertribe.app/article/acquaintance-to-friend?utm_source=facebook&utm_medium=social&utm_campaign=articles",
@@ -100,10 +100,14 @@
    },
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
+   "status": "draft",
    "title": "How to Turn an Acquaintance Into a Real Friend",
    "type": "article",
-   "id": "2026-10-27-article"
+   "id": "2026-10-27-article",
+   "caption": "You know plenty of people. But who could you call on a bad day?\n\nMost acquaintances live inside a container: the gym, the office, the school pickup line. The friendship only grows when someone moves it somewhere new.\n\nOur guide walks you through it step by step, with the exact words to use, from an easy invitation to the text that keeps things going between plans.\n\nPick one woman you already like and make the first move this week. Read the guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #AdultFriendships #MakingFriendsAsAnAdult #UtahWomen #SaltLakeCity #UtahCounty",
+   "linktreeTitle": "How to Turn an Acquaintance Into a Real Friend",
+   "notes": "Article checked live on 14 Oct 2026."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -126,16 +130,12 @@
    "id": "2026-10-30-event"
   },
   {
-   "assetNote": "Suggested article. Reel and caption to build once confirmed.",
+   "assetNote": "On hold. The Saying No article is written for moms (mom guilt), so it may belong with MomTribe. Jess to confirm, or swap in another article.",
    "date": "2026-10-31",
-   "links": {
-    "facebook": "https://foundhertribe.app/article/saying-no?utm_source=facebook&utm_medium=social&utm_campaign=articles",
-    "instagram": "https://foundhertribe.app/article/saying-no?utm_source=instagram&utm_medium=social&utm_campaign=articles"
-   },
    "order": 1,
    "platform": "Instagram + Facebook",
    "status": "placeholder",
-   "title": "Saying no (title to confirm)",
+   "title": "Article to confirm (Saying No is mom-focused)",
    "type": "article",
    "id": "2026-10-31-article"
   },

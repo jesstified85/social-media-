@@ -1,0 +1,32 @@
+{
+  "theme": "rose",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [0, 5.4, 9.2, 12.8, 16.3],
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1653762378429-8030175fda56 (Unsplash), as used on foundhertribe.app/article/acquaintance-to-friend",
+  "scenes": [
+    {"start": 0, "end": 3.6, "top": 640, "instant": true, "items": [
+      {"kind": "headline", "size": 92, "lines": [["You know plenty", false], ["of people.", false], ["Who do you call", true], ["on a bad day?", true]]}
+    ]},
+    {"start": 3.6, "end": 7.4, "top": 470, "stagger": 0.4, "items": [
+      {"kind": "image", "src": "tools/reels/photos/2026-10-27-article.jpg", "height": 560, "focus": 0.45, "gap": 48},
+      {"kind": "headline", "size": 70, "lines": [["Most acquaintances live", false], ["inside a container.", true]], "gap": 36},
+      {"kind": "body", "text": "The gym, the office, the school pickup line.", "size": 36}
+    ]},
+    {"start": 7.4, "end": 11.2, "top": 560, "stagger": 0.45, "items": [
+      {"kind": "eyebrow", "text": "MAKE THE INVITATION SPECIFIC", "rule": true, "gap": 46},
+      {"kind": "bullet", "text": "Not \"We should hang out sometime.\""},
+      {"kind": "bullet", "text": "Try \"Want to get breakfast Saturday at 9?\""},
+      {"kind": "bullet", "text": "Add an easy out: \"No pressure if you're busy.\""}
+    ]},
+    {"start": 11.2, "end": 14.4, "top": 640, "items": [
+      {"kind": "headline", "size": 80, "lines": [["At the end of a", false], ["good hangout,", false], ["lock in the next one.", true]], "gap": 56},
+      {"kind": "body", "text": "\"This was so fun. Same time next month?\"", "size": 38, "at": 1.0}
+    ]}
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Turn an Acquaintance Into a Real Friend",
+    "summary": "Step by step, with the exact words to use."
+  }
+}
