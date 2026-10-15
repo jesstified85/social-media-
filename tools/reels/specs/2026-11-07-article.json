@@ -1,0 +1,147 @@
+{
+  "theme": "sage",
+  "category": "Wellness",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1719299246410-df8d0f0845ee (Unsplash), as used on the article page",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 96,
+          "lines": [
+            [
+              "You don't need",
+              false
+            ],
+            [
+              "to be fast.",
+              false
+            ],
+            [
+              "You barely need",
+              true
+            ],
+            [
+              "to be a runner.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 470,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/2026-11-07-article.jpg",
+          "height": 560,
+          "focus": 0.45,
+          "gap": 48
+        },
+        {
+          "kind": "headline",
+          "size": 70,
+          "lines": [
+            [
+              "Show up alone.",
+              false
+            ],
+            [
+              "Leave with new names.",
+              true
+            ]
+          ],
+          "gap": 36
+        },
+        {
+          "kind": "body",
+          "text": "Run clubs are quietly the best place to meet people.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "YOUR FIRST GROUP RUN",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Pick the easy or social run, not the speed workout."
+        },
+        {
+          "kind": "bullet",
+          "text": "Arrive ten minutes early and say it's your first time."
+        },
+        {
+          "kind": "bullet",
+          "text": "Walk breaks are normal."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Stay for the",
+              false
+            ],
+            [
+              "after part.",
+              false
+            ],
+            [
+              "That's where names",
+              true
+            ],
+            [
+              "turn into plans.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Plenty of clubs welcome walkers too.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Run Clubs and Walking Clubs in Utah: The Easiest Way to Make Friends Right Now",
+    "summary": "Where to find a club in Salt Lake and Utah County, and how to turn a group run into friends."
+  }
+}

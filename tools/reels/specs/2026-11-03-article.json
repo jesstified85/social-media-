@@ -1,0 +1,147 @@
+{
+  "theme": "terracotta",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1761055924354-244f0ca66af2 (Unsplash), as used on the article page",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 84,
+          "lines": [
+            [
+              "Somewhere around 43,",
+              false
+            ],
+            [
+              "you realized there",
+              false
+            ],
+            [
+              "was no one to call",
+              true
+            ],
+            [
+              "for tacos.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 470,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/2026-11-03-article.jpg",
+          "height": 560,
+          "focus": 0.45,
+          "gap": 48
+        },
+        {
+          "kind": "headline",
+          "size": 70,
+          "lines": [
+            [
+              "You are not behind.",
+              false
+            ],
+            [
+              "You are not broken.",
+              true
+            ]
+          ],
+          "gap": 36
+        },
+        {
+          "kind": "body",
+          "text": "It's the most common friendship gap nobody talks about.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "WHAT ACTUALLY WORKS",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Choose recurring over one-off: meet six people ten times."
+        },
+        {
+          "kind": "bullet",
+          "text": "Go alone. It makes you more approachable."
+        },
+        {
+          "kind": "bullet",
+          "text": "Be the one who follows up."
+        },
+        {
+          "kind": "bullet",
+          "text": "Reconnect with a friend you drifted from."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "One awkward coffee",
+              false
+            ],
+            [
+              "is not a verdict.",
+              false
+            ],
+            [
+              "It is a deposit.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Your next friend is probably looking for you too.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Make Friends in Your 40s (When It Feels Like Everyone Is Already Settled)",
+    "summary": "Why midlife friendship is harder, and exactly how to make friends anyway."
+  }
+}

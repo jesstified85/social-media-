@@ -1,0 +1,151 @@
+{
+  "theme": "rose",
+  "category": "Mental Health",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1658279366796-e0c28623cd27 (Unsplash), as used on the article page",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "If you feel lonely",
+              false
+            ],
+            [
+              "this season,",
+              false
+            ],
+            [
+              "nothing is wrong",
+              true
+            ],
+            [
+              "with you.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 470,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/2026-12-12-article.jpg",
+          "height": 560,
+          "focus": 0.45,
+          "gap": 48
+        },
+        {
+          "kind": "headline",
+          "size": 70,
+          "lines": [
+            [
+              "You're in very",
+              false
+            ],
+            [
+              "good company.",
+              true
+            ]
+          ],
+          "gap": 36
+        },
+        {
+          "kind": "body",
+          "text": "In a 2025 poll, 48% of adults were worried about missing someone or grief.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "SMALL THINGS FOR THIS WEEK",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Say yes to one invitation. You can stay 45 minutes."
+        },
+        {
+          "kind": "bullet",
+          "text": "Send three texts."
+        },
+        {
+          "kind": "bullet",
+          "text": "Host an orphans' dinner."
+        },
+        {
+          "kind": "bullet",
+          "text": "Volunteer somewhere."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Feeling lonely",
+              false
+            ],
+            [
+              "is not a verdict.",
+              false
+            ],
+            [
+              "It's a signal you",
+              true
+            ],
+            [
+              "need connection.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "In crisis? Call or text 988, any time.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Feeling Lonely During the Holidays? You're Not the Only One",
+    "summary": "Why the season stings, and small, kind things you can do about it this week."
+  }
+}

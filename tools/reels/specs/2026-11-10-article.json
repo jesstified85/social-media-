@@ -1,0 +1,147 @@
+{
+  "theme": "rose",
+  "category": "Lifestyle",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1613109040830-ffdd96756f5e (Unsplash), as used on the article page",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 96,
+          "lines": [
+            [
+              "The first rule",
+              false
+            ],
+            [
+              "of Friendsgiving:",
+              false
+            ],
+            [
+              "nobody is grading",
+              true
+            ],
+            [
+              "the turkey.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 470,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/2026-11-10-article.jpg",
+          "height": 560,
+          "focus": 0.45,
+          "gap": 48
+        },
+        {
+          "kind": "headline",
+          "size": 70,
+          "lines": [
+            [
+              "Everyone pitches in.",
+              false
+            ],
+            [
+              "That's the point.",
+              true
+            ]
+          ],
+          "gap": 36
+        },
+        {
+          "kind": "body",
+          "text": "The friendliest possible first party.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "KEEP THE POTLUCK SIMPLE",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "You make the main. Everyone signs up for the rest."
+        },
+        {
+          "kind": "bullet",
+          "text": "Set categories with limited spots, so you don't get seven trays of rolls."
+        },
+        {
+          "kind": "bullet",
+          "text": "A dry or alcohol-optional table is completely normal."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Invite the coworker",
+              false
+            ],
+            [
+              "you always chat with.",
+              false
+            ],
+            [
+              "Most people",
+              true
+            ],
+            [
+              "are flattered.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Give her a dish to bring. It's oddly comforting.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Host a Friendsgiving (Even If You've Never Hosted Anything)",
+    "summary": "A simple timeline, a potluck system that works, and what to say when the table goes quiet."
+  }
+}
