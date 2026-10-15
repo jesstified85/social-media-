@@ -29,6 +29,8 @@ BODY_ON_CREAM = (77, 68, 60)
 THEMES = {
     "terracotta": {"plate": "plate_terracotta.png", "pin": "pin_terracotta.png",
                    "fg": CREAM, "soft": (246, 214, 194), "line": (226, 160, 125), "dot": CREAM},
+    "rose": {"plate": "plate_rose.png", "pin": "pin_rose.png",
+             "fg": CHARCOAL, "soft": (62, 40, 44), "line": (176, 112, 120), "dot": TERRACOTTA},
     "sage": {"plate": "plate_sage.png", "pin": "pin_sage.png",
              "fg": CHARCOAL, "soft": (52, 58, 48), "line": (120, 136, 112), "dot": TERRACOTTA},
 }
@@ -181,6 +183,25 @@ def make_pills(items, color, size=32):
     return im
 
 
+def make_image(src, height=620, radius=28, focus=0.5):
+    """A real photo, cover-cropped into a rounded card the width of the text column."""
+    path = Path(src)
+    if not path.is_absolute():
+        path = S.parent.parent / src  # relative to the repo root
+    photo = Image.open(path).convert("RGB")
+    tw, th = TEXT_W, height
+    scale = max(tw / photo.width, th / photo.height)
+    photo = photo.resize((round(photo.width * scale), round(photo.height * scale)), Image.LANCZOS)
+    left = (photo.width - tw) // 2
+    top = int((photo.height - th) * focus)
+    photo = photo.crop((left, top, left + tw, top + th))
+    mask = Image.new("L", (tw, th), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, tw - 1, th - 1), radius=radius, fill=255)
+    im = layer(th)
+    im.paste(photo, (MARGIN, 0), mask)
+    return im
+
+
 def build_scene(scene, theme):
     """Turn a scene spec into positioned Elements."""
     th = THEMES[theme]
@@ -200,6 +221,8 @@ def build_scene(scene, theme):
             im = make_bullet(item["text"], th["fg"], th["dot"])
         elif kind == "pills":
             im = make_pills(item["items"], th["fg"])
+        elif kind == "image":
+            im = make_image(item["src"], item.get("height", 620), item.get("radius", 28), item.get("focus", 0.5))
         else:
             raise ValueError(kind)
         bbox = im.getbbox()
