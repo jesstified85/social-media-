@@ -91,6 +91,26 @@ function renderPost(p){
   }
   card.appendChild(as);
 
+  // Optional Instagram Story version with interactive stickers to add in the app.
+  const S=p.story;
+  if(S&&S.asset){
+    const ss=el("div","section");ss.appendChild(labelRow("Story + interactive stickers"));
+    const box=el("div","asset");
+    const v=document.createElement("video");v.src=S.asset;v.muted=true;v.playsInline=true;v.controls=true;v.preload="metadata";box.appendChild(v);
+    const meta=el("div","meta");
+    const name=S.assetName||S.asset.split("/").pop();
+    meta.appendChild(el("span","fname",name));
+    const dl=el("a","primary","Download story");dl.href=S.asset;dl.setAttribute("download",name);meta.appendChild(dl);
+    if(S.how)meta.appendChild(el("p","note",S.how));
+    box.appendChild(meta);ss.appendChild(box);
+    if(Array.isArray(S.stickers)&&S.stickers.length){
+      const lb=el("div","links");
+      S.stickers.forEach(s=>lb.appendChild(linkRow(s.label,s.value)));
+      ss.appendChild(lb);
+    }
+    card.appendChild(ss);
+  }
+
   if(p.caption){
     const both=[p.caption,p.hashtags].filter(Boolean).join("\n\n");
     const cb=el("button","copybtn","Copy caption + hashtags");cb.addEventListener("click",()=>copyText(both,cb));

@@ -1,0 +1,148 @@
+{
+  "theme": "sage",
+  "category": "Auctions",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "PLACEHOLDER: free-license Unsplash photo (unsplash.com/license), not the donor's own. Swap for a donor photo when supplied.",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 90,
+          "lines": [
+            [
+              "Baking season",
+              false
+            ],
+            [
+              "just got a",
+              true
+            ],
+            [
+              "little sweeter.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 400,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/auction-kneading-dough.jpg",
+          "height": 520,
+          "focus": 0.5,
+          "gap": 44
+        },
+        {
+          "kind": "eyebrow",
+          "text": "UP FOR AUCTION",
+          "rule": true,
+          "gap": 40
+        },
+        {
+          "kind": "headline",
+          "size": 76,
+          "lines": [
+            [
+              "A $50 gift certificate",
+              false
+            ],
+            [
+              "to Lehi Roller Mills.",
+              true
+            ]
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "Value $50. Donated by Lehi Roller Mills.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 600,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "HOW TO BID",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Bid with coins, not cash."
+        },
+        {
+          "kind": "bullet",
+          "text": "Bidding starts at 200 coins."
+        },
+        {
+          "kind": "bullet",
+          "text": "Outbid? Your coins come straight back."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Bidding ends",
+              false
+            ],
+            [
+              "Wednesday, Nov. 4",
+              false
+            ],
+            [
+              "at 10 p.m.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Thank you, Lehi Roller Mills.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "$50 Lehi Roller Mills Gift Certificate",
+    "summary": "Donated by Lehi Roller Mills. Bidding ends Wednesday, November 4 at 10 p.m.",
+    "eyebrow": "LIVE NOW, IN THE APP",
+    "button": "BID IN THE APP"
+  }
+}

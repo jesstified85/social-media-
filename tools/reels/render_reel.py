@@ -359,7 +359,7 @@ def build_end_card(spec):
         w = tracked_width(d, text, f, tr)
         draw_tracked(d, ((W - w) / 2, y), text, f, fill, tr)
 
-    centered_tracked(724, "THE FULL READ, IN THE APP", font("sans", 24, "SemiBold"), TERRACOTTA, 24 * 0.16)
+    centered_tracked(724, spec.get("eyebrow", "THE FULL READ, IN THE APP"), font("sans", 24, "SemiBold"), TERRACOTTA, 24 * 0.16)
     ft = font("serif", 54, "Regular")
     y = 800
     for ln in balanced(d, spec["title"], ft, 840):
@@ -378,8 +378,9 @@ def build_end_card(spec):
     button = (bx, y, bx + bw, y + bh)
     d.rounded_rectangle((bx, y, bx + bw, y + bh), radius=bh // 2, fill=TERRACOTTA)
     fb = font("sans", 28, "Bold")
-    tw = tracked_width(d, "READ IT IN THE APP", fb, 28 * 0.1)
-    draw_tracked(d, ((W - tw) / 2, y + bh / 2 - 19), "READ IT IN THE APP", fb, (255, 255, 255), 28 * 0.1)
+    label = spec.get("button", "READ IT IN THE APP")
+    tw = tracked_width(d, label, fb, 28 * 0.1)
+    draw_tracked(d, ((W - tw) / 2, y + bh / 2 - 19), label, fb, (255, 255, 255), 28 * 0.1)
     y += bh + 34
     centered_tracked(y, "LINK IN BIO", font("sans", 23, "SemiBold"), CHARCOAL, 23 * 0.16)
     fi = font("serif-i", 46, "Medium Italic")

@@ -1,0 +1,79 @@
+{
+  "theme": "rose",
+  "category": "Auctions",
+  "duration": 10.0,
+  "decoration": false,
+  "click": false,
+  "still_times": [
+    0,
+    3.0,
+    9.5
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 99,
+      "top": 400,
+      "instant": true,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/auction-truffles.jpg",
+          "height": 300,
+          "focus": 0.5,
+          "gap": 36,
+          "at": 0
+        },
+        {
+          "kind": "headline",
+          "size": 60,
+          "lines": [
+            [
+              "Up for",
+              false
+            ],
+            [
+              "auction.",
+              true
+            ]
+          ],
+          "gap": 28,
+          "at": 0.4
+        },
+        {
+          "kind": "eyebrow",
+          "text": "LIVE NOW, IN THE APP",
+          "rule": true,
+          "gap": 34,
+          "at": 0.9
+        },
+        {
+          "kind": "body",
+          "text": "$100 Tate's Chocolate Gift Card",
+          "size": 36,
+          "gap": 14,
+          "at": 1.3
+        },
+        {
+          "kind": "body",
+          "text": "Starts at 400 coins.",
+          "size": 36,
+          "gap": 14,
+          "at": 1.65
+        },
+        {
+          "kind": "body",
+          "text": "Ends Wednesday, November 11, 10 p.m.",
+          "size": 36,
+          "gap": 14,
+          "at": 2.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 99,
+    "title": "unused",
+    "summary": "unused"
+  }
+}

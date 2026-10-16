@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T22:49:46+00:00",
+ "updatedAt": "2026-10-16T21:07:03+00:00",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -52,14 +52,55 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-10-21",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Auction: $50 Beaumont Bakery & Café gift card",
    "type": "auction",
-   "id": "2026-10-21-auction"
+   "id": "2026-10-21-auction",
+   "caption": "Croissants, brunch and coffee, on us (well, on your coins).\n\nA $50 gift card to Beaumont Bakery & Café, the Millcreek favorite for fresh croissants, brunch and coffee, is up for auction in the app now. Bidding starts at 200 coins.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back.\n\nBidding ends Wednesday, October 28 at 10 p.m. Thank you, Beaumont Café, for donating. Bid in the app, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #SaltLakeCity #Millcreek #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Bid: $50 Beaumont Bakery & Café",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1664139694630-c9eaccd84765. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-21-auction.mp4",
+   "assetName": "FHT_2026-10-21_auction_beaumont-cafe.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-10-21-auction-story.mp4",
+    "assetName": "FHT_2026-10-21_auction-story_beaumont-cafe.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Beaumont Café auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Oct 28, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     },
+     {
+      "label": "Poll question",
+      "value": "Would you bid on this?"
+     },
+     {
+      "label": "Poll answers",
+      "value": "Obviously / Tell me more"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -92,14 +133,55 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-10-25",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Auction: $50 Lehi Roller Mills gift certificate",
    "type": "auction",
-   "id": "2026-10-25-auction"
+   "id": "2026-10-25-auction",
+   "caption": "Baking season is here, and so is this one.\n\nA $50 gift certificate to Lehi Roller Mills, the historic Lehi flour mill and country store famous for its baking mixes, flour and gifts, is up for auction in the app. Bidding starts at 200 coins.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back.\n\nBidding ends Wednesday, November 4 at 10 p.m. Thank you, Lehi Roller Mills, for donating. Bid in the app, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #Lehi #UtahCounty #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Bid: $50 Lehi Roller Mills",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1543157840-e6aaa4dccac5. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-25-auction.mp4",
+   "assetName": "FHT_2026-10-25_auction_lehi-roller-mills.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-10-25-auction-story.mp4",
+    "assetName": "FHT_2026-10-25_auction-story_lehi-roller-mills.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Lehi Roller Mills auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Nov 4, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     },
+     {
+      "label": "Poll question",
+      "value": "Would you bid on this?"
+     },
+     {
+      "label": "Poll answers",
+      "value": "Obviously / Tell me more"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -132,14 +214,47 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-10-28",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Last call: Beaumont Bakery & Café auction ends tonight",
    "type": "auction",
-   "id": "2026-10-28-auction"
+   "id": "2026-10-28-auction",
+   "caption": "Last call! The $50 Beaumont Bakery & Café gift card auction closes tonight at 10 p.m.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back. So a bid costs you nothing unless you win.\n\nThank you, Beaumont Café, for donating. Open the app and place your bid, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #SaltLakeCity #Millcreek #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Last call: Beaumont auction",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1664139694630-c9eaccd84765. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-28-auction.mp4",
+   "assetName": "FHT_2026-10-28_auction_beaumont-cafe.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-10-28-auction-story.mp4",
+    "assetName": "FHT_2026-10-28_auction-story_beaumont-cafe.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Beaumont Café auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Oct 28, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9e-bf2f-71b5-a081-dbe43c6952a7?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -172,14 +287,55 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-11-01",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Auction: $100 Tate's Chocolate gift card",
    "type": "auction",
-   "id": "2026-11-01-auction"
+   "id": "2026-11-01-auction",
+   "caption": "A $100 chocolate fund. Need we say more?\n\nA $100 gift card to Tate's Chocolate is up for auction in the app now. Bidding starts at 400 coins.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back.\n\nBidding ends Wednesday, November 11 at 10 p.m. Thank you, Tate's Chocolate, for donating. Bid in the app, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Bid: $100 Tate's Chocolate",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1566565286951-f81c7ba5619d. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-01-auction.mp4",
+   "assetName": "FHT_2026-11-01_auction_tates-chocolate.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-11-01-auction-story.mp4",
+    "assetName": "FHT_2026-11-01_auction-story_tates-chocolate.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Tate's Chocolate auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Nov 11, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     },
+     {
+      "label": "Poll question",
+      "value": "Would you bid on this?"
+     },
+     {
+      "label": "Poll answers",
+      "value": "Obviously / Tell me more"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -212,14 +368,47 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-11-04",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Last call: Lehi Roller Mills auction ends tonight",
    "type": "auction",
-   "id": "2026-11-04-auction"
+   "id": "2026-11-04-auction",
+   "caption": "Last call! The $50 Lehi Roller Mills gift certificate auction closes tonight at 10 p.m.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back. So a bid costs you nothing unless you win.\n\nThank you, Lehi Roller Mills, for donating. Open the app and place your bid, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #Lehi #UtahCounty #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Last call: Lehi Roller Mills",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1543157840-e6aaa4dccac5. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-04-auction.mp4",
+   "assetName": "FHT_2026-11-04_auction_lehi-roller-mills.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-11-04-auction-story.mp4",
+    "assetName": "FHT_2026-11-04_auction-story_lehi-roller-mills.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Lehi Roller Mills auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Nov 4, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-35d2-728e-9ddf-ae11a5572c05?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -252,14 +441,55 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-11-08",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Auction: electric toothbrush from Stonehaven Dental",
    "type": "auction",
-   "id": "2026-11-08-auction"
+   "id": "2026-11-08-auction",
+   "caption": "Treat yourself to the smallest luxury in your morning routine.\n\nA new electric toothbrush, donated by Stonehaven Dental in Lehi, is up for auction in the app now. Bidding starts at 200 coins.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back.\n\nBidding ends Wednesday, November 11 at 10 p.m. Thank you, Stonehaven Dental, for donating. Bid in the app, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #Lehi #UtahCounty #ShopLocalUtah #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9f-4709-7290-b700-f1612be83d14?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9f-4709-7290-b700-f1612be83d14?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Bid: Stonehaven Dental toothbrush",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1559592892-19db4235d786. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-08-auction.mp4",
+   "assetName": "FHT_2026-11-08_auction_stonehaven-dental.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-11-08-auction-story.mp4",
+    "assetName": "FHT_2026-11-08_auction-story_stonehaven-dental.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Stonehaven Dental auction ends"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Nov 11, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-4709-7290-b700-f1612be83d14?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     },
+     {
+      "label": "Poll question",
+      "value": "Would you bid on this?"
+     },
+     {
+      "label": "Poll answers",
+      "value": "Obviously / Tell me more"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -292,14 +522,51 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on the auction link.",
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Auction feature (item to confirm)",
+   "status": "draft",
+   "title": "Last call: two auctions end tonight",
    "type": "auction",
-   "id": "2026-11-11-auction"
+   "id": "2026-11-11-auction",
+   "caption": "Last call! Two auctions close tonight at 10 p.m.\n\nA $100 Tate's Chocolate gift card, and a new electric toothbrush from Stonehaven Dental.\n\nBid with your coins, not cash. If someone outbids you, your coins come straight back. So a bid costs you nothing unless you win.\n\nThank you, Tate's Chocolate and Stonehaven Dental, for donating. Open the app and place your bid, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FoundHerAuctions #ShopLocalUtah #Lehi #UtahCounty #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=instagram&utm_medium=social&utm_campaign=auctions",
+    "facebook": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=facebook&utm_medium=social&utm_campaign=auctions"
+   },
+   "linktreeTitle": "Last call: 2 auctions tonight",
+   "notes": "Facts from the live auction listing, checked 16 Oct 2026. Two auctions: link goes to the Tate's listing; Stonehaven is https://foundhertribe.app/auctions/01a13d9f-4709-7290-b700-f1612be83d14. PLACEHOLDER PHOTO (free Unsplash license): https://images.unsplash.com/photo-1566565286951-f81c7ba5619d, https://images.unsplash.com/photo-1559592892-19db4235d786. Not the donor's own; swap in a donor photo when one arrives. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-11-auction.mp4",
+   "assetName": "FHT_2026-11-11_auction_tates-chocolate.mp4",
+   "assetType": "video/mp4",
+   "story": {
+    "asset": "assets/2026-11-11-auction-story.mp4",
+    "assetName": "FHT_2026-11-11_auction-story_tates-chocolate.mp4",
+    "how": "In Instagram: upload this as a Story, then add the stickers below in the empty lower half (Countdown first, Link sticker under it). Tap Copy to paste each value.",
+    "stickers": [
+     {
+      "label": "Countdown name",
+      "value": "Auctions close tonight"
+     },
+     {
+      "label": "Countdown ends",
+      "value": "Wed, Nov 11, 10:00 PM"
+     },
+     {
+      "label": "Link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-5844-7306-b00e-52034c7249a1?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     },
+     {
+      "label": "Link sticker text",
+      "value": "Bid now"
+     },
+     {
+      "label": "2nd link sticker URL",
+      "value": "https://foundhertribe.app/auctions/01a13d9f-4709-7290-b700-f1612be83d14?utm_source=instagram&utm_medium=story&utm_campaign=auctions"
+     }
+    ]
+   }
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",

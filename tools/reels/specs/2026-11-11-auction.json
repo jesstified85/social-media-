@@ -1,0 +1,139 @@
+{
+  "theme": "sage",
+  "category": "Auctions",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "photo_source": "PLACEHOLDER: free-license Unsplash photo (unsplash.com/license), not the donor's own. Swap for a donor photo when supplied.",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 90,
+          "lines": [
+            [
+              "Two auctions.",
+              false
+            ],
+            [
+              "One night left.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 470,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "image",
+          "src": "tools/reels/photos/auction-truffles.jpg",
+          "height": 520,
+          "focus": 0.5,
+          "gap": 44
+        },
+        {
+          "kind": "eyebrow",
+          "text": "CLOSING TONIGHT AT 10 P.M.",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "$100 Tate's Chocolate"
+        },
+        {
+          "kind": "bullet",
+          "text": "Electric toothbrush from Stonehaven Dental"
+        },
+        {
+          "kind": "body",
+          "text": "Donated by Tate's Chocolate and Stonehaven Dental.",
+          "size": 36,
+          "at": 1.2
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Outbid?",
+              false
+            ],
+            [
+              "Your coins come",
+              true
+            ],
+            [
+              "straight back.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "So a bid costs you nothing unless you win.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Open the app.",
+              false
+            ],
+            [
+              "Place your bid.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Bidding closes at 10 p.m. tonight.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Two Auctions Close Tonight",
+    "summary": "A $100 Tate's Chocolate gift card and a Stonehaven Dental electric toothbrush. Bidding closes at 10 p.m.",
+    "eyebrow": "LAST CALL, IN THE APP",
+    "button": "BID IN THE APP"
+  }
+}
