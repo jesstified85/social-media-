@@ -1,0 +1,147 @@
+{
+  "theme": "terracotta",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Waiting to be",
+              false
+            ],
+            [
+              "invited into",
+              false
+            ],
+            [
+              "a friend group?",
+              false
+            ],
+            [
+              "Start one.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "YOUR MAYBE FRIENDS LIST",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "The coworker you chat with in the kitchen"
+        },
+        {
+          "kind": "bullet",
+          "text": "A neighbor you keep meaning to talk to"
+        },
+        {
+          "kind": "bullet",
+          "text": "Someone from your gym class or run club"
+        },
+        {
+          "kind": "bullet",
+          "text": "An old friend you drifted from"
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "EASY FIRST PLANS",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "pills",
+          "items": [
+            "Walk and coffee",
+            "Potluck dinner",
+            "Craft night",
+            "Trivia night",
+            "Book club",
+            "Holiday market"
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "Low cost, an activity built in, a natural end time.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "One fun night",
+              false
+            ],
+            [
+              "is a memory.",
+              false
+            ],
+            [
+              "A recurring night",
+              true
+            ],
+            [
+              "is a friend group.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Lock in the next date before you leave.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Start a Friend Group From Scratch as an Adult Woman",
+    "summary": "Who to invite, what to plan first and how to make it stick."
+  }
+}

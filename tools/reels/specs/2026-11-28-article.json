@@ -1,0 +1,141 @@
+{
+  "theme": "terracotta",
+  "category": "Lifestyle",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 86,
+          "lines": [
+            [
+              "Twinkle lights,",
+              false
+            ],
+            [
+              "local makers and",
+              false
+            ],
+            [
+              "something warm",
+              true
+            ],
+            [
+              "in a cup.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "ON THE CALENDAR",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Christkindlmarkt: Dec. 2 to 5"
+        },
+        {
+          "kind": "bullet",
+          "text": "Red Butte Garden art fair: Dec. 5 and 6"
+        },
+        {
+          "kind": "bullet",
+          "text": "Craft Lake City, Sandy: Dec. 12 and 13"
+        },
+        {
+          "kind": "body",
+          "text": "Check each official site before you go.",
+          "size": 36,
+          "at": 1.2
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Pick one",
+              false
+            ],
+            [
+              "anchor market.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Three in one day is how fun turns into tired.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Go once as a group.",
+              false
+            ],
+            [
+              "Then put it on",
+              false
+            ],
+            [
+              "next year's calendar.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Annual traditions keep friendships alive.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Holiday Markets and Craft Fairs in Utah 2026: Plan the Perfect Girls Day Out",
+    "summary": "The markets worth your calendar, plus how to make a day of it with friends."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "theme": "rose",
+  "category": "Mental Health",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Dark by five.",
+              false
+            ],
+            [
+              "Gray for a week.",
+              false
+            ],
+            [
+              "Everyone",
+              false
+            ],
+            [
+              "hibernating.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "CHASE THE LIGHT",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Get outside in the brightest part of the day."
+        },
+        {
+          "kind": "bullet",
+          "text": "Open the blinds first thing."
+        },
+        {
+          "kind": "bullet",
+          "text": "Check the air at air.utah.gov."
+        },
+        {
+          "kind": "bullet",
+          "text": "Head up when the valley is socked in."
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 640,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 84,
+          "lines": [
+            [
+              "Stay connected",
+              false
+            ],
+            [
+              "on purpose.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "A weekly soup night or a Sunday walk takes the planning out of it.",
+          "size": 38
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 76,
+          "lines": [
+            [
+              "Winter in Utah is long.",
+              false
+            ],
+            [
+              "You don't have to",
+              false
+            ],
+            [
+              "spend it alone.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "If it lasts more than two weeks, talk to a health care provider. In distress? Call or text 988.",
+          "size": 34,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Beating the Winter Blues in Utah: Short Days, Inversions and Staying Connected",
+    "summary": "More light, more movement, more friends, and when to get help."
+  }
+}

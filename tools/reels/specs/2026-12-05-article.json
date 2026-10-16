@@ -1,0 +1,145 @@
+{
+  "theme": "rose",
+  "category": "Wellness",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Everyone seems",
+              false
+            ],
+            [
+              "to have grown",
+              false
+            ],
+            [
+              "up on skis.",
+              false
+            ],
+            [
+              "You didn't.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "WOMEN'S CLINICS, 2026-27",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Brighton Women's Workshop"
+        },
+        {
+          "kind": "bullet",
+          "text": "Sundance Ladies' Multi-Week Clinics"
+        },
+        {
+          "kind": "bullet",
+          "text": "Snowbasin Women's Workshop"
+        },
+        {
+          "kind": "body",
+          "text": "Lift tickets are usually extra.",
+          "size": 36,
+          "at": 1.2
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Nobody on the",
+              false
+            ],
+            [
+              "beginner hill",
+              false
+            ],
+            [
+              "is judging you.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Everyone is too busy trying not to fall over.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Book lesson two",
+              false
+            ],
+            [
+              "soon after",
+              false
+            ],
+            [
+              "lesson one.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Lessons close together build confidence faster.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Learning to Ski or Snowboard as an Adult Woman in Utah: Your 2026-27 Beginner's Guide",
+    "summary": "Lessons, women's clinics, budget tips and friends to go with."
+  }
+}

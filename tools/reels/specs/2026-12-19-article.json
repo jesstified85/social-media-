@@ -1,0 +1,135 @@
+{
+  "theme": "rose",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "When she's hurting,",
+              false
+            ],
+            [
+              "the first rule",
+              false
+            ],
+            [
+              "is simple.",
+              false
+            ],
+            [
+              "Show up.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "WHAT TO SAY",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "\"I am so sorry. This is really hard.\""
+        },
+        {
+          "kind": "bullet",
+          "text": "\"I do not know what to say, but I am here.\""
+        },
+        {
+          "kind": "bullet",
+          "text": "\"How is today going for you?\""
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 640,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Comfort in,",
+              false
+            ],
+            [
+              "dump out.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Bring her support, and take your own worries somewhere else.",
+          "size": 38
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Keep showing up",
+              false
+            ],
+            [
+              "after the",
+              false
+            ],
+            [
+              "first week.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Worried about her safety? You can call or text 988, any time.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Support a Friend Going Through a Hard Time: What to Say, What Not to Say and How to Help",
+    "summary": "Words to use, words to skip and real ways to help."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "theme": "sage",
+  "category": "Community",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Moved here for",
+              false
+            ],
+            [
+              "the mountains.",
+              false
+            ],
+            [
+              "Still looking",
+              true
+            ],
+            [
+              "for your people?",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "PLACES TO MEET WOMEN",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "pills",
+          "items": [
+            "Hiking groups",
+            "Pickleball",
+            "Book clubs",
+            "Run clubs",
+            "Volunteering",
+            "Beginner classes"
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "Pick one you can repeat every week or two.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "THE FRIENDSHIP MATH",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "About 50 hours to become casual friends."
+        },
+        {
+          "kind": "bullet",
+          "text": "Around 90 hours to become real friends."
+        },
+        {
+          "kind": "bullet",
+          "text": "More than 200 hours to become close friends."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Friendship is not",
+              false
+            ],
+            [
+              "a lucky spark.",
+              false
+            ],
+            [
+              "It is hours.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "So choose things that repeat.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Make Friends in Utah as a Woman: A Local Guide for Every Season of Life",
+    "summary": "Where women meet friends in Salt Lake and Utah County, and how to make it stick."
+  }
+}

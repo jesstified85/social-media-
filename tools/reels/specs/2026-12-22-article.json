@@ -1,0 +1,144 @@
+{
+  "theme": "terracotta",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "You don't have to",
+              false
+            ],
+            [
+              "pretend to be",
+              false
+            ],
+            [
+              "an extrovert",
+              false
+            ],
+            [
+              "to make friends.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "LOOK FOR SETTINGS THAT ARE",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "pills",
+          "items": [
+            "Small",
+            "Structured",
+            "Recurring"
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "A table of six beats a room of sixty.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "PLAN FOR YOUR SOCIAL ENERGY",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Pick one or two social things a week."
+        },
+        {
+          "kind": "bullet",
+          "text": "Arrive early."
+        },
+        {
+          "kind": "bullet",
+          "text": "Give yourself an exit time."
+        },
+        {
+          "kind": "bullet",
+          "text": "Schedule recovery."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 78,
+          "lines": [
+            [
+              "Most friendships",
+              false
+            ],
+            [
+              "aren't made at",
+              false
+            ],
+            [
+              "the event.",
+              false
+            ],
+            [
+              "They're made after.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Text within a day or two. It's likely more welcome than you think.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Make Friends as an Introvert (Without Pretending to Be an Extrovert)",
+    "summary": "Small, structured, recurring, and a strategy built around how you actually work."
+  }
+}

@@ -9,7 +9,7 @@
     12.8,
     16.0
   ],
-  "photo_source": "Article hero image: https://images.unsplash.com/photo-1761055924354-244f0ca66af2 (Unsplash), as used on the article page",
+  "photo_source": "Article hero image: https://images.unsplash.com/photo-1761055924354-244f0ca66af2 (Unsplash), as used on the article page (photo not used: image host blocked from render environment; text-only layout)",
   "scenes": [
     {
       "start": 0,
@@ -44,19 +44,12 @@
     {
       "start": 3.6,
       "end": 7.4,
-      "top": 470,
+      "top": 640,
       "stagger": 0.4,
       "items": [
         {
-          "kind": "image",
-          "src": "tools/reels/photos/2026-11-03-article.jpg",
-          "height": 560,
-          "focus": 0.45,
-          "gap": 48
-        },
-        {
           "kind": "headline",
-          "size": 70,
+          "size": 80,
           "lines": [
             [
               "You are not behind.",
@@ -67,7 +60,7 @@
               true
             ]
           ],
-          "gap": 36
+          "gap": 56
         },
         {
           "kind": "body",

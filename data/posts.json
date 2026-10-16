@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T02:31:23+00:00",
+ "updatedAt": "2026-10-15T22:49:46+00:00",
  "posts": [
+  {
+   "id": "2026-10-17-article",
+   "date": "2026-10-17",
+   "type": "article",
+   "order": 1,
+   "platform": "Instagram + Facebook",
+   "status": "draft",
+   "title": "Fall Things to Do in Utah With Friends: Corn Mazes, Pumpkin Patches and More",
+   "caption": "Two weeks of peak fall are left in Salt Lake and Utah County. Don't spend them saying \"we should go sometime.\"\n\nOur new guide rounds up fall things to do with friends: corn mazes from Lehi to Spanish Fork, pumpkin patches, Witchfest at Gardner Village, a jack-o-lantern boat ride in Provo, haunted trails for the brave and canyon drives for the rest of us.\n\nMost of the big farms close on or around Halloween, and the Alpine Loop typically closes around November 1.\n\nText your group two dates, not ten: \"Thursday or Saturday?\" Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #UtahFall #CornMaze #PumpkinPatch #SaltLakeCity #UtahCounty #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/fall-activities-utah-friends?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/fall-activities-utah-friends?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Fall Things to Do in Utah With Friends",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-17-article.mp4",
+   "assetName": "FHT_2026-10-17_article_fall-activities-utah-friends.mp4",
+   "assetType": "video/mp4"
+  },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-10-19",
@@ -132,14 +152,24 @@
    "id": "2026-10-30-event"
   },
   {
-   "assetNote": "On hold. The Saying No article is written for moms (mom guilt), so it may belong with MomTribe. Jess to confirm, or swap in another article.",
    "date": "2026-10-31",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article to confirm (Saying No is mom-focused)",
+   "status": "draft",
+   "title": "How to Make Friends in Utah as a Woman: A Local Guide for Every Season of Life",
    "type": "article",
-   "id": "2026-10-31-article"
+   "id": "2026-10-31-article",
+   "caption": "You moved here for the mountains, the job or a fresh start. Or you've lived in Utah your whole life and your friends drifted into different seasons than yours.\n\nOur local guide covers why making friends in Utah can feel harder, 12 places to meet women in Salt Lake County and Utah County, and what to say to go from \"nice to meet you\" to \"see you Thursday.\"\n\nThe friendship math: it takes about 50 hours together to go from acquaintance to casual friend. So choose things that repeat.\n\nFind one thing that meets every week and go twice. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #MakingFriendsAsAnAdult #NewToUtah #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/make-friends-in-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/make-friends-in-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Make Friends in Utah as a Woman",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-10-31-article.mp4",
+   "assetName": "FHT_2026-10-31_article_make-friends-in-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -162,7 +192,6 @@
    "id": "2026-11-02-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-11-03",
    "links": {
     "instagram": "https://foundhertribe.app/article/make-friends-in-your-40s?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -177,7 +206,10 @@
    "caption": "The kids need you less. The work friends scattered. And there's no one to call for tacos on a Friday night.\n\nIf you're trying to make friends in your 40s, you're not behind and you're not broken. It's one of the most common friendship gaps, and nobody talks about it.\n\nOur guide covers why midlife friendship feels harder, and what actually works: recurring plans, going alone, following up and reconnecting.\n\nSend one text to an old friend this week. Then read the guide, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #FriendsInYour40s #MidlifeFriendship #UtahWomen #SaltLakeCity #UtahCounty",
    "linktreeTitle": "How to Make Friends in Your 40s",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-03-article.mp4",
+   "assetName": "FHT_2026-11-03_article_make-friends-in-your-40s.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -200,7 +232,6 @@
    "id": "2026-11-06-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-11-07",
    "links": {
     "instagram": "https://foundhertribe.app/article/run-clubs-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -215,7 +246,10 @@
    "caption": "You don't need to be fast. You barely need to be a runner.\n\nRun clubs and walking clubs have quietly become one of the easiest places to meet people. You show up alone, fall into step with someone, and leave with a few new names in your phone.\n\nOur guide lists clubs to try in Salt Lake County and Utah County, what to expect the first time, and the one habit that turns a group run into real friendships.\n\nPick one run and make it your run. Find a club, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #RunClub #WalkingClub #SaltLakeCity #UtahCounty #UtahWomen",
    "linktreeTitle": "Run Clubs and Walking Clubs in Utah",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-07-article.mp4",
+   "assetName": "FHT_2026-11-07_article_run-clubs-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -238,7 +272,6 @@
    "id": "2026-11-09-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-11-10",
    "links": {
     "instagram": "https://foundhertribe.app/article/host-a-friendsgiving?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -253,7 +286,10 @@
    "caption": "The first rule of hosting a Friendsgiving: nobody is grading the turkey.\n\nYou don't need a big table, matching plates or a long friend list. Everyone pitches in, which makes it the friendliest possible first party.\n\nOur guide has a simple planning timeline, a potluck sign-up system that actually works, budget tips, themes and conversation starters for when the table goes quiet.\n\nPick a date, invite someone newer to your life, and read the guide, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #Friendsgiving #HostingMadeEasy #UtahWomen #SaltLakeCity #UtahCounty",
    "linktreeTitle": "How to Host a Friendsgiving",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-10-article.mp4",
+   "assetName": "FHT_2026-11-10_article_host-a-friendsgiving.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -276,14 +312,24 @@
    "id": "2026-11-13-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-11-14",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "How to Start a Friend Group From Scratch as an Adult Woman",
    "type": "article",
-   "id": "2026-11-14-article"
+   "id": "2026-11-14-article",
+   "caption": "Most friend groups weren't handed down from college. Somebody started them. One woman got tired of waiting, sent a slightly nervous text and kept showing up.\n\nOur guide walks you through starting a friend group from scratch: your list of \"maybe\" friends, easy first plans, how to mix women who don't know each other and how to turn one night into a ritual.\n\nThe women you're hoping will invite you are often hoping someone will invite them.\n\nWrite down six names and send one specific invite this week. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FriendGroup #MakingFriendsAsAnAdult #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/start-a-friend-group?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/start-a-friend-group?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Start a Friend Group",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-14-article.mp4",
+   "assetName": "FHT_2026-11-14_article_start-a-friend-group.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -306,14 +352,24 @@
    "id": "2026-11-16-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-11-17",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "How to Find (or Start) a Book Club in Salt Lake City and Utah County",
    "type": "article",
-   "id": "2026-11-17-article"
+   "id": "2026-11-17-article",
+   "caption": "A book club gives you what most adult friendships are missing: the same women on a regular schedule, plus a built-in topic so you never wonder what to talk about.\n\nOur guide covers where to find a book club in Salt Lake City and Utah County, the free book club kits Utah libraries lend (whole sets of books), and a simple plan for starting your own if nothing fits.\n\nDidn't finish the book? Come anyway. Most clubs would much rather see you than have you skip.\n\nCheck your library's events calendar for a book club this month. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #BookClub #MakingFriendsAsAnAdult #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/book-clubs-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/book-clubs-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Find or Start a Book Club in Utah",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-17-article.mp4",
+   "assetName": "FHT_2026-11-17_article_book-clubs-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -336,7 +392,6 @@
    "id": "2026-11-20-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-11-21",
    "links": {
     "instagram": "https://foundhertribe.app/article/winter-things-to-do-utah-county?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -351,7 +406,10 @@
    "caption": "The fix for a long Utah County winter isn't a new candle. It's a plan with other people on the calendar.\n\nOur guide rounds up the best things to do with friends this winter: snowshoe trails at Sundance, skating at Peaks Ice Arena, bouldering in Lehi, the Thanksgiving Point museums, and one very warm crater in Midway.\n\nIt includes honest notes on drive times, safety and what to book ahead.\n\nPick one outing a month and put a date on it. Read the guide, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #UtahCounty #UtahWinter #ProvoUtah #LehiUtah #UtahWomen",
    "linktreeTitle": "Winter Things to Do in Utah County With Friends",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-21-article.mp4",
+   "assetName": "FHT_2026-11-21_article_winter-things-to-do-utah-county.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -374,14 +432,24 @@
    "id": "2026-11-23-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-11-24",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Volunteering in Utah: The Most Underrated Way to Make Friends",
    "type": "article",
-   "id": "2026-11-24-article"
+   "id": "2026-11-24-article",
+   "caption": "This week is all about gratitude. Here's a way to put it to work, and maybe meet your people too.\n\nVolunteering is one of the most underrated ways to make friends as an adult. You show up with a job to do, so there's no pressure to be charming. And if you go back, you start seeing the same faces.\n\nOur guide covers where to volunteer in Salt Lake County and Utah County, how to bring friends along and how to turn a shift into real friendships.\n\nPick one cause you care about and book a shift. Popular group slots can fill months ahead. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #VolunteerUtah #GivingBack #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/volunteer-in-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/volunteer-in-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Volunteering in Utah to Make Friends",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-24-article.mp4",
+   "assetName": "FHT_2026-11-24_article_volunteer-in-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -405,14 +473,24 @@
    "id": "2026-11-27-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-11-28",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Holiday Markets and Craft Fairs in Utah 2026: Plan the Perfect Girls Day Out",
    "type": "article",
-   "id": "2026-11-28-article"
+   "id": "2026-11-28-article",
+   "caption": "It's Small Business Saturday, and holiday market season is officially here.\n\nOur guide rounds up the holiday markets and craft fairs worth your calendar in Salt Lake and Utah County: Christkindlmarkt at This Is The Place (December 2 to 5), Red Butte Garden's free Holiday Open House and Art Fair (December 5 and 6), the Craft Lake City Holiday Market in Sandy (December 12 and 13), Beehive Bazaar in Provo and plenty of small pop-ups.\n\nPlus how to turn one into a girls day out without anyone getting hangry.\n\nPick one anchor market and send your group the date. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #HolidayMarket #ShopLocal #GirlsDayOut #SaltLakeCity #UtahCounty #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/holiday-markets-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/holiday-markets-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Holiday Markets in Utah 2026",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-11-28-article.mp4",
+   "assetName": "FHT_2026-11-28_article_holiday-markets-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -435,7 +513,6 @@
    "id": "2026-11-30-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-12-01",
    "links": {
     "instagram": "https://foundhertribe.app/article/utah-holiday-lights?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -450,7 +527,10 @@
    "caption": "Christmas lights hit different when you see them with friends.\n\nOur guide covers the holiday light displays along the Wasatch Front worth bundling up for, from Luminaria in Lehi and Temple Square to Christmas in Color, Spanish Fork's Festival of Lights and Ogden's Christmas Village.\n\nPlus how to turn it into a girls' night: buy timed tickets early, book a fire pit if there are four or more of you, and plan dinner before, not after.\n\nPick your night and text the group chat. Read the guide, link in bio.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #UtahChristmasLights #Luminaria #GirlsNightOut #SaltLakeCity #UtahCounty",
    "linktreeTitle": "Utah Christmas Lights 2026 for a Girls' Night",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-01-article.mp4",
+   "assetName": "FHT_2026-12-01_article_utah-holiday-lights.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -473,14 +553,24 @@
    "id": "2026-12-04-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-05",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Learning to Ski or Snowboard as an Adult Woman in Utah: Your 2026-27 Beginner's Guide",
    "type": "article",
-   "id": "2026-12-05-article"
+   "id": "2026-12-05-article",
+   "caption": "Everyone around you seems to have grown up on skis. You didn't. It's not too late.\n\nOur beginner's guide covers how to learn to ski or snowboard as an adult woman in Utah this 2026-27 season: what to book first, women's clinics at Brighton, Sundance and Snowbasin, what your first lesson actually looks like and how to save money (rent before you buy, go on weekdays).\n\nThe women who stick with skiing are usually the ones who have someone to ski with.\n\nAsk one friend to book a beginner lesson with you. Read the full guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #LearnToSki #UtahSkiing #WomenWhoSki #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/learn-to-ski-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/learn-to-ski-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Learn to Ski as an Adult Woman in Utah",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-05-article.mp4",
+   "assetName": "FHT_2026-12-05_article_learn-to-ski-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -503,14 +593,24 @@
    "id": "2026-12-07-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-08",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "How to Keep Friendships Alive When Life Is Busy",
    "type": "article",
-   "id": "2026-12-08-article"
+   "id": "2026-12-08-article",
+   "caption": "This time of year fills up fast, and friends are usually the first thing to slip. Nobody decided to drift apart. Life just got loud.\n\nKeeping friendships alive when you're busy isn't about finding more free time. It's about making friendship fit into the time you already have.\n\nOur guide covers why small moments count more than you think, how one standing ritual keeps you close, how to fold friend time into what you already do, and what to say after a long silence.\n\nSend one two-line text today: \"Saw this and thought of you.\" Then read the guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #AdultFriendship #FriendshipGoals #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/keep-friendships-when-busy?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/keep-friendships-when-busy?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Keep Friendships Alive When Busy",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-08-article.mp4",
+   "assetName": "FHT_2026-12-08_article_keep-friendships-when-busy.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -533,7 +633,6 @@
    "id": "2026-12-11-event"
   },
   {
-   "assetNote": "Reel written. Rendering once the photo is downloaded.",
    "date": "2026-12-12",
    "links": {
     "instagram": "https://foundhertribe.app/article/lonely-during-the-holidays?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -548,7 +647,10 @@
    "caption": "If you feel lonely during the holidays, nothing is wrong with you. You're in very good company.\n\nThe season turns the volume up: new to Utah, grieving, newly divorced, friendships that drifted, family that's complicated. None of it makes you less lovable.\n\nOur guide shares small, kind things to try this week: say yes to one invitation, send three texts, host an orphans' dinner, or volunteer somewhere.\n\nRead the guide, link in bio. And if you're in crisis, call or text 988, any time.\n\nThis is general information, not medical advice.\n\nWhere you find your people.",
    "hashtags": "#FoundHerTribe #FindYourPeople #HolidayLoneliness #YouAreNotAlone #UtahWomen #SaltLakeCity #UtahCounty",
    "linktreeTitle": "Feeling Lonely During the Holidays?",
-   "notes": "Article checked live on 14 Oct 2026. Photo: the article's own Unsplash hero image. Reel is silent; add music in Instagram."
+   "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-12-article.mp4",
+   "assetName": "FHT_2026-12-12_article_lonely-during-the-holidays.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -571,14 +673,24 @@
    "id": "2026-12-14-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-15",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Hot Springs Near Salt Lake City and Utah County: A Girls' Trip Guide",
    "type": "article",
-   "id": "2026-12-15-article"
+   "id": "2026-12-15-article",
+   "caption": "Warm water, cold air and your favorite women. Shoulders drop, phones stay in the bag and the real conversations start.\n\nOur guide covers four hot springs that work for a girls' day or weekend from Salt Lake City and Utah County: Homestead Crater in Midway, Fifth Water in Diamond Fork Canyon, Crystal Hot Springs in Honeyville and Mystic Hot Springs in Monroe.\n\nYou'll find fees, rules, which spring fits your group, and the safety and water quality notes to check before you go.\n\nPick the vibe, book the time slot and send one group text. Read the guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #UtahHotSprings #GirlsTrip #SaltLakeCity #UtahCounty #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/hot-springs-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/hot-springs-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Hot Springs Near SLC and Utah County",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-15-article.mp4",
+   "assetName": "FHT_2026-12-15_article_hot-springs-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -601,14 +713,24 @@
    "id": "2026-12-18-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-19",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "How to Support a Friend Going Through a Hard Time: What to Say, What Not to Say and How to Help",
    "type": "article",
-   "id": "2026-12-19-article"
+   "id": "2026-12-19-article",
+   "caption": "When a friend is hurting, it's easy to freeze, worried you'll say the wrong thing. The first rule is simple: show up.\n\nOur guide covers what to say (\"I do not know what to say, but I am here\" goes a long way), what to skip even with good intentions, and the ring theory of support: comfort in, dump out.\n\nIt also shares specific offers that actually help, and how to keep showing up after the first week. Holidays can be especially tough after a loss or a big life change.\n\nMark one hard date for her on your calendar this week. Read the guide, link in bio. If you're worried about her safety, you can call or text 988, any time.\n\nThis is general information, not medical advice.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #SupportYourFriends #Friendship #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/support-a-friend?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/support-a-friend?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Support a Friend Through a Hard Time",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-19-article.mp4",
+   "assetName": "FHT_2026-12-19_article_support-a-friend.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -631,14 +753,24 @@
    "id": "2026-12-21-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-22",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "How to Make Friends as an Introvert (Without Pretending to Be an Extrovert)",
    "type": "article",
-   "id": "2026-12-22-article"
+   "id": "2026-12-22-article",
+   "caption": "Holiday party season, and you're already calculating how soon you can leave?\n\nIf you want close friends without pretending to be an extrovert, you don't have to become someone else. You just need a strategy built around how you actually work.\n\nOur guide covers the settings that suit you (small, structured, recurring), how to budget your social energy, openers that aren't small talk, and why the follow-up is where introverts shine.\n\nAt your next party, arrive early and give yourself an exit time. Then read the guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #Introvert #MakingFriends #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/make-friends-as-an-introvert?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/make-friends-as-an-introvert?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "How to Make Friends as an Introvert",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-22-article.mp4",
+   "assetName": "FHT_2026-12-22_article_make-friends-as-an-introvert.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -662,15 +794,24 @@
    "id": "2026-12-25-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-26",
-   "notes": "Day after Christmas.",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Girls' Weekend Getaways in Utah: 6 Trips Worth Planning With Your Friends",
    "type": "article",
-   "id": "2026-12-26-article"
+   "id": "2026-12-26-article",
+   "caption": "Christmas is done. Time to put next year's girls' trip on the calendar.\n\nYou don't need a plane ticket for a great girls' weekend. Our guide covers six Utah getaways: Park City, Heber Valley and Midway, St. George, Moab, Bear Lake and Ogden, plus which ones fit each season.\n\nYou'll also find low-budget ideas and how to plan without drama: set the budget before the destination, lock in dates with a quick poll and leave plenty of open time.\n\nAsk your friends privately for a comfortable budget this week. Read the guide, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #GirlsTrip #GirlsWeekend #UtahGetaways #SaltLakeCity #UtahCounty #UtahWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/girls-weekend-getaways-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/girls-weekend-getaways-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Girls' Weekend Getaways in Utah",
+   "asset": "assets/2026-12-26-article.mp4",
+   "assetName": "FHT_2026-12-26_article_girls-weekend-getaways-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -693,14 +834,24 @@
    "id": "2026-12-28-event"
   },
   {
-   "assetNote": "All current FoundHer articles are already scheduled. This slot needs a new article.",
    "date": "2026-12-29",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Article (new article needed)",
+   "status": "draft",
+   "title": "Beating the Winter Blues in Utah: Short Days, Inversions and Staying Connected",
    "type": "article",
-   "id": "2026-12-29-article"
+   "id": "2026-12-29-article",
+   "caption": "Dark when you leave for work. Dark when you get home. Gray for days under the inversion.\n\nIf you feel a little flat, tired or disconnected during a Utah winter, you are far from alone. Our guide covers why winter can hit hard here, simple ways to get more light and movement into your days, and why staying connected with friends matters so much.\n\nIt also explains how to tell when the winter blues might be something more, and when to talk to a health care provider.\n\nPut one standing date with a friend on the calendar. Read the guide, link in bio. If you're in immediate distress, call or text 988.\n\nThis is general information, not medical advice.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #WinterBlues #UtahInversion #YouAreNotAlone #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/winter-blues-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/winter-blues-utah?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Beating the Winter Blues in Utah",
+   "notes": "Article checked live on 15 Oct 2026 (batch 2). Reel is silent; add music in Instagram.",
+   "asset": "assets/2026-12-29-article.mp4",
+   "assetName": "FHT_2026-12-29_article_winter-blues-utah.mp4",
+   "assetType": "video/mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",

@@ -1,0 +1,143 @@
+{
+  "theme": "terracotta",
+  "category": "Relationships",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Nobody decided",
+              false
+            ],
+            [
+              "to drift apart.",
+              false
+            ],
+            [
+              "Life just",
+              false
+            ],
+            [
+              "got loud.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "SMALL MOMENTS COUNT",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "A two-line text."
+        },
+        {
+          "kind": "bullet",
+          "text": "A voice memo on your drive to work."
+        },
+        {
+          "kind": "bullet",
+          "text": "A five-minute call while you fold laundry."
+        },
+        {
+          "kind": "bullet",
+          "text": "A photo that would make her laugh."
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 640,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Friendship needs",
+              false
+            ],
+            [
+              "a little of your time,",
+              false
+            ],
+            [
+              "on repeat.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Try one standing ritual, like dinner the first Tuesday of the month.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 78,
+          "lines": [
+            [
+              "Rituals survive",
+              false
+            ],
+            [
+              "missed weeks.",
+              false
+            ],
+            [
+              "Vague promises do not.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Put it on your calendar like any other appointment.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Keep Friendships Alive When Life Is Busy",
+    "summary": "Small habits, standing rituals and what to say when it has been too long."
+  }
+}

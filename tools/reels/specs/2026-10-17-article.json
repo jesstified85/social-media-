@@ -1,0 +1,143 @@
+{
+  "theme": "terracotta",
+  "category": "Lifestyle",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "Two weeks of",
+              false
+            ],
+            [
+              "peak fall left.",
+              false
+            ],
+            [
+              "Who's coming",
+              true
+            ],
+            [
+              "with you?",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "PICK YOUR FALL VIBE",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "pills",
+          "items": [
+            "Corn mazes",
+            "Pumpkin patches",
+            "Witchfest",
+            "Halloween cruise",
+            "Haunted trails",
+            "Canyon drives"
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "Across Salt Lake and Utah County.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "THE CLOCK IS TICKING",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Most big corn mazes run through October 31."
+        },
+        {
+          "kind": "bullet",
+          "text": "Witchfest runs through October 31."
+        },
+        {
+          "kind": "bullet",
+          "text": "The Alpine Loop typically closes around November 1."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Pick two dates,",
+              false
+            ],
+            [
+              "not ten.",
+              false
+            ],
+            [
+              "\"Thursday or",
+              true
+            ],
+            [
+              "Saturday?\"",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Invite one newer friend. Fall outings are low stakes.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Fall Things to Do in Utah With Friends: Corn Mazes, Pumpkin Patches and More",
+    "summary": "Corn mazes, Witchfest, a jack-o-lantern boat ride and canyon drives, before they close."
+  }
+}

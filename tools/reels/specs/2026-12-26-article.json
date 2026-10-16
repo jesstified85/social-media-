@@ -1,0 +1,143 @@
+{
+  "theme": "sage",
+  "category": "Lifestyle",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 88,
+          "lines": [
+            [
+              "You don't need",
+              false
+            ],
+            [
+              "a plane ticket",
+              false
+            ],
+            [
+              "for a great",
+              false
+            ],
+            [
+              "girls' trip.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "SIX UTAH GETAWAYS",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "pills",
+          "items": [
+            "Park City",
+            "Heber Valley",
+            "St. George",
+            "Moab",
+            "Bear Lake",
+            "Ogden"
+          ],
+          "gap": 40
+        },
+        {
+          "kind": "body",
+          "text": "Pick yours by season.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "PLAN IT WITHOUT DRAMA",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "Set the budget before the destination."
+        },
+        {
+          "kind": "bullet",
+          "text": "Lock in dates with a quick poll."
+        },
+        {
+          "kind": "bullet",
+          "text": "Leave plenty of open time."
+        },
+        {
+          "kind": "bullet",
+          "text": "Plan for quiet time."
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "For two days,",
+              false
+            ],
+            [
+              "you're just you,",
+              false
+            ],
+            [
+              "with your friends.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Put the next trip on the calendar before you drive home.",
+          "size": 36,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "Girls' Weekend Getaways in Utah: 6 Trips Worth Planning With Your Friends",
+    "summary": "Six getaways, which season suits each, and how to plan one without drama."
+  }
+}

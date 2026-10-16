@@ -1,0 +1,147 @@
+{
+  "theme": "sage",
+  "category": "Community",
+  "duration": 16.5,
+  "still_times": [
+    0,
+    5.4,
+    9.4,
+    12.8,
+    16.0
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "top": 640,
+      "instant": true,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 90,
+          "lines": [
+            [
+              "Come for",
+              false
+            ],
+            [
+              "the book.",
+              false
+            ],
+            [
+              "Stay for",
+              true
+            ],
+            [
+              "the women.",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.6,
+      "end": 7.4,
+      "top": 600,
+      "stagger": 0.4,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "WHERE TO FIND ONE",
+          "rule": true,
+          "gap": 46
+        },
+        {
+          "kind": "bullet",
+          "text": "The Salt Lake City Public Library"
+        },
+        {
+          "kind": "bullet",
+          "text": "Salt Lake County Library branches"
+        },
+        {
+          "kind": "bullet",
+          "text": "The King's English Bookshop"
+        },
+        {
+          "kind": "bullet",
+          "text": "Provo City Library"
+        }
+      ]
+    },
+    {
+      "start": 7.4,
+      "end": 11.2,
+      "top": 560,
+      "stagger": 0.45,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "Free book club",
+              false
+            ],
+            [
+              "kits from",
+              false
+            ],
+            [
+              "your library.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Whole sets of books, free with a library card.",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 14.4,
+      "top": 640,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 80,
+          "lines": [
+            [
+              "\"Second Tuesday",
+              false
+            ],
+            [
+              "of every month\"",
+              false
+            ],
+            [
+              "beats a new date",
+              true
+            ],
+            [
+              "every time.",
+              true
+            ]
+          ],
+          "gap": 56
+        },
+        {
+          "kind": "body",
+          "text": "Then invite her for coffee outside of book club.",
+          "size": 38,
+          "at": 1.0
+        }
+      ]
+    }
+  ],
+  "end_card": {
+    "start": 14.0,
+    "title": "How to Find (or Start) a Book Club in Salt Lake City and Utah County",
+    "summary": "Where to find one, free library kits, and how to start your own."
+  }
+}
