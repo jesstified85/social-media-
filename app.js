@@ -1,6 +1,6 @@
 // FoundHer Content Calendar (read-only web version).
 // Posts come from data/posts.json; assets live in /assets. Claude updates both and pushes.
-const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap"};
+const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap",app:"App tutorial"};
 const STATUSES={placeholder:"Placeholder",draft:"Draft",review:"Ready for Jess",approved:"Approved by Jess",posted:"Posted"};
 // Weekly formula: default slot for each weekday (0 = Sunday).
 const SLOT=["auction","event","article","auction","recap","event","article"];

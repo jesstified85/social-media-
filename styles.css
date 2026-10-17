@@ -2,7 +2,7 @@
 :root{
   --bg:#FCF2E8; --surface:#FFFAF5; --fg:#1A1A1A; --muted:#6E5F55; --line:#EADBCD; --accent:#C96532; --accent-fg:#FFFFFF;
   --sel:#F6E2D3; --today-ring:#C96532;
-  --t-event:#C96532; --t-article:#7E9874; --t-auction:#FF6B5B; --t-recap:#C77F87;
+  --t-event:#C96532; --t-article:#7E9874; --t-auction:#FF6B5B; --t-recap:#C77F87; --t-app:#3A332C;
   --s-draft:#8C7D72; --s-review:#C98A1E; --s-approved:#4F7F4A; --s-posted:#2F5E8A;
   --font-display:"Playfair Display",Georgia,"Times New Roman",serif;
   --font-body:"Montserrat",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -10,12 +10,12 @@
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#191513; --surface:#231E1B; --fg:#F4EBE2; --muted:#B4A497; --line:#3A312C; --accent:#E07D49; --accent-fg:#1A1A1A;
   --sel:#352820; --today-ring:#E07D49;
-  --t-event:#E07D49; --t-article:#A6B99C; --t-auction:#FF7B6C; --t-recap:#D79AA0;
+  --t-event:#E07D49; --t-article:#A6B99C; --t-auction:#FF7B6C; --t-recap:#D79AA0; --t-app:#CDBFB3;
   --s-draft:#A89A8F; --s-review:#E2A93F; --s-approved:#7FB27A; --s-posted:#79A9D6; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#191513; --surface:#231E1B; --fg:#F4EBE2; --muted:#B4A497; --line:#3A312C; --accent:#E07D49; --accent-fg:#1A1A1A;
   --sel:#352820; --today-ring:#E07D49;
-  --t-event:#E07D49; --t-article:#A6B99C; --t-auction:#FF7B6C; --t-recap:#D79AA0;
+  --t-event:#E07D49; --t-article:#A6B99C; --t-auction:#FF7B6C; --t-recap:#D79AA0; --t-app:#CDBFB3;
   --s-draft:#A89A8F; --s-review:#E2A93F; --s-approved:#7FB27A; --s-posted:#79A9D6; color-scheme:dark}
 
 *{box-sizing:border-box}
@@ -39,7 +39,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--muted)}
 .legend span{display:inline-flex;align-items:center;gap:6px}
 .dot{width:9px;height:9px;border-radius:50%;display:inline-block;flex:none}
-.d-event{background:var(--t-event)} .d-article{background:var(--t-article)} .d-auction{background:var(--t-auction)} .d-recap{background:var(--t-recap)}
+.d-event{background:var(--t-event)} .d-article{background:var(--t-article)} .d-auction{background:var(--t-auction)} .d-recap{background:var(--t-recap)} .d-app{background:var(--t-app)}
 
 .main{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:20px;align-items:start}
 @media (max-width:900px){.main{grid-template-columns:minmax(0,1fr)}}
