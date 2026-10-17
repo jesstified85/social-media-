@@ -301,12 +301,12 @@ def make_swirl(color, width=420, height=90, stroke=5):
     return im
 
 
-def add_shadow(im, strength=0.55, blur=10, dy=4):
-    """Soft dark halo behind text so it holds up over moving footage."""
+def add_shadow(im, strength=0.55, blur=10, dy=4, color=(20, 12, 8)):
+    """Soft halo behind text so it holds up over moving footage (dark for light text, light for dark text)."""
     from PIL import ImageFilter
     a = im.getchannel("A").filter(ImageFilter.GaussianBlur(blur))
     a = a.point(lambda v: int(v * strength))
-    sh = Image.new("RGBA", im.size, (20, 12, 8, 0))
+    sh = Image.new("RGBA", im.size, tuple(color) + (0,))
     sh.putalpha(a)
     out = Image.new("RGBA", im.size, (0, 0, 0, 0))
     out.alpha_composite(sh, (0, dy))
@@ -341,7 +341,8 @@ def build_scene(scene, theme, shadow=False):
         else:
             raise ValueError(kind)
         if shadow and kind != "image":
-            im = add_shadow(im)
+            light_text = sum(th["fg"]) > 382
+            im = add_shadow(im) if light_text else add_shadow(im, strength=0.85, blur=12, dy=0, color=(255, 248, 240))
         bbox = im.getbbox()
         h = bbox[3] if bbox else im.height
         el = Element(im, 0, y, item.get("at", t))
@@ -466,12 +467,15 @@ class VideoBackground:
     washed with the theme colour so the brand text stays legible.
 
     spec["background_video"] = {"src": "path.mp4", "crop": [x, y, w, h], "start": 0,
-                                "tint": [r, g, b], "tint_alpha": 0.5}
+                                "tint": [r, g, b], "tint_alpha": 0.5, "speed": 1.0}
+    speed < 1 slows the clip down (e.g. 0.7 stretches a 14 s clip to 20 s).
     """
 
     def __init__(self, bg, theme_plate):
         x, y, w, h = bg["crop"]
-        vf = f"crop={w}:{h}:{x}:{y},scale={W}:{H}:flags=lanczos,fps={FPS}"
+        speed = bg.get("speed", 1.0)
+        slow = f"setpts=PTS/{speed}," if speed != 1.0 else ""
+        vf = f"{slow}crop={w}:{h}:{x}:{y},scale={W}:{H}:flags=lanczos,fps={FPS}"
         self.proc = subprocess.Popen(
             ["ffmpeg", "-loglevel", "error", "-ss", str(bg.get("start", 0)), "-i", str(bg["src"]),
              "-vf", vf, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],

@@ -1,5 +1,5 @@
 {
-  "theme": "terracotta",
+  "theme": "sage",
   "category": "Auctions",
   "duration": 10.0,
   "decoration": false,
@@ -13,20 +13,12 @@
     {
       "start": 0,
       "end": 99,
-      "top": 400,
+      "top": 420,
       "instant": true,
       "items": [
         {
-          "kind": "image",
-          "src": "tools/reels/photos/auction-kneading-dough.jpg",
-          "height": 300,
-          "focus": 0.5,
-          "gap": 36,
-          "at": 0
-        },
-        {
           "kind": "headline",
-          "size": 60,
+          "size": 100,
           "lines": [
             [
               "Last call.",
@@ -37,36 +29,40 @@
               true
             ]
           ],
-          "gap": 28,
+          "gap": 50,
           "at": 0.4
         },
         {
           "kind": "eyebrow",
           "text": "LAST CALL",
           "rule": true,
-          "gap": 34,
-          "at": 0.9
+          "gap": 40,
+          "at": 0.9,
+          "size": 30
         },
         {
           "kind": "body",
           "text": "$50 Lehi Roller Mills Gift Certificate",
-          "size": 36,
-          "gap": 14,
-          "at": 1.3
+          "size": 42,
+          "gap": 16,
+          "at": 1.3,
+          "weight": "SemiBold"
         },
         {
           "kind": "body",
           "text": "Donated by Lehi Roller Mills.",
-          "size": 36,
-          "gap": 14,
-          "at": 1.65
+          "size": 42,
+          "gap": 16,
+          "at": 1.65,
+          "weight": "SemiBold"
         },
         {
           "kind": "body",
           "text": "Bidding closes at 10 p.m.",
-          "size": 36,
-          "gap": 14,
-          "at": 2.0
+          "size": 42,
+          "gap": 16,
+          "at": 2.0,
+          "weight": "SemiBold"
         }
       ]
     }
@@ -75,5 +71,24 @@
     "start": 99,
     "title": "unused",
     "summary": "unused"
+  },
+  "text_shadow": true,
+  "background_video": {
+    "src": "tools/reels/media/motionarray-478019-kneading-dough.mp4",
+    "crop": [
+      800,
+      0,
+      608,
+      1080
+    ],
+    "speed": 1.0,
+    "tint_alpha": 0.74,
+    "source": "Motion Array: Kneading Dough by Avi Meshulam (478019)"
+  },
+  "audio": {
+    "src": "tools/reels/media/motionarray-12713-ukulele-whistle-40s.wav",
+    "volume": 0.85,
+    "fade_out": 1.2,
+    "source": "Ukulele Whistle by SixideBeats (12713), 40 s version, not Content ID registered"
   }
 }

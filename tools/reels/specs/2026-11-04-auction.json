@@ -1,25 +1,26 @@
 {
-  "theme": "terracotta",
+  "theme": "sage",
   "category": "Auctions",
-  "duration": 16.5,
+  "duration": 19.5,
   "still_times": [
     0,
     5.4,
     9.4,
     12.8,
-    16.0
+    15.0,
+    19.2
   ],
-  "photo_source": "PLACEHOLDER: free-license Unsplash photo (unsplash.com/license), not the donor's own. Swap for a donor photo when supplied.",
+  "photo_source": "Background footage: Motion Array: Kneading Dough by Avi Meshulam (478019)",
   "scenes": [
     {
       "start": 0,
       "end": 3.6,
-      "top": 640,
+      "top": 560,
       "instant": true,
       "items": [
         {
           "kind": "headline",
-          "size": 90,
+          "size": 115,
           "lines": [
             [
               "Last call.",
@@ -33,49 +34,46 @@
               "tonight.",
               true
             ]
-          ]
+          ],
+          "gap": 56
         }
       ]
     },
     {
       "start": 3.6,
       "end": 7.4,
-      "top": 470,
+      "top": 520,
       "stagger": 0.4,
       "items": [
-        {
-          "kind": "image",
-          "src": "tools/reels/photos/auction-kneading-dough.jpg",
-          "height": 520,
-          "focus": 0.5,
-          "gap": 44
-        },
         {
           "kind": "eyebrow",
           "text": "CLOSING TONIGHT AT 10 P.M.",
           "rule": true,
-          "gap": 46
+          "gap": 52,
+          "size": 34
         },
         {
           "kind": "bullet",
-          "text": "$50 Lehi Roller Mills"
+          "text": "$50 Lehi Roller Mills",
+          "size": 48
         },
         {
           "kind": "body",
           "text": "Donated by Lehi Roller Mills.",
-          "size": 36,
-          "at": 1.2
+          "size": 46,
+          "at": 1.2,
+          "weight": "SemiBold"
         }
       ]
     },
     {
       "start": 7.4,
       "end": 11.2,
-      "top": 640,
+      "top": 520,
       "items": [
         {
           "kind": "headline",
-          "size": 80,
+          "size": 102,
           "lines": [
             [
               "Outbid?",
@@ -95,19 +93,20 @@
         {
           "kind": "body",
           "text": "So a bid costs you nothing unless you win.",
-          "size": 38,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     },
     {
       "start": 11.2,
       "end": 14.4,
-      "top": 640,
+      "top": 560,
       "items": [
         {
           "kind": "headline",
-          "size": 80,
+          "size": 102,
           "lines": [
             [
               "Open the app.",
@@ -123,8 +122,9 @@
         {
           "kind": "body",
           "text": "Bidding closes at 10 p.m. tonight.",
-          "size": 38,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     }
@@ -135,5 +135,24 @@
     "summary": "Bidding closes tonight at 10 p.m. Donated by Lehi Roller Mills.",
     "eyebrow": "LAST CALL, IN THE APP",
     "button": "BID IN THE APP"
+  },
+  "text_shadow": true,
+  "background_video": {
+    "src": "tools/reels/media/motionarray-478019-kneading-dough.mp4",
+    "crop": [
+      800,
+      0,
+      608,
+      1080
+    ],
+    "speed": 1.0,
+    "tint_alpha": 0.74,
+    "source": "Motion Array: Kneading Dough by Avi Meshulam (478019)"
+  },
+  "audio": {
+    "src": "tools/reels/media/motionarray-12713-ukulele-whistle-40s.wav",
+    "volume": 0.85,
+    "fade_out": 1.8,
+    "source": "Ukulele Whistle by SixideBeats (12713), 40 s version, not Content ID registered"
   }
 }

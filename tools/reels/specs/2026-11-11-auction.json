@@ -1,25 +1,26 @@
 {
-  "theme": "sage",
+  "theme": "terracotta",
   "category": "Auctions",
-  "duration": 16.5,
+  "duration": 19.5,
   "still_times": [
     0,
     5.4,
     9.4,
     12.8,
-    16.0
+    15.0,
+    19.2
   ],
-  "photo_source": "PLACEHOLDER: free-license Unsplash photo (unsplash.com/license), not the donor's own. Swap for a donor photo when supplied.",
+  "photo_source": "Background footage: Motion Array: Chocolate Truffles by Heinz Baumann Photography (421044)",
   "scenes": [
     {
       "start": 0,
       "end": 3.6,
-      "top": 640,
+      "top": 560,
       "instant": true,
       "items": [
         {
           "kind": "headline",
-          "size": 90,
+          "size": 115,
           "lines": [
             [
               "Two auctions.",
@@ -29,53 +30,51 @@
               "One night left.",
               true
             ]
-          ]
+          ],
+          "gap": 56
         }
       ]
     },
     {
       "start": 3.6,
       "end": 7.4,
-      "top": 470,
+      "top": 520,
       "stagger": 0.4,
       "items": [
-        {
-          "kind": "image",
-          "src": "tools/reels/photos/auction-truffles.jpg",
-          "height": 520,
-          "focus": 0.5,
-          "gap": 44
-        },
         {
           "kind": "eyebrow",
           "text": "CLOSING TONIGHT AT 10 P.M.",
           "rule": true,
-          "gap": 46
+          "gap": 52,
+          "size": 34
         },
         {
           "kind": "bullet",
-          "text": "$100 Tate's Chocolate"
+          "text": "$100 Tate's Chocolate",
+          "size": 48
         },
         {
           "kind": "bullet",
-          "text": "Electric toothbrush from Stonehaven Dental"
+          "text": "Electric toothbrush from Stonehaven Dental",
+          "size": 48
         },
         {
           "kind": "body",
           "text": "Donated by Tate's Chocolate and Stonehaven Dental.",
-          "size": 36,
-          "at": 1.2
+          "size": 46,
+          "at": 1.2,
+          "weight": "SemiBold"
         }
       ]
     },
     {
       "start": 7.4,
       "end": 11.2,
-      "top": 640,
+      "top": 520,
       "items": [
         {
           "kind": "headline",
-          "size": 80,
+          "size": 102,
           "lines": [
             [
               "Outbid?",
@@ -95,19 +94,20 @@
         {
           "kind": "body",
           "text": "So a bid costs you nothing unless you win.",
-          "size": 38,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     },
     {
       "start": 11.2,
       "end": 14.4,
-      "top": 640,
+      "top": 560,
       "items": [
         {
           "kind": "headline",
-          "size": 80,
+          "size": 102,
           "lines": [
             [
               "Open the app.",
@@ -123,8 +123,9 @@
         {
           "kind": "body",
           "text": "Bidding closes at 10 p.m. tonight.",
-          "size": 38,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     }
@@ -135,5 +136,24 @@
     "summary": "A $100 Tate's Chocolate gift card and a Stonehaven Dental electric toothbrush. Bidding closes at 10 p.m.",
     "eyebrow": "LAST CALL, IN THE APP",
     "button": "BID IN THE APP"
+  },
+  "text_shadow": true,
+  "background_video": {
+    "src": "tools/reels/media/motionarray-421044-chocolate-truffles.mp4",
+    "crop": [
+      656,
+      0,
+      608,
+      1080
+    ],
+    "speed": 0.82,
+    "tint_alpha": 0.64,
+    "source": "Motion Array: Chocolate Truffles by Heinz Baumann Photography (421044)"
+  },
+  "audio": {
+    "src": "tools/reels/media/motionarray-12713-ukulele-whistle-40s.wav",
+    "volume": 0.85,
+    "fade_out": 1.8,
+    "source": "Ukulele Whistle by SixideBeats (12713), 40 s version, not Content ID registered"
   }
 }

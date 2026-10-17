@@ -1,25 +1,26 @@
 {
   "theme": "terracotta",
   "category": "Auctions",
-  "duration": 16.5,
+  "duration": 19.5,
   "still_times": [
     0,
     5.4,
     9.4,
     12.8,
-    16.0
+    15.0,
+    19.2
   ],
-  "photo_source": "PLACEHOLDER: free-license Unsplash photo (unsplash.com/license), not the donor's own. Swap for a donor photo when supplied.",
+  "photo_source": "Background footage: Motion Array: Coffee And Croissant by DCStudio (173995)",
   "scenes": [
     {
       "start": 0,
       "end": 3.6,
-      "top": 640,
+      "top": 560,
       "instant": true,
       "items": [
         {
           "kind": "headline",
-          "size": 90,
+          "size": 113,
           "lines": [
             [
               "Your next brunch",
@@ -33,32 +34,27 @@
               "your coins.",
               true
             ]
-          ]
+          ],
+          "gap": 56
         }
       ]
     },
     {
       "start": 3.6,
       "end": 7.4,
-      "top": 400,
+      "top": 520,
       "stagger": 0.4,
       "items": [
-        {
-          "kind": "image",
-          "src": "tools/reels/photos/auction-coffee-croissant.jpg",
-          "height": 520,
-          "focus": 0.45,
-          "gap": 44
-        },
         {
           "kind": "eyebrow",
           "text": "UP FOR AUCTION",
           "rule": true,
-          "gap": 40
+          "gap": 52,
+          "size": 34
         },
         {
           "kind": "headline",
-          "size": 76,
+          "size": 97,
           "lines": [
             [
               "A $50 gift card to",
@@ -73,50 +69,55 @@
               true
             ]
           ],
-          "gap": 40
+          "gap": 56
         },
         {
           "kind": "body",
           "text": "Value $50. Donated by Beaumont Café.",
-          "size": 36,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     },
     {
       "start": 7.4,
       "end": 11.2,
-      "top": 600,
+      "top": 520,
       "stagger": 0.45,
       "items": [
         {
           "kind": "eyebrow",
           "text": "HOW TO BID",
           "rule": true,
-          "gap": 46
+          "gap": 52,
+          "size": 34
         },
         {
           "kind": "bullet",
-          "text": "Bid with coins, not cash."
+          "text": "Bid with coins, not cash.",
+          "size": 48
         },
         {
           "kind": "bullet",
-          "text": "Bidding starts at 200 coins."
+          "text": "Bidding starts at 200 coins.",
+          "size": 48
         },
         {
           "kind": "bullet",
-          "text": "Outbid? Your coins come straight back."
+          "text": "Outbid? Your coins come straight back.",
+          "size": 48
         }
       ]
     },
     {
       "start": 11.2,
       "end": 14.4,
-      "top": 640,
+      "top": 560,
       "items": [
         {
           "kind": "headline",
-          "size": 80,
+          "size": 102,
           "lines": [
             [
               "Bidding ends",
@@ -136,8 +137,9 @@
         {
           "kind": "body",
           "text": "Thank you, Beaumont Café.",
-          "size": 38,
-          "at": 1.0
+          "size": 46,
+          "at": 1.0,
+          "weight": "SemiBold"
         }
       ]
     }
@@ -148,5 +150,24 @@
     "summary": "Donated by Beaumont Café. Bidding ends Wednesday, October 28 at 10 p.m.",
     "eyebrow": "LIVE NOW, IN THE APP",
     "button": "BID IN THE APP"
+  },
+  "text_shadow": true,
+  "background_video": {
+    "src": "tools/reels/media/motionarray-173995-coffee-croissant.mp4",
+    "crop": [
+      760,
+      0,
+      608,
+      1080
+    ],
+    "speed": 0.7,
+    "tint_alpha": 0.64,
+    "source": "Motion Array: Coffee And Croissant by DCStudio (173995)"
+  },
+  "audio": {
+    "src": "tools/reels/media/motionarray-12713-ukulele-whistle-40s.wav",
+    "volume": 0.85,
+    "fade_out": 1.8,
+    "source": "Ukulele Whistle by SixideBeats (12713), 40 s version, not Content ID registered"
   }
 }
