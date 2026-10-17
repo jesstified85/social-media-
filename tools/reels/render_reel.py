@@ -301,7 +301,20 @@ def make_swirl(color, width=420, height=90, stroke=5):
     return im
 
 
-def build_scene(scene, theme):
+def add_shadow(im, strength=0.55, blur=10, dy=4):
+    """Soft dark halo behind text so it holds up over moving footage."""
+    from PIL import ImageFilter
+    a = im.getchannel("A").filter(ImageFilter.GaussianBlur(blur))
+    a = a.point(lambda v: int(v * strength))
+    sh = Image.new("RGBA", im.size, (20, 12, 8, 0))
+    sh.putalpha(a)
+    out = Image.new("RGBA", im.size, (0, 0, 0, 0))
+    out.alpha_composite(sh, (0, dy))
+    out.alpha_composite(im)
+    return out
+
+
+def build_scene(scene, theme, shadow=False):
     """Turn a scene spec into positioned Elements."""
     th = THEMES[theme]
     els = []
@@ -313,19 +326,22 @@ def build_scene(scene, theme):
         if kind == "headline":
             im = make_headline(item["lines"], item.get("size", 96), th["fg"])
         elif kind == "body":
-            im = make_body(item["text"], item.get("size", 36), th["fg"])
+            im = make_body(item["text"], item.get("size", 36), th["fg"], weight=item.get("weight", "Regular"))
         elif kind == "eyebrow":
-            im = make_eyebrow(item["text"], th["soft"], th["line"] if item.get("rule") else None)
+            im = make_eyebrow(item["text"], th["fg"] if shadow else th["soft"], th["line"] if item.get("rule") else None,
+                              size=item.get("size", 24))
         elif kind == "bullet":
-            im = make_bullet(item["text"], th["fg"], th["dot"])
+            im = make_bullet(item["text"], th["fg"], th["dot"], size=item.get("size", 36))
         elif kind == "pills":
-            im = make_pills(item["items"], th["fg"])
+            im = make_pills(item["items"], th["fg"], size=item.get("size", 32))
         elif kind == "swirl":
             im = make_swirl(th["dot"], item.get("width", 420))
         elif kind == "image":
             im = make_image(item["src"], item.get("height", 620), item.get("radius", 28), item.get("focus", 0.5))
         else:
             raise ValueError(kind)
+        if shadow and kind != "image":
+            im = add_shadow(im)
         bbox = im.getbbox()
         h = bbox[3] if bbox else im.height
         el = Element(im, 0, y, item.get("at", t))
@@ -444,13 +460,68 @@ def ease(x):
     return 1 - (1 - x) ** 3
 
 
+
+class VideoBackground:
+    """Optional moving background: a stock clip cropped to 9:16, scaled to 1080x1920 and
+    washed with the theme colour so the brand text stays legible.
+
+    spec["background_video"] = {"src": "path.mp4", "crop": [x, y, w, h], "start": 0,
+                                "tint": [r, g, b], "tint_alpha": 0.5}
+    """
+
+    def __init__(self, bg, theme_plate):
+        x, y, w, h = bg["crop"]
+        vf = f"crop={w}:{h}:{x}:{y},scale={W}:{H}:flags=lanczos,fps={FPS}"
+        self.proc = subprocess.Popen(
+            ["ffmpeg", "-loglevel", "error", "-ss", str(bg.get("start", 0)), "-i", str(bg["src"]),
+             "-vf", vf, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
+            stdout=subprocess.PIPE, stderr=subprocess.DEVNULL)
+        tint = tuple(bg.get("tint") or theme_plate.convert("RGB").getpixel((40, 40)))
+        a = int(255 * bg.get("tint_alpha", 0.5))
+        # Even wash plus a heavier band behind the text zone (top two thirds).
+        self.wash = Image.new("RGBA", (W, H), tint + (a,))
+        grad = Image.new("L", (1, H))
+        for yy in range(H):
+            k = max(0.0, 1 - yy / (H * 0.8))
+            grad.putpixel((0, yy), int(70 * k))
+        band = Image.new("RGBA", (W, H), tint + (0,))
+        band.putalpha(grad.resize((W, H)))
+        self.wash.alpha_composite(band)
+        self.last = None
+
+    def frame(self):
+        raw = self.proc.stdout.read(W * H * 3)
+        if len(raw) == W * H * 3:
+            self.last = Image.frombytes("RGB", (W, H), raw).convert("RGBA")
+            self.last.alpha_composite(self.wash)
+        return self.last.copy()
+
+    def close(self):
+        # The clip may run longer than the Reel; stop the decoder quietly.
+        self.proc.terminate()
+        self.proc.stdout.close()
+        self.proc.wait()
+
+
+def add_audio(video, audio, out, duration):
+    """Mux a music track under the silent render, faded out at the end."""
+    src = audio["src"]
+    vol = audio.get("volume", 1.0)
+    fade = audio.get("fade_out", 1.2)
+    start = audio.get("start", 0)
+    af = f"volume={vol},afade=t=in:d=0.15,afade=t=out:st={max(0, duration - fade):.2f}:d={fade:.2f}"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", video, "-ss", str(start), "-i", str(src),
+                    "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-af", af, "-c:a", "aac", "-b:a", "192k",
+                    "-t", f"{duration:.3f}", "-movflags", "+faststart", out], check=True)
+
+
 def render(spec, out, stills=None):
     theme = spec["theme"]
     plate = Image.open(PLATES / THEMES[theme]["plate"]).convert("RGBA")
     label = build_label(theme, spec["category"])
     scenes = []
     for sc in spec["scenes"]:
-        scenes.append((sc["start"], sc["end"], build_scene(sc, theme), sc.get("instant", False)))
+        scenes.append((sc["start"], sc["end"], build_scene(sc, theme, spec.get("text_shadow", False)), sc.get("instant", False)))
     end_start = spec["end_card"]["start"]
     end_img, button = build_end_card(spec["end_card"])
     total = spec["duration"]
@@ -461,14 +532,18 @@ def render(spec, out, stills=None):
     floaters = Floaters(THEMES[theme]["deco"], seed)
     end_floaters = Floaters((215, 154, 160), seed + "-end", count=7, x_range=(90, 990), y_range=(1590, 1900), max_alpha=0.45)
 
+    bgv = spec.get("background_video")
+    video_bg = VideoBackground(bgv, plate) if bgv else None
+    audio = spec.get("audio")
+    silent_out = out + ".silent.mp4" if audio else out
     proc = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
          "-r", str(FPS), "-i", "-", "-an", "-c:v", "libx264", "-preset", "slow", "-crf", "17",
-         "-pix_fmt", "yuv420p", "-movflags", "+faststart", out],
+         "-pix_fmt", "yuv420p", "-movflags", "+faststart", silent_out],
         stdin=subprocess.PIPE)
     for n in range(nframes):
         t = n / FPS
-        frame = plate.copy()
+        frame = video_bg.frame() if video_bg else plate.copy()
         if deco_on:
             floaters.draw(frame, t)
         frame.alpha_composite(label.img, (0, label.y))
@@ -510,6 +585,11 @@ def render(spec, out, stills=None):
     proc.stdin.close()
     if proc.wait() != 0:
         raise SystemExit("ffmpeg failed")
+    if video_bg:
+        video_bg.close()
+    if audio:
+        add_audio(silent_out, audio, out, total)
+        Path(silent_out).unlink()
 
 
 if __name__ == "__main__":

@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Licensed stock (Motion Array): keep sources out of the repo
+tools/reels/media/

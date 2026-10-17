@@ -23,3 +23,10 @@ Decoration (on by default): small hearts drift up through the lower corner, and 
 cursor clicks READ IT IN THE APP. (A `{"kind": "swirl"}` item exists but Jess asked not to use swirls.) Turn off with `"decoration": false` or `"click": false` in the spec.
 
 Text rules: only words that come from the article, second person, no em dashes.
+
+Footage and music (optional): add to a spec
+`"background_video": {"src": "tools/reels/media/<clip>.mp4", "crop": [x, y, w, h], "tint_alpha": 0.64}`
+(crop a 9:16 window from the source; the theme colour is washed over it so text stays legible) and
+`"audio": {"src": "tools/reels/media/<track>.wav", "volume": 0.9, "fade_out": 1.0}`.
+Sources come from FoundHer's Motion Array account and stay in `tools/reels/media/`, which is git-ignored
+(licensed stock is not redistributed through the repo). Prefer tracks that are not Content ID registered.
