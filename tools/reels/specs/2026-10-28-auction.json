@@ -1,112 +1,179 @@
 {
   "theme": "rose",
   "category": "Auctions",
-  "duration": 19.5,
+  "duration": 31.0,
   "still_times": [
-    0,
-    5.4,
-    9.4,
-    12.8,
-    15.0,
-    19.2
+    0.2,
+    7.5,
+    12.5,
+    17.5,
+    22.5,
+    30.5
   ],
-  "photo_source": "Background footage: Motion Array: Coffee And Croissant by DCStudio (173995)",
+  "text_panel": {
+    "alpha": 0.9,
+    "pad": 52
+  },
+  "background_video": {
+    "src": "tools/reels/media/motionarray-421044-chocolate-truffles.mp4",
+    "crop": [
+      656,
+      0,
+      608,
+      1080
+    ],
+    "speed": 0.6,
+    "tint_alpha": 0.5,
+    "source": "Motion Array: Chocolate Truffles by Heinz Baumann Photography (421044)"
+  },
+  "audio": {
+    "src": "tools/reels/media/foundher-music-auctions.wav",
+    "volume": 0.6,
+    "fade_out": 2.5,
+    "source": "FoundHer auction background music (made in OpenArt for FoundHer)"
+  },
+  "photo_source": "Background footage: Motion Array, Chocolate Truffles by Heinz Baumann Photography (421044)",
   "scenes": [
     {
-      "start": 0,
-      "end": 3.6,
-      "top": 560,
-      "instant": true,
+      "start": 0.0,
+      "end": 5.0,
+      "top": 600,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "headline",
-          "size": 115,
+          "size": 104,
           "lines": [
             [
-              "Last call.",
+              "A $100",
               false
             ],
             [
-              "Bidding ends",
+              "chocolate fund.",
               true
             ],
             [
-              "tonight.",
+              "Need we say more?",
+              false
+            ]
+          ],
+          "gap": 48
+        }
+      ],
+      "instant": true
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "top": 520,
+      "stagger": 0.6,
+      "items": [
+        {
+          "kind": "eyebrow",
+          "text": "UP FOR AUCTION",
+          "rule": true,
+          "gap": 44,
+          "size": 34
+        },
+        {
+          "kind": "headline",
+          "size": 100,
+          "lines": [
+            [
+              "A $100 gift card",
+              false
+            ],
+            [
+              "to Tate's",
+              true
+            ],
+            [
+              "Chocolate.",
               true
             ]
           ],
-          "gap": 56
+          "gap": 48
+        },
+        {
+          "kind": "body",
+          "text": "Worth $100. Bidding starts at 400 coins.",
+          "size": 48,
+          "weight": "SemiBold",
+          "gap": 30,
+          "at": 1.2
         }
       ]
     },
     {
-      "start": 3.6,
-      "end": 7.4,
+      "start": 10.0,
+      "end": 15.0,
+      "top": 600,
+      "stagger": 0.6,
+      "items": [
+        {
+          "kind": "headline",
+          "size": 104,
+          "lines": [
+            [
+              "Shared with love",
+              false
+            ],
+            [
+              "from our sponsors",
+              true
+            ]
+          ],
+          "gap": 48
+        },
+        {
+          "kind": "body",
+          "text": "at Tate's Chocolate.",
+          "size": 54,
+          "weight": "SemiBold",
+          "gap": 30,
+          "at": 1.0
+        }
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
       "top": 520,
-      "stagger": 0.4,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "eyebrow",
-          "text": "CLOSING TONIGHT AT 10 P.M.",
+          "text": "HOW TO BID",
           "rule": true,
-          "gap": 52,
+          "gap": 44,
           "size": 34
         },
         {
           "kind": "bullet",
-          "text": "$50 Beaumont Bakery & Café",
-          "size": 48
+          "text": "Bid with your coins, not cash.",
+          "size": 50
         },
         {
-          "kind": "body",
-          "text": "Donated by Beaumont Café.",
-          "size": 46,
-          "at": 1.2,
-          "weight": "SemiBold"
+          "kind": "bullet",
+          "text": "Outbid? Your coins come straight back.",
+          "size": 50
+        },
+        {
+          "kind": "bullet",
+          "text": "Bidders stay anonymous.",
+          "size": 50
         }
       ]
     },
     {
-      "start": 7.4,
-      "end": 11.2,
-      "top": 520,
+      "start": 20.0,
+      "end": 25.0,
+      "top": 600,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "headline",
-          "size": 102,
-          "lines": [
-            [
-              "Outbid?",
-              false
-            ],
-            [
-              "Your coins come",
-              true
-            ],
-            [
-              "straight back.",
-              true
-            ]
-          ],
-          "gap": 56
-        },
-        {
-          "kind": "body",
-          "text": "So a bid costs you nothing unless you win.",
-          "size": 46,
-          "at": 1.0,
-          "weight": "SemiBold"
-        }
-      ]
-    },
-    {
-      "start": 11.2,
-      "end": 14.4,
-      "top": 560,
-      "items": [
-        {
-          "kind": "headline",
-          "size": 102,
+          "size": 118,
           "lines": [
             [
               "Open the app.",
@@ -117,42 +184,24 @@
               true
             ]
           ],
-          "gap": 56
+          "gap": 48
         },
         {
           "kind": "body",
-          "text": "Bidding closes at 10 p.m. tonight.",
-          "size": 46,
-          "at": 1.0,
-          "weight": "SemiBold"
+          "text": "Link in bio.",
+          "size": 48,
+          "weight": "SemiBold",
+          "gap": 30,
+          "at": 1.0
         }
       ]
     }
   ],
   "end_card": {
-    "start": 14.0,
-    "title": "$50 Beaumont Bakery & Café Gift Card",
-    "summary": "Bidding closes tonight at 10 p.m. Donated by Beaumont Café.",
-    "eyebrow": "LAST CALL, IN THE APP",
+    "start": 25.0,
+    "title": "$100 Tate's Chocolate Gift Card",
+    "summary": "Shared with love from our sponsors at Tate's Chocolate.",
+    "eyebrow": "LIVE NOW, IN THE APP",
     "button": "BID IN THE APP"
-  },
-  "text_shadow": true,
-  "background_video": {
-    "src": "tools/reels/media/motionarray-173995-coffee-croissant.mp4",
-    "crop": [
-      760,
-      0,
-      608,
-      1080
-    ],
-    "speed": 0.7,
-    "tint_alpha": 0.74,
-    "source": "Motion Array: Coffee And Croissant by DCStudio (173995)"
-  },
-  "audio": {
-    "src": "tools/reels/media/motionarray-12713-ukulele-whistle-40s.wav",
-    "volume": 0.85,
-    "fade_out": 1.8,
-    "source": "Ukulele Whistle by SixideBeats (12713), 40 s version, not Content ID registered"
   }
 }

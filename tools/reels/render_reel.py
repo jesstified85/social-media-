@@ -314,8 +314,12 @@ def add_shadow(im, strength=0.55, blur=10, dy=4, color=(20, 12, 8)):
     return out
 
 
-def build_scene(scene, theme, shadow=False):
-    """Turn a scene spec into positioned Elements."""
+def build_scene(scene, theme, shadow=False, panel=None):
+    """Turn a scene spec into positioned Elements.
+
+    panel: optional {"alpha": 0.9, "pad": 52} draws a solid rounded panel in the theme colour
+    behind the scene's text, so it reads cleanly over footage.
+    """
     th = THEMES[theme]
     els = []
     y = scene.get("top", 640)
@@ -351,6 +355,16 @@ def build_scene(scene, theme, shadow=False):
         y += h + item.get("gap", 34)
         t += stagger
     assert y <= SAFE_BOT, f"scene content runs below the 4:5 crop (y={y})"
+    if panel and els:
+        pad = panel.get("pad", 52)
+        top = scene.get("top", 640) - pad
+        bottom = max(e.y + (e.img.getbbox() or (0, 0, 0, e.img.height))[3] for e in els) + pad
+        colour = Image.open(PLATES / th["plate"]).convert("RGB").getpixel((40, 40))
+        im = Image.new("RGBA", (W, bottom - top), (0, 0, 0, 0))
+        ImageDraw.Draw(im).rounded_rectangle((MARGIN - pad, 0, W - MARGIN + pad, bottom - top - 1), radius=44,
+                                             fill=colour + (int(255 * panel.get("alpha", 0.9)),))
+        bg = Element(im, 0, top, 0)
+        els.insert(0, bg)
     return els
 
 
@@ -525,7 +539,8 @@ def render(spec, out, stills=None):
     label = build_label(theme, spec["category"])
     scenes = []
     for sc in spec["scenes"]:
-        scenes.append((sc["start"], sc["end"], build_scene(sc, theme, spec.get("text_shadow", False)), sc.get("instant", False)))
+        scenes.append((sc["start"], sc["end"], build_scene(sc, theme, spec.get("text_shadow", False), spec.get("text_panel")),
+                       sc.get("instant", False)))
     end_start = spec["end_card"]["start"]
     end_img, button = build_end_card(spec["end_card"])
     total = spec["duration"]
