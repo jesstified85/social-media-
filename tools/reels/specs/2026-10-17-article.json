@@ -1,25 +1,48 @@
 {
   "theme": "terracotta",
   "category": "Lifestyle",
-  "duration": 19.5,
+  "duration": 26.0,
   "still_times": [
-    0,
-    5.4,
-    9.4,
-    12.8,
-    15.0,
-    19.2
+    0.2,
+    7.5,
+    12.5,
+    17.5,
+    25.5
   ],
+  "text_panel": {
+    "alpha": 0.9,
+    "pad": 52
+  },
+  "background_video": {
+    "src": "tools/reels/media/motionarray-2732492-autumn-picnic.mp4",
+    "crop": [
+      1040,
+      0,
+      608,
+      1080
+    ],
+    "speed": 0.8,
+    "loop": false,
+    "tint_alpha": 0.45,
+    "source": "Motion Array: Young Friends Enjoying Picnic In Autumn Forest (2732492)"
+  },
+  "audio": {
+    "src": "tools/reels/media/foundher-music-fall-winter.wav",
+    "volume": 0.6,
+    "fade_out": 2.5,
+    "source": "FoundHer fall and winter background music (made in OpenArt for FoundHer)"
+  },
+  "photo_source": "Background footage: Motion Array, Young Friends Enjoying Picnic In Autumn Forest (2732492)",
   "scenes": [
     {
-      "start": 0,
-      "end": 3.6,
+      "start": 0.0,
+      "end": 5.0,
       "top": 560,
-      "instant": true,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "headline",
-          "size": 112,
+          "size": 120,
           "lines": [
             [
               "Two weeks of",
@@ -39,13 +62,14 @@
             ]
           ]
         }
-      ]
+      ],
+      "instant": true
     },
     {
-      "start": 3.6,
-      "end": 7.4,
+      "start": 5.0,
+      "end": 10.0,
       "top": 520,
-      "stagger": 0.4,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "eyebrow",
@@ -70,17 +94,17 @@
         {
           "kind": "body",
           "text": "Across Salt Lake and Utah County.",
-          "size": 48,
+          "size": 54,
           "at": 1.0,
           "weight": "SemiBold"
         }
       ]
     },
     {
-      "start": 7.4,
-      "end": 11.2,
+      "start": 10.0,
+      "end": 15.0,
       "top": 520,
-      "stagger": 0.45,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "eyebrow",
@@ -107,13 +131,14 @@
       ]
     },
     {
-      "start": 11.2,
-      "end": 14.4,
+      "start": 15.0,
+      "end": 20.0,
       "top": 560,
+      "stagger": 0.6,
       "items": [
         {
           "kind": "headline",
-          "size": 104,
+          "size": 120,
           "lines": [
             [
               "Pick two dates,",
@@ -137,7 +162,7 @@
         {
           "kind": "body",
           "text": "Invite one newer friend. Fall outings are low stakes.",
-          "size": 48,
+          "size": 54,
           "at": 1.0,
           "weight": "SemiBold"
         }
@@ -145,27 +170,150 @@
     }
   ],
   "end_card": {
-    "start": 14.0,
+    "start": 20.0,
     "title": "Fall Things to Do in Utah With Friends: Corn Mazes, Pumpkin Patches and More",
     "summary": "Corn mazes, Witchfest, a jack-o-lantern boat ride and canyon drives, before they close."
   },
-  "background_video": {
-    "src": "tools/reels/media/motionarray-2732492-autumn-picnic.mp4",
-    "crop": [
-      1040,
-      0,
-      608,
-      1080
+  "_v1": {
+    "scenes": [
+      {
+        "start": 0,
+        "end": 3.6,
+        "top": 560,
+        "instant": true,
+        "items": [
+          {
+            "kind": "headline",
+            "size": 112,
+            "lines": [
+              [
+                "Two weeks of",
+                false
+              ],
+              [
+                "peak fall left.",
+                false
+              ],
+              [
+                "Who's coming",
+                true
+              ],
+              [
+                "with you?",
+                true
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "start": 3.6,
+        "end": 7.4,
+        "top": 520,
+        "stagger": 0.4,
+        "items": [
+          {
+            "kind": "eyebrow",
+            "text": "PICK YOUR FALL VIBE",
+            "rule": true,
+            "gap": 52,
+            "size": 34
+          },
+          {
+            "kind": "pills",
+            "items": [
+              "Corn mazes",
+              "Pumpkin patches",
+              "Witchfest",
+              "Halloween cruise",
+              "Haunted trails",
+              "Canyon drives"
+            ],
+            "gap": 48,
+            "size": 46
+          },
+          {
+            "kind": "body",
+            "text": "Across Salt Lake and Utah County.",
+            "size": 48,
+            "at": 1.0,
+            "weight": "SemiBold"
+          }
+        ]
+      },
+      {
+        "start": 7.4,
+        "end": 11.2,
+        "top": 520,
+        "stagger": 0.45,
+        "items": [
+          {
+            "kind": "eyebrow",
+            "text": "THE CLOCK IS TICKING",
+            "rule": true,
+            "gap": 56,
+            "size": 34
+          },
+          {
+            "kind": "bullet",
+            "text": "Most big corn mazes run through October 31.",
+            "size": 50
+          },
+          {
+            "kind": "bullet",
+            "text": "Witchfest runs through October 31.",
+            "size": 50
+          },
+          {
+            "kind": "bullet",
+            "text": "The Alpine Loop typically closes around November 1.",
+            "size": 50
+          }
+        ]
+      },
+      {
+        "start": 11.2,
+        "end": 14.4,
+        "top": 560,
+        "items": [
+          {
+            "kind": "headline",
+            "size": 104,
+            "lines": [
+              [
+                "Pick two dates,",
+                false
+              ],
+              [
+                "not ten.",
+                false
+              ],
+              [
+                "\"Thursday or",
+                true
+              ],
+              [
+                "Saturday?\"",
+                true
+              ]
+            ],
+            "gap": 60
+          },
+          {
+            "kind": "body",
+            "text": "Invite one newer friend. Fall outings are low stakes.",
+            "size": 48,
+            "at": 1.0,
+            "weight": "SemiBold"
+          }
+        ]
+      }
     ],
-    "start": 0,
-    "tint_alpha": 0.64,
-    "source": "Motion Array: Young Friends Enjoying Picnic In Autumn Forest (Raven production, item 2732492), licensed to FoundHer's Motion Array account"
-  },
-  "audio": {
-    "src": "tools/reels/media/motionarray-844713-sitting-by-the-fire-cut2.wav",
-    "volume": 0.9,
-    "fade_out": 1.8,
-    "source": "Motion Array: Sitting By The Fire, Cut 2 (Andy Warner, item 844713), trimmed and faded; not Content ID registered"
-  },
-  "text_shadow": true
+    "end_card": {
+      "start": 14.0,
+      "title": "Fall Things to Do in Utah With Friends: Corn Mazes, Pumpkin Patches and More",
+      "summary": "Corn mazes, Witchfest, a jack-o-lantern boat ride and canyon drives, before they close."
+    },
+    "category": "Lifestyle"
+  }
 }

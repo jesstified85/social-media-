@@ -490,8 +490,14 @@ class VideoBackground:
         speed = bg.get("speed", 1.0)
         slow = f"setpts=PTS/{speed}," if speed != 1.0 else ""
         vf = f"{slow}crop={w}:{h}:{x}:{y},scale={W}:{H}:flags=lanczos,fps={FPS}"
+        # "loop": true repeats a short clip instead of holding its last frame;
+        # "loop": "bounce" plays it forward then backward (no visible jump), doubling its length.
+        loop = ["-stream_loop", "-1"] if bg.get("loop") is True else []
+        if bg.get("loop") == "bounce":
+            vf = (f"crop={w}:{h}:{x}:{y},split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1,"
+                  f"{slow}scale={W}:{H}:flags=lanczos,fps={FPS}")
         self.proc = subprocess.Popen(
-            ["ffmpeg", "-loglevel", "error", "-ss", str(bg.get("start", 0)), "-i", str(bg["src"]),
+            ["ffmpeg", "-loglevel", "error", *loop, "-ss", str(bg.get("start", 0)), "-i", str(bg["src"]),
              "-vf", vf, "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
             stdout=subprocess.PIPE, stderr=subprocess.DEVNULL)
         tint = tuple(bg.get("tint") or theme_plate.convert("RGB").getpixel((40, 40)))
