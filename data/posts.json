@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T04:09:43+00:00",
+ "updatedAt": "2026-10-17T04:47:50+00:00",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -19,6 +19,26 @@
    "notes": "Video v2 (16 Oct 2026): Young Friends Enjoying Picnic In Autumn Forest (2732492) footage from Motion Array, terracotta panel, FoundHer 'fall-winter' music already mixed in, so don't add Instagram music. Copy unchanged from the approved version.",
    "asset": "assets/2026-10-17-article.mp4",
    "assetName": "FHT_2026-10-17_article_fall-activities-utah-friends.mp4",
+   "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-10-18-app-tutorial",
+   "date": "2026-10-18",
+   "order": 1,
+   "type": "app",
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "How to use the FoundHer Tribe app (pinned Reel)",
+   "caption": "New here? Here's how to use the FoundHer Tribe app. Save this so you always have it.\n\n1. Find your next event in Events\n2. Tap Reserve my spot\n3. Your pass lives in Profile > My tickets. Show it at the door\n4. Earn coins for showing up, meetups, posts and inviting friends\n5. Bid your coins on prizes in Auctions\n6. Find or start a meetup in Meetups\n7. Post, poll and message in Community\n8. Use your QR code to connect with new friends at events\n\nDownload FoundHer Tribe on the App Store. On Android? Use foundhertribe.app in your browser. Link in bio.\n\nQuestions? Send us a DM.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #UtahWomen #UtahEvents #MakingFriendsAsAnAdult #SaltLakeCity #UtahCounty",
+   "links": {
+    "instagram": "https://foundhertribe.app/?utm_source=instagram&utm_medium=social&utm_campaign=app_tutorial",
+    "facebook": "https://foundhertribe.app/?utm_source=facebook&utm_medium=social&utm_campaign=app_tutorial"
+   },
+   "linktreeTitle": "Get the FoundHer Tribe app",
+   "notes": "Screens recorded from the live app on 16 Oct 2026; member names and photos blurred. After posting, PIN this Reel to the top of the Instagram grid. Reel is silent; add music in Instagram. Before posting, confirm the App Store listing shows the FoundHer Tribe name. The Friends step shows Jess's real connect QR code.",
+   "asset": "assets/2026-10-18-app-tutorial.mp4",
+   "assetName": "FHT_2026-10-18_app-tutorial_how-to-use-the-app.mp4",
    "assetType": "video/mp4"
   },
   {
@@ -49,26 +69,6 @@
    "id": "2026-10-20-article",
    "asset": "assets/2026-10-20-article.mp4",
    "assetName": "FHT_2026-10-20_article_girls-night-ideas.mp4",
-   "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-10-20-app-tutorial",
-   "date": "2026-10-20",
-   "order": 2,
-   "type": "app",
-   "platform": "Instagram + Facebook",
-   "status": "review",
-   "title": "How to use the FoundHer Tribe app (pinned Reel)",
-   "caption": "New here? Here's how to use the FoundHer Tribe app. Save this so you always have it.\n\n1. Find your next event in Events\n2. Tap Reserve my spot\n3. Your pass lives in Profile > My tickets. Show it at the door\n4. Earn coins for showing up, meetups, posts and inviting friends\n5. Bid your coins on prizes in Auctions\n6. Find or start a meetup in Meetups\n7. Post, poll and message in Community\n8. Use your QR code to connect with new friends at events\n\nDownload FoundHer Tribe on the App Store. On Android? Use foundhertribe.app in your browser. Link in bio.\n\nQuestions? Send us a DM.\n\nWhere you find your people.",
-   "hashtags": "#FoundHerTribe #FindYourPeople #UtahWomen #UtahEvents #MakingFriendsAsAnAdult #SaltLakeCity #UtahCounty",
-   "links": {
-    "instagram": "https://foundhertribe.app/?utm_source=instagram&utm_medium=social&utm_campaign=app_tutorial",
-    "facebook": "https://foundhertribe.app/?utm_source=facebook&utm_medium=social&utm_campaign=app_tutorial"
-   },
-   "linktreeTitle": "Get the FoundHer Tribe app",
-   "notes": "Screens recorded from the live app on 16 Oct 2026; member names and photos blurred. After posting, PIN this Reel to the top of the Instagram grid. Reel is silent; add music in Instagram. Before posting, confirm the App Store listing shows the FoundHer Tribe name. The Friends step shows Jess's real connect QR code.",
-   "asset": "assets/2026-10-20-app-tutorial.mp4",
-   "assetName": "FHT_2026-10-20_app-tutorial_how-to-use-the-app.mp4",
    "assetType": "video/mp4"
   },
   {
