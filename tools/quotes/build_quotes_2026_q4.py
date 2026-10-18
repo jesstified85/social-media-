@@ -3,7 +3,7 @@
 Usage: python3 tools/quotes/build_quotes_2026_q4.py
 
 Format: 1080x1350 (4:5) feed image, solid brand colour, charcoal Playfair Display quote,
-small @foundher.tribe handle at the bottom. No logo, tagline or call to action in the image.
+FoundHer pin (real Coral pin vector) and a small @foundher.tribe handle at the bottom. No logo, tagline or call to action in the image.
 Colours alternate post by post between Rose Blush #D79AA0 and Sage #A6B99C.
 Weekly rhythm: Tuesday = female friendship, Friday = womanhood, Sunday = strength.
 Re-running replaces the existing quote posts (ids ending in -quote) and their images.
@@ -12,12 +12,17 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+import io
+
+import cairosvg
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[2]
 FONTS = ROOT / "tools" / "reels" / "fonts"
 W, H = 1080, 1350
 CHARCOAL = (26, 26, 26)
+PIN_SVG = Path(__file__).resolve().parent / "brand" / "FoundHer-Pin-Coral.svg"  # real brand vector, not redrawn
+PIN_H = 66  # px tall on the 1080x1350 canvas
 COLOURS = {"rose": ((0xD7, 0x9A, 0xA0), "Rose Blush"), "sage": ((0xA6, 0xB9, 0x9C), "Sage")}
 
 CTA = "Tag a friend to share this message with."
@@ -75,7 +80,14 @@ def wrap(draw, text, f, max_w):
     return lines
 
 
-def render(quote, bg, out):
+def pin_image():
+    png = cairosvg.svg2png(url=str(PIN_SVG), output_height=PIN_H * 4)
+    im = Image.open(io.BytesIO(png)).convert("RGBA")
+    im = im.crop(im.getbbox())  # trim the SVG's padding so the pin sits exactly where placed
+    return im.resize((round(im.width * PIN_H / im.height), PIN_H), Image.LANCZOS)
+
+
+def render(quote, bg, out, pin):
     img = Image.new("RGB", (W, H), bg)
     d = ImageDraw.Draw(img)
     max_w = 760  # 160px side margins: lots of breathing room
@@ -108,6 +120,8 @@ def render(quote, bg, out):
     for c in handle:
         d.text((x, H - 120), c, font=hf, fill=CHARCOAL)
         x += d.textlength(c, font=hf) + spacing
+    # brand pin, centred just above the handle
+    img.paste(pin, ((W - pin.width) // 2, H - 120 - 26 - PIN_H), pin)
     img.save(out, optimize=True)
 
 
@@ -115,11 +129,12 @@ def main():
     data_path = ROOT / "data" / "posts.json"
     data = json.loads(data_path.read_text())
     posts = [p for p in data["posts"] if not p["id"].endswith("-quote")]
+    pin = pin_image()
     for i, (date, cat, quote, lead) in enumerate(POSTS):
         key = "rose" if i % 2 == 0 else "sage"
         rgb, cname = COLOURS[key]
         asset = f"assets/{date}-quote.png"
-        render(quote, rgb, ROOT / asset)
+        render(quote, rgb, ROOT / asset, pin)
         posts.append({
             "id": f"{date}-quote",
             "date": date,
