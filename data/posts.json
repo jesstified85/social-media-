@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T20:22:54+00:00",
+ "updatedAt": "2026-10-18T20:53:54+00:00",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -42,14 +42,24 @@
    "assetType": "video/mp4"
   },
   {
-   "assetNote": "Waiting on event details from Bella and Sophie.",
+   "id": "2026-10-19-event",
    "date": "2026-10-19",
    "order": 1,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Event promotion (event to confirm)",
    "type": "event",
-   "id": "2026-10-19-event"
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Event: Emily Snyder, Living Your Uniquely Perfect Life (Nov 10)",
+   "caption": "You're invited. Come gather with amazing women.\n\nOn Tuesday, November 10, we're learning from Emily Snyder at TribeHouse: Living Your Uniquely Perfect Life. A midday gathering to uplift, encourage and support one another.\n\nCome alone. Leave with friends.\n\nCheck in at the event and earn 100 coins in the app.\n\nTuesday, November 10 · 12:00 PM · TribeHouse\nReserve your spot, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #UtahWomen #UtahEvents #PleasantGrove #UtahCounty #WomenSupportingWomen",
+   "links": {
+    "instagram": "https://foundhertribe.app/e/emily-snyder-living-your-uniquely-perfect-life?utm_source=instagram&utm_medium=social&utm_campaign=events",
+    "facebook": "https://foundhertribe.app/e/emily-snyder-living-your-uniquely-perfect-life?utm_source=facebook&utm_medium=social&utm_campaign=events"
+   },
+   "linktreeTitle": "Nov 10: Emily Snyder at TribeHouse",
+   "notes": "Reel supplied by Jess (v3, 18 Oct 2026), 1080x1920, 36.5s, audio already in the video, so check before adding Instagram music. Event details checked on the live event page 18 Oct 2026. Price not stated in the caption on purpose (Jess's account sees the MomBassador comp view, not the public price).",
+   "asset": "assets/2026-10-19-event.mp4",
+   "assetName": "FHT_2026-10-19_event_emily-snyder.mp4",
+   "assetType": "video/mp4"
   },
   {
    "caption": "Tired of the group chat plan that dies at \"idk, whatever you want\"?\n\nOur new guide rounds up girls' night ideas in Salt Lake City and Utah County, sorted by mood: dinner and dessert, a dirty soda crawl, pottery and paint classes, escape rooms, live shows and cozy nights in.\n\nAlmost all of them work just as well with a soda as with a cocktail, so everyone in your group can say yes.\n\nPick one, send the link and put a date on the calendar. Read the full list, link in bio.\n\nWhere you find your people.",
