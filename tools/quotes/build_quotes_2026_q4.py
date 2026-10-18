@@ -141,7 +141,7 @@ def main():
             "type": "quote",
             "order": 9,
             "platform": "Instagram + Facebook",
-            "status": "review",
+            "status": "approved",
             "title": "Quote: " + quote.replace("’", "'").replace("“", '"').replace("”", '"'),
             "caption": lead + "\n\n" + CTA,
             "hashtags": TAGS[cat],
