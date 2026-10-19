@@ -1,6 +1,6 @@
 // FoundHer Content Calendar (read-only web version).
 // Posts come from data/posts.json; assets live in /assets. Claude updates both and pushes.
-const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap",app:"App tutorial",quote:"Quote"};
+const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap",app:"App tutorial",quote:"Quote",guide:"Guide"};
 const STATUSES={placeholder:"Placeholder",draft:"Draft",review:"Ready for Jess",approved:"Approved by Jess",posted:"Posted"};
 // Weekly formula: default slot for each weekday (0 = Sunday).
 const SLOT=["auction","event","article","auction","recap","event","article"];
@@ -77,7 +77,20 @@ function renderPost(p){
   card.appendChild(el("h4",null,p.title||"Untitled post"));
 
   const as=el("div","section");as.appendChild(labelRow("Asset"));
-  if(p.asset){
+  if(Array.isArray(p.slides)&&p.slides.length){
+    // Carousel post: one image per slide, in posting order.
+    const grid=el("div","slides");
+    p.slides.forEach((src,i)=>{
+      const a=el("a","slide");a.href=src;a.setAttribute("download",src.split("/").pop());a.title="Download slide "+(i+1);
+      const im=document.createElement("img");im.src=src;im.alt="Slide "+(i+1);im.loading="lazy";
+      a.append(im,el("span","n",String(i+1)));grid.appendChild(a);
+    });
+    as.appendChild(grid);
+    const meta=el("div","meta slidesmeta");
+    meta.appendChild(el("span","fname",p.slides.length+" slides, upload in this order. Tap a slide to download it."));
+    if(p.asset){const dl=el("a","primary","Download all slides");dl.href=p.asset;dl.setAttribute("download",p.assetName||p.asset.split("/").pop());meta.appendChild(dl);}
+    as.appendChild(meta);
+  }else if(p.asset){
     const box=el("div","asset");
     const type=p.assetType||(/\.(png|jpe?g|webp|gif)$/i.test(p.asset)?"image/":"video/");
     if(type.startsWith("image/")){const im=document.createElement("img");im.src=p.asset;im.alt="Post asset preview";box.appendChild(im);}
