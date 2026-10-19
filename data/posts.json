@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T23:45:05+00:00",
+ "updatedAt": "2026-10-19T15:09:41+00:00",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -82,20 +82,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-10-20-quote",
-   "date": "2026-10-20",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: She didn't fix it. She just sat with me in it.",
-   "caption": "For the friend who doesn't need to say anything to make it better.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-10-20-quote.png",
-   "assetName": "FoundHer-quote-2026-10-20.png",
-   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "date": "2026-10-21",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -139,6 +125,20 @@
    }
   },
   {
+   "id": "2026-10-22-quote",
+   "date": "2026-10-22",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Be the woman you needed when you were younger.",
+   "caption": "A note to your younger self, and to the woman you are now.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-10-22-quote.png",
+   "assetName": "FoundHer-quote-2026-10-22.png",
+   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-10-23",
    "order": 1,
@@ -147,20 +147,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-10-23-event"
-  },
-  {
-   "id": "2026-10-23-quote",
-   "date": "2026-10-23",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Be the woman you needed when you were younger.",
-   "caption": "A note to your younger self, and to the woman you are now.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-10-23-quote.png",
-   "assetName": "FoundHer-quote-2026-10-23.png",
-   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "caption": "Sitting in your car in the parking lot, wondering if you can just drive home? You're not the only one.\n\nWalking in on your own isn't a sign you have no friends. It's how most friendships start.\n\nOur guide covers what to do before you go, easy conversation openers, how to leave a chat without it feeling awkward, and the follow-up text that turns a nice chat into a real friend.\n\nAnd research on the \"liking gap\" suggests the person you just talked to probably liked you more than you think.\n\nRead it, then come to something on your own. We saved you a seat. Link in bio.\n\nWhere you find your people.",
@@ -226,20 +212,6 @@
    }
   },
   {
-   "id": "2026-10-25-quote",
-   "date": "2026-10-25",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: She cried, then she handled it.",
-   "caption": "Both things can be true.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-10-25-quote.png",
-   "assetName": "FoundHer-quote-2026-10-25.png",
-   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-10-26",
    "order": 1,
@@ -268,20 +240,6 @@
    "asset": "assets/2026-10-27-article.mp4",
    "assetName": "FHT_2026-10-27_article_acquaintance-to-friend.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-10-27-quote",
-   "date": "2026-10-27",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: The friend who says \"I'm on my way\" without asking why.",
-   "caption": "Every woman deserves an \"I'm on my way\" friend.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-10-27-quote.png",
-   "assetName": "FoundHer-quote-2026-10-27.png",
-   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-10-28",
@@ -327,6 +285,20 @@
    }
   },
   {
+   "id": "2026-10-29-quote",
+   "date": "2026-10-29",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: She cried, then she handled it.",
+   "caption": "Both things can be true.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-10-29-quote.png",
+   "assetName": "FoundHer-quote-2026-10-29.png",
+   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-10-30",
    "order": 1,
@@ -335,20 +307,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-10-30-event"
-  },
-  {
-   "id": "2026-10-30-quote",
-   "date": "2026-10-30",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: She is still becoming. So are you.",
-   "caption": "Growth doesn't have a finish line.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-10-30-quote.png",
-   "assetName": "FoundHer-quote-2026-10-30.png",
-   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-10-31",
@@ -414,20 +372,6 @@
    }
   },
   {
-   "id": "2026-11-01-quote",
-   "date": "2026-11-01",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Doing it scared still counts.",
-   "caption": "Shaky hands still count. Showing up still counts.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-01-quote.png",
-   "assetName": "FoundHer-quote-2026-11-01.png",
-   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-02",
    "order": 1,
@@ -456,20 +400,6 @@
    "asset": "assets/2026-11-03-article.mp4",
    "assetName": "FHT_2026-11-03_article_make-friends-in-your-40s.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-11-03-quote",
-   "date": "2026-11-03",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Find the friend who remembers the little things.",
-   "caption": "The little things are the big things.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-03-quote.png",
-   "assetName": "FoundHer-quote-2026-11-03.png",
-   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-11-04",
@@ -515,6 +445,20 @@
    }
   },
   {
+   "id": "2026-11-05-quote",
+   "date": "2026-11-05",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: She didn't fix it. She just sat with me in it.",
+   "caption": "For the friend who doesn't need to say anything to make it better.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-11-05-quote.png",
+   "assetName": "FoundHer-quote-2026-11-05.png",
+   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-06",
    "order": 1,
@@ -523,20 +467,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-06-event"
-  },
-  {
-   "id": "2026-11-06-quote",
-   "date": "2026-11-06",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Soft and strong can live in the same woman.",
-   "caption": "You don't have to choose one.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-06-quote.png",
-   "assetName": "FoundHer-quote-2026-11-06.png",
-   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-11-07",
@@ -602,20 +532,6 @@
    }
   },
   {
-   "id": "2026-11-08-quote",
-   "date": "2026-11-08",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Brave doesn't always look loud.",
-   "caption": "Courage comes in a lot of volumes.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-08-quote.png",
-   "assetName": "FoundHer-quote-2026-11-08.png",
-   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-09",
    "order": 1,
@@ -646,20 +562,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-11-10-quote",
-   "date": "2026-11-10",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: A good friend knows your coffee order and your heart.",
-   "caption": "The friend who knows exactly what you need before you ask.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-10-quote.png",
-   "assetName": "FoundHer-quote-2026-11-10.png",
-   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -670,6 +572,20 @@
    "notes": "Tate's and Stonehaven close tonight, so this slot waits for the next auction prizes."
   },
   {
+   "id": "2026-11-12-quote",
+   "date": "2026-11-12",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: She is still becoming. So are you.",
+   "caption": "Growth doesn't have a finish line.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-11-12-quote.png",
+   "assetName": "FoundHer-quote-2026-11-12.png",
+   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-13",
    "order": 1,
@@ -678,20 +594,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-13-event"
-  },
-  {
-   "id": "2026-11-13-quote",
-   "date": "2026-11-13",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: You don't have to have it all together to be worthy.",
-   "caption": "Messy, in progress and still enough.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-13-quote.png",
-   "assetName": "FoundHer-quote-2026-11-13.png",
-   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-11-14",
@@ -724,20 +626,6 @@
    "id": "2026-11-15-auction"
   },
   {
-   "id": "2026-11-15-quote",
-   "date": "2026-11-15",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: You've survived every hard day so far.",
-   "caption": "Your track record for getting through hard days is 100%.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-15-quote.png",
-   "assetName": "FoundHer-quote-2026-11-15.png",
-   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-16",
    "order": 1,
@@ -768,20 +656,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-11-17-quote",
-   "date": "2026-11-17",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Some friendships don't need daily texts. They just pick up where they left off.",
-   "caption": "The best kind of friendship never runs out of time.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-17-quote.png",
-   "assetName": "FoundHer-quote-2026-11-17.png",
-   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-18",
    "order": 1,
@@ -792,6 +666,20 @@
    "id": "2026-11-18-auction"
   },
   {
+   "id": "2026-11-19-quote",
+   "date": "2026-11-19",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Doing it scared still counts.",
+   "caption": "Shaky hands still count. Showing up still counts.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-11-19-quote.png",
+   "assetName": "FoundHer-quote-2026-11-19.png",
+   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-20",
    "order": 1,
@@ -800,20 +688,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-20-event"
-  },
-  {
-   "id": "2026-11-20-quote",
-   "date": "2026-11-20",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: There is no wrong age to begin again.",
-   "caption": "It's never too late to start something new.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-20-quote.png",
-   "assetName": "FoundHer-quote-2026-11-20.png",
-   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-11-21",
@@ -846,20 +720,6 @@
    "id": "2026-11-22-auction"
   },
   {
-   "id": "2026-11-22-quote",
-   "date": "2026-11-22",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Quiet strength is still strength.",
-   "caption": "Not all strength makes noise.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-22-quote.png",
-   "assetName": "FoundHer-quote-2026-11-22.png",
-   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-23",
    "order": 1,
@@ -890,20 +750,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-11-24-quote",
-   "date": "2026-11-24",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Thank you to the women who stayed.",
-   "caption": "This Thanksgiving week, a little gratitude for the women who showed up and kept showing up.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-24-quote.png",
-   "assetName": "FoundHer-quote-2026-11-24.png",
-   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-25",
    "order": 1,
@@ -912,6 +758,20 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-11-25-auction"
+  },
+  {
+   "id": "2026-11-26-quote",
+   "date": "2026-11-26",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Thank you to the women who stayed.",
+   "caption": "This Thanksgiving, a little gratitude for the women who showed up and kept showing up.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-11-26-quote.png",
+   "assetName": "FoundHer-quote-2026-11-26.png",
+   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -923,20 +783,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-27-event"
-  },
-  {
-   "id": "2026-11-27-quote",
-   "date": "2026-11-27",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: You're allowed to change your mind about who you want to be.",
-   "caption": "Change is allowed. Growth requires it.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-27-quote.png",
-   "assetName": "FoundHer-quote-2026-11-27.png",
-   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-11-28",
@@ -969,20 +815,6 @@
    "id": "2026-11-29-auction"
   },
   {
-   "id": "2026-11-29-quote",
-   "date": "2026-11-29",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Rest is not a reward. It's a requirement.",
-   "caption": "Permission to slow down this weekend.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-11-29-quote.png",
-   "assetName": "FoundHer-quote-2026-11-29.png",
-   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-30",
    "order": 1,
@@ -1013,20 +845,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-12-01-quote",
-   "date": "2026-12-01",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Grown women still need a best friend.",
-   "caption": "No matter your age, everyone needs their person.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-01-quote.png",
-   "assetName": "FoundHer-quote-2026-12-01.png",
-   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-02",
    "order": 1,
@@ -1037,6 +855,20 @@
    "id": "2026-12-02-auction"
   },
   {
+   "id": "2026-12-03-quote",
+   "date": "2026-12-03",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Soft and strong can live in the same woman.",
+   "caption": "You don't have to choose one.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-12-03-quote.png",
+   "assetName": "FoundHer-quote-2026-12-03.png",
+   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-04",
    "order": 1,
@@ -1045,20 +877,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-04-event"
-  },
-  {
-   "id": "2026-12-04-quote",
-   "date": "2026-12-04",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: You can be a work in progress and a masterpiece at the same time.",
-   "caption": "Both at once. Always.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-04-quote.png",
-   "assetName": "FoundHer-quote-2026-12-04.png",
-   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-12-05",
@@ -1091,20 +909,6 @@
    "id": "2026-12-06-auction"
   },
   {
-   "id": "2026-12-06-quote",
-   "date": "2026-12-06",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Strong women lift each other up.",
-   "caption": "When one of us rises, we all do.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-06-quote.png",
-   "assetName": "FoundHer-quote-2026-12-06.png",
-   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-07",
    "order": 1,
@@ -1135,20 +939,6 @@
    "assetType": "video/mp4"
   },
   {
-   "id": "2026-12-08-quote",
-   "date": "2026-12-08",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Friends who hype you up are a form of self-care.",
-   "caption": "Surround yourself with women who cheer the loudest.\n\nTag a friend to share this message with.",
-   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-08-quote.png",
-   "assetName": "FoundHer-quote-2026-12-08.png",
-   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-09",
    "order": 1,
@@ -1159,6 +949,20 @@
    "id": "2026-12-09-auction"
   },
   {
+   "id": "2026-12-10-quote",
+   "date": "2026-12-10",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Brave doesn't always look loud.",
+   "caption": "Courage comes in a lot of volumes.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-12-10-quote.png",
+   "assetName": "FoundHer-quote-2026-12-10.png",
+   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-11",
    "order": 1,
@@ -1167,20 +971,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-11-event"
-  },
-  {
-   "id": "2026-12-11-quote",
-   "date": "2026-12-11",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Not every season is a blooming one. That's okay.",
-   "caption": "Every season has its purpose. This one too.\n\nTag a friend to share this message with.",
-   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-11-quote.png",
-   "assetName": "FoundHer-quote-2026-12-11.png",
-   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "date": "2026-12-12",
@@ -1211,20 +1001,6 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-13-auction"
-  },
-  {
-   "id": "2026-12-13-quote",
-   "date": "2026-12-13",
-   "type": "quote",
-   "order": 9,
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Quote: Some days strength is just getting out of bed.",
-   "caption": "If today was hard, you still showed up. That counts.\n\nTag a friend to share this message with.",
-   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
-   "asset": "assets/2026-12-13-quote.png",
-   "assetName": "FoundHer-quote-2026-12-13.png",
-   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1265,6 +1041,20 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-16-auction"
+  },
+  {
+   "id": "2026-12-17-quote",
+   "date": "2026-12-17",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: The friend who says \"I'm on my way\" without asking why.",
+   "caption": "Every woman deserves an \"I'm on my way\" friend.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-12-17-quote.png",
+   "assetName": "FoundHer-quote-2026-12-17.png",
+   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1347,6 +1137,20 @@
    "id": "2026-12-23-auction"
   },
   {
+   "id": "2026-12-24-quote",
+   "date": "2026-12-24",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: You don't have to have it all together to be worthy.",
+   "caption": "Messy, in progress and still enough.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-12-24-quote.png",
+   "assetName": "FoundHer-quote-2026-12-24.png",
+   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-25",
    "notes": "Christmas Day. Confirm whether to post.",
@@ -1426,6 +1230,202 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-30-auction"
+  },
+  {
+   "id": "2026-12-31-quote",
+   "date": "2026-12-31",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Rest is not a reward. It's a requirement.",
+   "caption": "Permission to slow down before the new year.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2026-12-31-quote.png",
+   "assetName": "FoundHer-quote-2026-12-31.png",
+   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-01-07-quote",
+   "date": "2027-01-07",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Find the friend who remembers the little things.",
+   "caption": "The little things are the big things.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-01-07-quote.png",
+   "assetName": "FoundHer-quote-2027-01-07.png",
+   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-01-14-quote",
+   "date": "2027-01-14",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: There is no wrong age to begin again.",
+   "caption": "It's never too late to start something new.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-01-14-quote.png",
+   "assetName": "FoundHer-quote-2027-01-14.png",
+   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-01-21-quote",
+   "date": "2027-01-21",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: You've survived every hard day so far.",
+   "caption": "Your track record for getting through hard days is 100%.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-01-21-quote.png",
+   "assetName": "FoundHer-quote-2027-01-21.png",
+   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-01-28-quote",
+   "date": "2027-01-28",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: A good friend knows your coffee order and your heart.",
+   "caption": "The friend who knows exactly what you need before you ask.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-01-28-quote.png",
+   "assetName": "FoundHer-quote-2027-01-28.png",
+   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-02-04-quote",
+   "date": "2027-02-04",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: You're allowed to change your mind about who you want to be.",
+   "caption": "Change is allowed. Growth requires it.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-02-04-quote.png",
+   "assetName": "FoundHer-quote-2027-02-04.png",
+   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-02-11-quote",
+   "date": "2027-02-11",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Quiet strength is still strength.",
+   "caption": "Not all strength makes noise.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-02-11-quote.png",
+   "assetName": "FoundHer-quote-2027-02-11.png",
+   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-02-18-quote",
+   "date": "2027-02-18",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Some friendships don't need daily texts. They just pick up where they left off.",
+   "caption": "The best kind of friendship never runs out of time.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-02-18-quote.png",
+   "assetName": "FoundHer-quote-2027-02-18.png",
+   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-02-25-quote",
+   "date": "2027-02-25",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: You can be a work in progress and a masterpiece at the same time.",
+   "caption": "Both at once. Always.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-02-25-quote.png",
+   "assetName": "FoundHer-quote-2027-02-25.png",
+   "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-03-04-quote",
+   "date": "2027-03-04",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Strong women lift each other up.",
+   "caption": "When one of us rises, we all do.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-03-04-quote.png",
+   "assetName": "FoundHer-quote-2027-03-04.png",
+   "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-03-11-quote",
+   "date": "2027-03-11",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Grown women still need a best friend.",
+   "caption": "No matter your age, everyone needs their person.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-03-11-quote.png",
+   "assetName": "FoundHer-quote-2027-03-11.png",
+   "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-03-18-quote",
+   "date": "2027-03-18",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Not every season is a blooming one. That's okay.",
+   "caption": "Every season has its purpose. This one too.\n\nTag a friend to share this message with.",
+   "hashtags": "#Womanhood #WomenEmpowerment #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-03-18-quote.png",
+   "assetName": "FoundHer-quote-2027-03-18.png",
+   "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-03-25-quote",
+   "date": "2027-03-25",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Some days strength is just getting out of bed.",
+   "caption": "If today was hard, you still showed up. That counts.\n\nTag a friend to share this message with.",
+   "hashtags": "#StrongWomen #InnerStrength #QuotesForWomen #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-03-25-quote.png",
+   "assetName": "FoundHer-quote-2027-03-25.png",
+   "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-04-01-quote",
+   "date": "2027-04-01",
+   "type": "quote",
+   "order": 9,
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Quote: Friends who hype you up are a form of self-care.",
+   "caption": "Surround yourself with women who cheer the loudest.\n\nTag a friend to share this message with.",
+   "hashtags": "#FemaleFriendship #FriendshipQuotes #GirlFriends #WomenSupportingWomen #FoundHerTribe",
+   "asset": "assets/2027-04-01-quote.png",
+   "assetName": "FoundHer-quote-2027-04-01.png",
+   "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   }
  ]
 }
