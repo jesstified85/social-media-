@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T22:55:00+00:00",
+ "updatedAt": "2026-10-19T22:57:00+00:00",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -73,7 +73,7 @@
    "notes": "Article checked live on 14 Oct 2026. Reel is silent; add music in Instagram.",
    "order": 1,
    "platform": "Instagram + Facebook",
-   "status": "draft",
+   "status": "approved",
    "title": "Girls' Night Ideas in Salt Lake City and Utah County",
    "type": "article",
    "id": "2026-10-20-article",
