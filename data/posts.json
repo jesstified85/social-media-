@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T18:08:03Z",
+ "updatedAt": "2026-11-02T18:16:24Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -455,7 +455,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-03-reel.mp4",
    "assetName": "FoundHer-Match-Your-Energy-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "date": "2026-11-04",
@@ -574,7 +574,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-06-reel.mp4",
    "assetName": "FoundHer-Take-Dolly-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
   },
   {
    "date": "2026-11-07",
@@ -652,16 +652,32 @@
    }
   },
   {
+   "id": "2026-11-08-reel",
+   "date": "2026-11-08",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Friendsmas idea, painting ornaments",
+   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nEveryone takes one home, and every year it goes back on the tree, you'll remember who was at the table.\n\nSave this for your group chat.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
+   "asset": "assets/2026-11-08-reel.mp4",
+   "assetName": "FoundHer-Friendsmas-Ornaments-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot). Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card. Opens the Friendsmas run (series parts 1 to 3 follow on Nov 15, 22, 29)."
+  },
+  {
    "id": "2026-11-08-tiktok",
    "date": "2026-11-08",
    "type": "tiktok",
-   "order": 1.75,
+   "order": 2.25,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok video (to confirm)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "status": "review",
+   "title": "TikTok: Friendsmas idea, painting ornaments",
+   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #FindYourPeople",
+   "asset": "assets/2026-11-08-reel.mp4",
+   "assetName": "FoundHer-Friendsmas-Ornaments-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -731,7 +747,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-10-reel.mp4",
    "assetName": "FoundHer-Real-Friendship-Is-Rare-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "date": "2026-11-11",
@@ -817,7 +833,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-13-reel.mp4",
    "assetName": "FoundHer-Take-Every-Woman-Needs-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
   },
   {
    "date": "2026-11-14",
@@ -862,16 +878,37 @@
    "id": "2026-11-15-auction"
   },
   {
+   "type": "reel",
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: How to host a Friendsmas, part 1: set the table",
+   "caption": "Your sign to start planning Friendsmas.\n\nPart 1: set the table. Candles, ribbon bows, a little menu card at every seat. It does not have to cost much to feel special.\n\nThe full hosting guide is in the FoundHer app. Link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #UtahWomen",
+   "assetName": "FoundHer-Friendsmas-1-Set-The-Table-9x16.mp4",
+   "notes": "Friendsmas series, links to the new 'How to Host a Friendsmas' article in the FoundHer app (link in bio / Linktree). Video is SILENT on purpose: add a holiday track from the Instagram or TikTok music library when posting. Built from Friendsmas clips Jess supplied (permission confirmed by Jess).",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=instagram&utm_medium=social&utm_campaign=friendsmas",
+    "facebook": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=facebook&utm_medium=social&utm_campaign=friendsmas"
+   },
+   "linktreeTitle": "How to Host a Friendsmas",
+   "order": 1.5,
+   "id": "2026-11-15-reel",
+   "date": "2026-11-15",
+   "asset": "assets/2026-11-15-reel.mp4"
+  },
+  {
    "id": "2026-11-15-tiktok",
    "date": "2026-11-15",
    "type": "tiktok",
-   "order": 1.75,
+   "order": 2.25,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok video (to confirm)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "status": "review",
+   "title": "TikTok: How to host a Friendsmas, part 1: set the table",
+   "caption": "Your sign to start planning Friendsmas.\n\nFull guide in the FoundHer app. Link in bio.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #FindYourPeople",
+   "asset": "assets/2026-11-15-reel.mp4",
+   "assetName": "FoundHer-Friendsmas-1-Set-The-Table-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. Video is silent: add a sound in TikTok."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -941,7 +978,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-17-reel.mp4",
    "assetName": "FoundHer-I-Am-The-Friend-Podcast-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1027,7 +1064,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-20-reel.mp4",
    "assetName": "FoundHer-Take-Mel-Robbins-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
   },
   {
    "date": "2026-11-21",
@@ -1072,18 +1109,23 @@
    "id": "2026-11-22-auction"
   },
   {
-   "id": "2026-11-22-reel",
-   "date": "2026-11-22",
    "type": "reel",
-   "order": 1.5,
    "platform": "Instagram + Facebook",
    "status": "review",
-   "title": "Reel: Friendsmas idea, painting ornaments",
-   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nEveryone takes one home, and every year it goes back on the tree, you'll remember who was at the table.\n\nSave this for your group chat.\n\nWhere you find your people.",
-   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
-   "asset": "assets/2026-11-22-reel.mp4",
-   "assetName": "FoundHer-Friendsmas-Ornaments-Reel-9x16.mp4",
-   "notes": "Holiday batch (Sunday slot). Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card. Posted a few weeks ahead so groups can plan December Friendsmas parties."
+   "title": "Reel: How to host a Friendsmas, part 2: food and drinks",
+   "caption": "Part 2 of how to host a Friendsmas: food and drinks.\n\nA Christmas tree charcuterie board, a cranberry spritzer everyone can enjoy, and a dessert table that does half the decorating for you.\n\nGet the full guide in the FoundHer app. Link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #UtahWomen",
+   "assetName": "FoundHer-Friendsmas-2-Food-And-Drinks-9x16.mp4",
+   "notes": "Friendsmas series, links to the new 'How to Host a Friendsmas' article in the FoundHer app (link in bio / Linktree). Video is SILENT on purpose: add a holiday track from the Instagram or TikTok music library when posting. Built from Friendsmas clips Jess supplied (permission confirmed by Jess).",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=instagram&utm_medium=social&utm_campaign=friendsmas",
+    "facebook": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=facebook&utm_medium=social&utm_campaign=friendsmas"
+   },
+   "linktreeTitle": "How to Host a Friendsmas",
+   "order": 1.5,
+   "id": "2026-11-22-reel",
+   "date": "2026-11-22",
+   "asset": "assets/2026-11-22-reel.mp4"
   },
   {
    "id": "2026-11-22-tiktok",
@@ -1092,12 +1134,12 @@
    "order": 2.25,
    "platform": "TikTok",
    "status": "review",
-   "title": "TikTok: Friendsmas idea, painting ornaments",
-   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nFind your people with FoundHer Tribe. Link in bio.",
-   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "title": "TikTok: How to host a Friendsmas, part 2: food and drinks",
+   "caption": "Part 2 of how to host a Friendsmas: food and drinks.\n\nFull guide in the FoundHer app. Link in bio.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #FindYourPeople",
    "asset": "assets/2026-11-22-reel.mp4",
-   "assetName": "FoundHer-Friendsmas-Ornaments-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "assetName": "FoundHer-Friendsmas-2-Food-And-Drinks-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. Video is silent: add a sound in TikTok."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1167,7 +1209,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-24-reel.mp4",
    "assetName": "FoundHer-Friendship-Voiceover-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1254,7 +1296,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-11-27-reel.mp4",
    "assetName": "FoundHer-Soul-Sister-Quote-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "date": "2026-11-28",
@@ -1299,18 +1341,23 @@
    "id": "2026-11-29-auction"
   },
   {
-   "id": "2026-11-29-reel",
-   "date": "2026-11-29",
    "type": "reel",
-   "order": 1.5,
    "platform": "Instagram + Facebook",
    "status": "review",
-   "title": "Reel: Who's making the holiday magic?",
-   "caption": "To every woman making the holidays happen this year: we see you.\n\nTag the friend who already has the tree up.\n\nWhere you find your people.",
-   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
-   "asset": "assets/2026-11-29-reel.mp4",
-   "assetName": "FoundHer-Who-Makes-The-Magic-Reel-9x16.mp4",
-   "notes": "Holiday batch (Sunday slot), lands on tree-up weekend after Thanksgiving. Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card."
+   "title": "Reel: How to host a Friendsmas, part 3: things to do",
+   "caption": "Part 3 of how to host a Friendsmas: things to do.\n\nPaint ornaments, try a paint-by-numbers night or swap gifts. One activity is all you need, and everyone goes home with something they made.\n\nThe full guide, with gift swap ideas, is in the FoundHer app. Link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #UtahWomen",
+   "assetName": "FoundHer-Friendsmas-3-Things-To-Do-9x16.mp4",
+   "notes": "Friendsmas series, links to the new 'How to Host a Friendsmas' article in the FoundHer app (link in bio / Linktree). Video is SILENT on purpose: add a holiday track from the Instagram or TikTok music library when posting. Built from Friendsmas clips Jess supplied (permission confirmed by Jess).",
+   "links": {
+    "instagram": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=instagram&utm_medium=social&utm_campaign=friendsmas",
+    "facebook": "https://foundhertribe.app/article/host-a-friendsmas?utm_source=facebook&utm_medium=social&utm_campaign=friendsmas"
+   },
+   "linktreeTitle": "How to Host a Friendsmas",
+   "order": 1.5,
+   "id": "2026-11-29-reel",
+   "date": "2026-11-29",
+   "asset": "assets/2026-11-29-reel.mp4"
   },
   {
    "id": "2026-11-29-tiktok",
@@ -1319,12 +1366,12 @@
    "order": 2.25,
    "platform": "TikTok",
    "status": "review",
-   "title": "TikTok: Who's making the holiday magic?",
-   "caption": "To every woman making the holidays happen this year: we see you.\n\nFind your people with FoundHer Tribe. Link in bio.",
-   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "title": "TikTok: How to host a Friendsmas, part 3: things to do",
+   "caption": "Part 3 of how to host a Friendsmas: things to do.\n\nFull guide in the FoundHer app. Link in bio.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #FindYourPeople",
    "asset": "assets/2026-11-29-reel.mp4",
-   "assetName": "FoundHer-Who-Makes-The-Magic-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "assetName": "FoundHer-Friendsmas-3-Things-To-Do-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. Video is silent: add a sound in TikTok."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1394,7 +1441,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-12-01-reel.mp4",
    "assetName": "FoundHer-Holiday-Gentle-Reminder-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1480,7 +1527,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-12-04-reel.mp4",
    "assetName": "FoundHer-Take-Iyanla-Vanzant-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
   },
   {
    "date": "2026-12-05",
@@ -1531,12 +1578,12 @@
    "order": 1.5,
    "platform": "Instagram + Facebook",
    "status": "review",
-   "title": "Reel: The magic of Christmas is created by women (podcast clip)",
-   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nTo every woman doing the work this season: it matters, and so do you.\n\nTag a woman who makes the magic happen.\n\nWhere you find your people.",
-   "hashtags": "#FoundHerTribe #FindYourPeople #HolidayMagic #WomenSupportingWomen #UtahWomen",
+   "title": "Reel: Who's making the holiday magic?",
+   "caption": "To every woman making the holidays happen this year: we see you.\n\nTag the friend who already has the tree up.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
    "asset": "assets/2026-12-06-reel.mp4",
-   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-Reel-9x16.mp4",
-   "notes": "Holiday batch (Sunday slot). FoundHer's own podcast clip (confirmed by Jess). Cut from 74s to 29s of clip: kept the 'created by women', 'it takes work' and 'it doesn't just happen' lines; removed the mothers/children/spouse lines (FoundHer is for women of all ages) and the 'pick me' line (reads as putting other women down). Tag the guest in the post. Full FoundHer logo badge (top left) for the whole video + end card."
+   "assetName": "FoundHer-Who-Makes-The-Magic-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot). Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card."
   },
   {
    "id": "2026-12-06-tiktok",
@@ -1545,12 +1592,12 @@
    "order": 2.25,
    "platform": "TikTok",
    "status": "review",
-   "title": "TikTok: The magic of Christmas is created by women (podcast clip)",
-   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nFind your people with FoundHer Tribe. Link in bio.",
-   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "title": "TikTok: Who's making the holiday magic?",
+   "caption": "To every woman making the holidays happen this year: we see you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #Friendsmas #FriendsmasIdeas #HolidayHosting #FindYourPeople",
    "asset": "assets/2026-12-06-reel.mp4",
-   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "assetName": "FoundHer-Who-Makes-The-Magic-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1620,7 +1667,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-12-08-reel.mp4",
    "assetName": "FoundHer-Woke-Up-One-Day-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1706,7 +1753,7 @@
    "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
    "asset": "assets/2026-12-11-reel.mp4",
    "assetName": "FoundHer-Splash-Summit-TikTok-9x16.mp4",
-   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "date": "2026-12-12",
@@ -1751,16 +1798,32 @@
    "id": "2026-12-13-auction"
   },
   {
+   "id": "2026-12-13-reel",
+   "date": "2026-12-13",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: The magic of Christmas is created by women (podcast clip)",
+   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nTo every woman doing the work this season: it matters, and so do you.\n\nTag a woman who makes the magic happen.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #HolidayMagic #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-13-reel.mp4",
+   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot). FoundHer's own podcast clip (confirmed by Jess). Cut from 74s to 29s of clip: kept the 'created by women', 'it takes work' and 'it doesn't just happen' lines; removed the mothers/children/spouse lines (FoundHer is for women of all ages) and the 'pick me' line (reads as putting other women down). Tag the guest in the post. Full FoundHer logo badge (top left) for the whole video + end card."
+  },
+  {
    "id": "2026-12-13-tiktok",
    "date": "2026-12-13",
    "type": "tiktok",
-   "order": 1.75,
+   "order": 2.25,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok video (to confirm)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "status": "review",
+   "title": "TikTok: The magic of Christmas is created by women (podcast clip)",
+   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-13-reel.mp4",
+   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
