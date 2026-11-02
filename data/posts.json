@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T22:57:00+00:00",
+ "updatedAt": "2026-11-02T17:40:53Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -80,6 +80,34 @@
    "asset": "assets/2026-10-20-article.mp4",
    "assetName": "FHT_2026-10-20_article_girls-night-ideas.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-10-20-halloween-guide",
+   "date": "2026-10-20",
+   "order": 2,
+   "type": "guide",
+   "platform": "Instagram + Facebook",
+   "status": "approved",
+   "title": "Carousel: Utah Halloween Houses guide (10 slides)",
+   "caption": "Your Halloween drive, sorted.\n\nWe mapped 54 Halloween houses from Ogden to Provo, region by region, with a real street address for every one. Coral pins are our don't-miss picks.\n\nSwipe to find the haunts near you, then grab your girls and make a night of it. Hours vary, so check before you go.\n\nSave this for later, and tag who's coming with you.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #UtahHalloween #HalloweenHouses #UtahWomen #SaltLakeCity #UtahCounty",
+   "links": {},
+   "notes": "Carousel post: upload the 10 slides in order (1080x1350). Slides and caption approved by Jess (Oct 19 2026). Sources: Axios Salt Lake 2026 Halloween displays map (Salt Lake County) and FrightMaps 2026 listings (Northern Utah, Utah County); maps are standard Google Maps with the Google data credit on each map. Credit Axios in the caption or a comment if you want to tag them. Optional music in Instagram.",
+   "slides": [
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-01.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-02.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-03.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-04.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-05.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-06.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-07.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-08.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-09.png",
+    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-10.png"
+   ],
+   "asset": "assets/2026-10-20-halloween-guide.zip",
+   "assetName": "FoundHer-Halloween-Houses-carousel.zip",
+   "assetType": "application/zip"
   },
   {
    "date": "2026-10-21",
@@ -402,6 +430,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-11-03-reel",
+   "date": "2026-11-03",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: People who match your energy",
+   "caption": "Some people just match your energy.\n\nThe ones who say yes to a snowy walk after dark, and spin with you in the middle of the street.\n\nIf you haven't found them yet, keep going. Your people are looking for you, too.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-03-reel.mp4",
+   "assetName": "FoundHer-Match-Your-Energy-Reel-9x16.mp4",
+   "notes": "Friendship footage, permission confirmed by Jess. Pin bug + FoundHer end card added."
+  },
+  {
    "date": "2026-11-04",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -467,6 +509,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-06-event"
+  },
+  {
+   "id": "2026-11-06-reel",
+   "date": "2026-11-06",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel (commentary): Dolly on being who you are",
+   "caption": "The people worth keeping are the ones who take the time to know who you really are.\n\nCome as you are. Find your people.\n\nClip: Women Manifest Success",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-06-reel.mp4",
+   "assetName": "FoundHer-Take-Dolly-Commentary-9x16.mp4",
+   "notes": "FoundHer Take format. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
    "date": "2026-11-07",
@@ -562,6 +618,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-11-10-reel",
+   "date": "2026-11-10",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Real friendship is rare",
+   "caption": "Not the loudest friends. The steadiest ones.\n\nTag the friend who has stuck with you through it all.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-10-reel.mp4",
+   "assetName": "FoundHer-Real-Friendship-Is-Rare-Reel-9x16.mp4",
+   "notes": "Friendship quote video, permission confirmed by Jess. Pin bug + end card added."
+  },
+  {
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -594,6 +664,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-13-event"
+  },
+  {
+   "id": "2026-11-13-reel",
+   "date": "2026-11-13",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel (commentary): Every woman needs another woman",
+   "caption": "Every woman deserves someone in her corner. Who's in yours?\n\nTag her below.\n\nFind the women who feel like home.\n\nClip: Worth Sharing",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-13-reel.mp4",
+   "assetName": "FoundHer-Take-Every-Woman-Needs-Commentary-9x16.mp4",
+   "notes": "FoundHer Take format; last frame held 3s so the quote can be read. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
    "date": "2026-11-14",
@@ -656,6 +740,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-11-17-reel",
+   "date": "2026-11-17",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: \"I am the friend\" (podcast clip)",
+   "caption": "Some friendships don't need daily check-ins to stay strong. You can go weeks without talking and pick right back up.\n\nWhich kind of friend are you?\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-17-reel.mp4",
+   "assetName": "FoundHer-I-Am-The-Friend-Podcast-Reel-9x16.mp4",
+   "notes": "FoundHer's own podcast clip (confirmed by Jess). Tag the guest in the post (handle to add)."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-18",
    "order": 1,
@@ -688,6 +786,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-20-event"
+  },
+  {
+   "id": "2026-11-20-reel",
+   "date": "2026-11-20",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel (commentary): Mel Robbins on where your energy goes",
+   "caption": "The energy you spend worrying about other people is energy you could spend on yourself.\n\nFind your people. Find yourself.\n\nClip: Women Manifest Success",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-20-reel.mp4",
+   "assetName": "FoundHer-Take-Mel-Robbins-Commentary-9x16.mp4",
+   "notes": "FoundHer Take format. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
    "date": "2026-11-21",
@@ -750,6 +862,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-11-24-reel",
+   "date": "2026-11-24",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Women's friendships are different",
+   "caption": "Women's friendships run deep. If you've got one of those friends, send her this.\n\nTag a friend to share this message with.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-24-reel.mp4",
+   "assetName": "FoundHer-Friendship-Voiceover-Reel-9x16.mp4",
+   "notes": "Friendship voiceover, permission confirmed by Jess. Source is 576px wide, so it looks slightly soft."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-25",
    "order": 1,
@@ -783,6 +909,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-27-event"
+  },
+  {
+   "id": "2026-11-27-reel",
+   "date": "2026-11-27",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Soul sister quote",
+   "caption": "For the friend who gets you without needing an explanation.\n\nTag your soul sister.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-27-reel.mp4",
+   "assetName": "FoundHer-Soul-Sister-Quote-Reel-9x16.mp4",
+   "notes": "Quote video, permission confirmed by Jess. Day after Thanksgiving. Source is 576px wide, so it looks slightly soft."
   },
   {
    "date": "2026-11-28",
@@ -845,6 +985,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-01-reel",
+   "date": "2026-12-01",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: A gentle holiday reminder",
+   "caption": "As the holidays start, check in on the friend who's gone a little quiet. One text can mean more than you know.\n\nTag a friend to share this message with.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-01-reel.mp4",
+   "assetName": "FoundHer-Holiday-Gentle-Reminder-Reel-9x16.mp4",
+   "notes": "Holiday quote video, permission confirmed by Jess. Pin bug + end card added."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-02",
    "order": 1,
@@ -877,6 +1031,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-04-event"
+  },
+  {
+   "id": "2026-12-04-reel",
+   "date": "2026-12-04",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel (commentary): Iyanla Vanzant, stop picking on yourself",
+   "caption": "Stop picking on yourself.\n\nThere's room for you here.\n\nClip: @tonightsconversation & @femalepowercharge",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-04-reel.mp4",
+   "assetName": "FoundHer-Take-Iyanla-Vanzant-Commentary-9x16.mp4",
+   "notes": "FoundHer Take format, cut to 27s of clip. OPEN DECISIONS for Jess before approving: (1) audio includes \"b****\" and \"damn\" (can mute those two words); (2) the size 16 / size 10 line may read as body-negative (can cut it, about 24s without it). Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
    "date": "2026-12-05",
@@ -939,6 +1107,20 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-08-reel",
+   "date": "2026-12-08",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: I just woke up one day and knew",
+   "caption": "That moment you decide this season is for you.\n\nWhat's one thing you're doing for yourself this month?\n\nFind your people. Find yourself.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-08-reel.mp4",
+   "assetName": "FoundHer-Woke-Up-One-Day-Reel-9x16.mp4",
+   "notes": "Lifestyle footage, permission confirmed by Jess. Pin bug + end card added."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-09",
    "order": 1,
@@ -971,6 +1153,20 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-11-event"
+  },
+  {
+   "id": "2026-12-11-reel",
+   "date": "2026-12-11",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Splash Summit (giveaway last call)",
+   "caption": "Dreaming of summer already? Splash Summit is our biggest event of the year, and it's part of the FoundHer giveaway prize.\n\nEntries close tomorrow, December 12. Details in the FoundHer app, link in bio.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-11-reel.mp4",
+   "assetName": "FoundHer-Splash-Summit-Reel-9x16.mp4",
+   "notes": "FoundHer's own Splash Summit footage. Ties to the member-growth giveaway (closes Dec 12). If the background music is a TikTok sound, swap it for an Instagram library track when posting."
   },
   {
    "date": "2026-12-12",
@@ -1426,34 +1622,6 @@
    "asset": "assets/2027-04-01-quote.png",
    "assetName": "FoundHer-quote-2027-04-01.png",
    "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
-  },
-  {
-   "id": "2026-10-20-halloween-guide",
-   "date": "2026-10-20",
-   "order": 2,
-   "type": "guide",
-   "platform": "Instagram + Facebook",
-   "status": "approved",
-   "title": "Carousel: Utah Halloween Houses guide (10 slides)",
-   "caption": "Your Halloween drive, sorted.\n\nWe mapped 54 Halloween houses from Ogden to Provo, region by region, with a real street address for every one. Coral pins are our don't-miss picks.\n\nSwipe to find the haunts near you, then grab your girls and make a night of it. Hours vary, so check before you go.\n\nSave this for later, and tag who's coming with you.\n\nWhere you find your people.",
-   "hashtags": "#FoundHerTribe #FindYourPeople #UtahHalloween #HalloweenHouses #UtahWomen #SaltLakeCity #UtahCounty",
-   "links": {},
-   "notes": "Carousel post: upload the 10 slides in order (1080x1350). Slides and caption approved by Jess (Oct 19 2026). Sources: Axios Salt Lake 2026 Halloween displays map (Salt Lake County) and FrightMaps 2026 listings (Northern Utah, Utah County); maps are standard Google Maps with the Google data credit on each map. Credit Axios in the caption or a comment if you want to tag them. Optional music in Instagram.",
-   "slides": [
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-01.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-02.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-03.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-04.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-05.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-06.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-07.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-08.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-09.png",
-    "assets/2026-10-20-halloween-guide/FoundHer-Halloween-Houses-10.png"
-   ],
-   "asset": "assets/2026-10-20-halloween-guide.zip",
-   "assetName": "FoundHer-Halloween-Houses-carousel.zip",
-   "assetType": "application/zip"
   }
  ]
 }
