@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T17:40:53Z",
+ "updatedAt": "2026-11-02T17:47:56Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -832,6 +832,20 @@
    "id": "2026-11-22-auction"
   },
   {
+   "id": "2026-11-22-reel",
+   "date": "2026-11-22",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Friendsmas idea, painting ornaments",
+   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nEveryone takes one home, and every year it goes back on the tree, you'll remember who was at the table.\n\nSave this for your group chat.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
+   "asset": "assets/2026-11-22-reel.mp4",
+   "assetName": "FoundHer-Friendsmas-Ornaments-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot). Permission confirmed by Jess. Pin bug + end card added. Posted a few weeks ahead so groups can plan December Friendsmas parties."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-23",
    "order": 1,
@@ -953,6 +967,20 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-11-29-auction"
+  },
+  {
+   "id": "2026-11-29-reel",
+   "date": "2026-11-29",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Who's making the holiday magic?",
+   "caption": "To every woman making the holidays happen this year: we see you.\n\nTag the friend who already has the tree up.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #Friendsmas #HolidaysWithFriends #UtahWomen",
+   "asset": "assets/2026-11-29-reel.mp4",
+   "assetName": "FoundHer-Who-Makes-The-Magic-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot), lands on tree-up weekend after Thanksgiving. Permission confirmed by Jess. Pin bug + end card added."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
