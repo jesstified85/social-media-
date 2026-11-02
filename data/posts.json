@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T17:47:56Z",
+ "updatedAt": "2026-11-02T17:59:15Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -1103,6 +1103,20 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-06-auction"
+  },
+  {
+   "id": "2026-12-06-reel",
+   "date": "2026-12-06",
+   "type": "reel",
+   "order": 1.5,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: The magic of Christmas is created by women (podcast clip)",
+   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nTo every woman doing the work this season: it matters, and so do you.\n\nTag a woman who makes the magic happen.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #HolidayMagic #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-06-reel.mp4",
+   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-Reel-9x16.mp4",
+   "notes": "Holiday batch (Sunday slot). FoundHer's own podcast clip (confirmed by Jess). Cut from 74s to 29s of clip: kept the 'created by women', 'it takes work' and 'it doesn't just happen' lines; removed the mothers/children/spouse lines (FoundHer is for women of all ages) and the 'pick me' line (reads as putting other women down). Tag the guest in the post."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
