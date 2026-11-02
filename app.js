@@ -1,6 +1,6 @@
 // FoundHer Content Calendar (read-only web version).
 // Posts come from data/posts.json; assets live in /assets. Claude updates both and pushes.
-const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap",app:"App tutorial",quote:"Quote",guide:"Guide",reel:"Reel"};
+const TYPES={event:"Event",article:"Article",auction:"Auction",recap:"Recap",app:"App tutorial",quote:"Quote",guide:"Guide",reel:"Reel",tiktok:"TikTok"};
 const STATUSES={placeholder:"Placeholder",draft:"Draft",review:"Ready for Jess",approved:"Approved by Jess",posted:"Posted"};
 // Weekly formula: default slot for each weekday (0 = Sunday).
 const SLOT=["auction","event","article","auction","recap","event","article"];
@@ -11,7 +11,10 @@ const now=new Date();
 const pad=n=>String(n).padStart(2,"0");
 const ymd=d=>d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate());
 const todayKey=ymd(now);
-const state={y:now.getFullYear(),m:now.getMonth(),sel:todayKey,posts:[],loaded:false,failed:false};
+const state={y:now.getFullYear(),m:now.getMonth(),sel:todayKey,posts:[],loaded:false,failed:false,platform:"all"};
+try{const f=localStorage.getItem("fh-platform");if(f)state.platform=f;}catch(_){}
+const isTikTok=p=>/tiktok/i.test(p.platform||"");
+const inFilter=p=>state.platform==="all"||(state.platform==="tiktok"?isTikTok(p):!isTikTok(p));
 const $=s=>document.querySelector(s);
 const el=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;};
 
@@ -27,7 +30,7 @@ async function copyText(text,btn){
   function done(){toast("Copied");if(btn){const o=btn.textContent;btn.textContent="Copied";btn.classList.add("done");setTimeout(()=>{btn.textContent=o;btn.classList.remove("done");},1500);}}
 }
 
-function postsOn(key){return state.posts.filter(p=>p.date===key).sort((a,b)=>(a.order||0)-(b.order||0));}
+function postsOn(key){return state.posts.filter(p=>p.date===key&&inFilter(p)).sort((a,b)=>(a.order||0)-(b.order||0));}
 
 function renderGrid(){
   $("#monthlabel").textContent=MONTHS[state.m]+" "+state.y;
@@ -162,7 +165,8 @@ function renderPanel(){
   ps.forEach(p=>pn.appendChild(renderPost(p)));
 }
 
-function render(){renderGrid();renderPanel();}
+function render(){document.querySelectorAll(".pfilter button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.p===state.platform)));renderGrid();renderPanel();}
+document.querySelectorAll(".pfilter button").forEach(b=>b.addEventListener("click",()=>{state.platform=b.dataset.p;try{localStorage.setItem("fh-platform",state.platform);}catch(_){}render();}));
 
 $("#prev").addEventListener("click",()=>{state.m--;if(state.m<0){state.m=11;state.y--;}render();});
 $("#next").addEventListener("click",()=>{state.m++;if(state.m>11){state.m=0;state.y++;}render();});

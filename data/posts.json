@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T17:59:15Z",
+ "updatedAt": "2026-11-02T18:08:03Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -444,6 +444,20 @@
    "notes": "Friendship footage, permission confirmed by Jess. Pin bug + FoundHer end card added."
   },
   {
+   "id": "2026-11-03-tiktok",
+   "date": "2026-11-03",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: People who match your energy",
+   "caption": "Some people just match your energy.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-03-reel.mp4",
+   "assetName": "FoundHer-Match-Your-Energy-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "date": "2026-11-04",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -487,6 +501,18 @@
    }
   },
   {
+   "id": "2026-11-04-tiktok",
+   "date": "2026-11-04",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "id": "2026-11-05-quote",
    "date": "2026-11-05",
    "type": "quote",
@@ -499,6 +525,18 @@
    "asset": "assets/2026-11-05-quote.png",
    "assetName": "FoundHer-quote-2026-11-05.png",
    "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-11-05-tiktok",
+   "date": "2026-11-05",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -525,6 +563,20 @@
    "notes": "FoundHer Take format. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
+   "id": "2026-11-06-tiktok",
+   "date": "2026-11-06",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Dolly on being who you are",
+   "caption": "The people worth keeping are the ones who take the time to know who you really are.\n\nClip: Women Manifest Success\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-06-reel.mp4",
+   "assetName": "FoundHer-Take-Dolly-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+  },
+  {
    "date": "2026-11-07",
    "links": {
     "instagram": "https://foundhertribe.app/article/run-clubs-utah?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -543,6 +595,18 @@
    "asset": "assets/2026-11-07-article.mp4",
    "assetName": "FHT_2026-11-07_article_run-clubs-utah.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-07-tiktok",
+   "date": "2026-11-07",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-11-08",
@@ -588,6 +652,18 @@
    }
   },
   {
+   "id": "2026-11-08-tiktok",
+   "date": "2026-11-08",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-09",
    "order": 1,
@@ -596,6 +672,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-09-event"
+  },
+  {
+   "id": "2026-11-09-tiktok",
+   "date": "2026-11-09",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-11-10",
@@ -632,6 +720,20 @@
    "notes": "Friendship quote video, permission confirmed by Jess. Pin bug + end card added."
   },
   {
+   "id": "2026-11-10-tiktok",
+   "date": "2026-11-10",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Real friendship is rare",
+   "caption": "Not the loudest friends. The steadiest ones.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-10-reel.mp4",
+   "assetName": "FoundHer-Real-Friendship-Is-Rare-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -640,6 +742,18 @@
    "type": "auction",
    "id": "2026-11-11-auction",
    "notes": "Tate's and Stonehaven close tonight, so this slot waits for the next auction prizes."
+  },
+  {
+   "id": "2026-11-11-tiktok",
+   "date": "2026-11-11",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-11-12-quote",
@@ -654,6 +768,18 @@
    "asset": "assets/2026-11-12-quote.png",
    "assetName": "FoundHer-quote-2026-11-12.png",
    "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-11-12-tiktok",
+   "date": "2026-11-12",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -680,6 +806,20 @@
    "notes": "FoundHer Take format; last frame held 3s so the quote can be read. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
+   "id": "2026-11-13-tiktok",
+   "date": "2026-11-13",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Every woman needs another woman",
+   "caption": "Every woman deserves someone in her corner. Who's in yours?\n\nClip: Worth Sharing\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-13-reel.mp4",
+   "assetName": "FoundHer-Take-Every-Woman-Needs-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+  },
+  {
    "date": "2026-11-14",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -700,6 +840,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-11-14-tiktok",
+   "date": "2026-11-14",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-15",
    "order": 1,
@@ -710,6 +862,18 @@
    "id": "2026-11-15-auction"
   },
   {
+   "id": "2026-11-15-tiktok",
+   "date": "2026-11-15",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-16",
    "order": 1,
@@ -718,6 +882,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-16-event"
+  },
+  {
+   "id": "2026-11-16-tiktok",
+   "date": "2026-11-16",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-11-17",
@@ -754,6 +930,20 @@
    "notes": "FoundHer's own podcast clip (confirmed by Jess). Tag the guest in the post (handle to add)."
   },
   {
+   "id": "2026-11-17-tiktok",
+   "date": "2026-11-17",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: \"I am the friend\" (podcast clip)",
+   "caption": "Some friendships don't need daily check-ins to stay strong. You can go weeks without talking and pick right back up.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-17-reel.mp4",
+   "assetName": "FoundHer-I-Am-The-Friend-Podcast-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-18",
    "order": 1,
@@ -762,6 +952,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-11-18-auction"
+  },
+  {
+   "id": "2026-11-18-tiktok",
+   "date": "2026-11-18",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-11-19-quote",
@@ -776,6 +978,18 @@
    "asset": "assets/2026-11-19-quote.png",
    "assetName": "FoundHer-quote-2026-11-19.png",
    "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-11-19-tiktok",
+   "date": "2026-11-19",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -802,6 +1016,20 @@
    "notes": "FoundHer Take format. Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
+   "id": "2026-11-20-tiktok",
+   "date": "2026-11-20",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Mel Robbins on where your energy goes",
+   "caption": "The energy you spend worrying about other people is energy you could spend on yourself.\n\nClip: Women Manifest Success\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-20-reel.mp4",
+   "assetName": "FoundHer-Take-Mel-Robbins-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+  },
+  {
    "date": "2026-11-21",
    "links": {
     "instagram": "https://foundhertribe.app/article/winter-things-to-do-utah-county?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -820,6 +1048,18 @@
    "asset": "assets/2026-11-21-article.mp4",
    "assetName": "FHT_2026-11-21_article_winter-things-to-do-utah-county.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-21-tiktok",
+   "date": "2026-11-21",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -846,6 +1086,20 @@
    "notes": "Holiday batch (Sunday slot). Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card. Posted a few weeks ahead so groups can plan December Friendsmas parties."
   },
   {
+   "id": "2026-11-22-tiktok",
+   "date": "2026-11-22",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Friendsmas idea, painting ornaments",
+   "caption": "Planning a Friendsmas this year? Here's one to steal: paint ornaments together.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-22-reel.mp4",
+   "assetName": "FoundHer-Friendsmas-Ornaments-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-23",
    "order": 1,
@@ -854,6 +1108,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-23-event"
+  },
+  {
+   "id": "2026-11-23-tiktok",
+   "date": "2026-11-23",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-11-24",
@@ -890,6 +1156,20 @@
    "notes": "Friendship voiceover, permission confirmed by Jess. Source is 576px wide, so it looks slightly soft."
   },
   {
+   "id": "2026-11-24-tiktok",
+   "date": "2026-11-24",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Women's friendships are different",
+   "caption": "Women's friendships run deep. If you've got one of those friends, send her this.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-24-reel.mp4",
+   "assetName": "FoundHer-Friendship-Voiceover-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-25",
    "order": 1,
@@ -898,6 +1178,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-11-25-auction"
+  },
+  {
+   "id": "2026-11-25-tiktok",
+   "date": "2026-11-25",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-11-26-quote",
@@ -912,6 +1204,18 @@
    "asset": "assets/2026-11-26-quote.png",
    "assetName": "FoundHer-quote-2026-11-26.png",
    "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-11-26-tiktok",
+   "date": "2026-11-26",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -939,6 +1243,20 @@
    "notes": "Quote video, permission confirmed by Jess. Day after Thanksgiving. Source is 576px wide, so it looks slightly soft."
   },
   {
+   "id": "2026-11-27-tiktok",
+   "date": "2026-11-27",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Soul sister quote",
+   "caption": "For the friend who gets you without needing an explanation.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-27-reel.mp4",
+   "assetName": "FoundHer-Soul-Sister-Quote-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "date": "2026-11-28",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -957,6 +1275,18 @@
    "asset": "assets/2026-11-28-article.mp4",
    "assetName": "FHT_2026-11-28_article_holiday-markets-utah.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-28-tiktok",
+   "date": "2026-11-28",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -983,6 +1313,20 @@
    "notes": "Holiday batch (Sunday slot), lands on tree-up weekend after Thanksgiving. Permission confirmed by Jess. Full FoundHer logo badge (top left) for the whole video + end card."
   },
   {
+   "id": "2026-11-29-tiktok",
+   "date": "2026-11-29",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Who's making the holiday magic?",
+   "caption": "To every woman making the holidays happen this year: we see you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-11-29-reel.mp4",
+   "assetName": "FoundHer-Who-Makes-The-Magic-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-11-30",
    "order": 1,
@@ -991,6 +1335,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-30-event"
+  },
+  {
+   "id": "2026-11-30-tiktok",
+   "date": "2026-11-30",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-01",
@@ -1027,6 +1383,20 @@
    "notes": "Holiday quote video, permission confirmed by Jess. Pin bug + end card added."
   },
   {
+   "id": "2026-12-01-tiktok",
+   "date": "2026-12-01",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: A gentle holiday reminder",
+   "caption": "As the holidays start, check in on the friend who's gone a little quiet. One text can mean more than you know.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-01-reel.mp4",
+   "assetName": "FoundHer-Holiday-Gentle-Reminder-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-02",
    "order": 1,
@@ -1035,6 +1405,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-02-auction"
+  },
+  {
+   "id": "2026-12-02-tiktok",
+   "date": "2026-12-02",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-12-03-quote",
@@ -1049,6 +1431,18 @@
    "asset": "assets/2026-12-03-quote.png",
    "assetName": "FoundHer-quote-2026-12-03.png",
    "notes": "Womanhood quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-12-03-tiktok",
+   "date": "2026-12-03",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1075,6 +1469,20 @@
    "notes": "FoundHer Take format, cut to 27s of clip. OPEN DECISIONS for Jess before approving: (1) audio includes \"b****\" and \"damn\" (can mute those two words); (2) the size 16 / size 10 line may read as body-negative (can cut it, about 24s without it). Commentary repost of a third-party clip. Keep the on-video credit. Tag the original account in the post (confirm its exact handle before posting). Do not remove their watermark."
   },
   {
+   "id": "2026-12-04-tiktok",
+   "date": "2026-12-04",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Iyanla Vanzant, stop picking on yourself",
+   "caption": "Stop picking on yourself.\n\nClip: @tonightsconversation & @femalepowercharge\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-04-reel.mp4",
+   "assetName": "FoundHer-Take-Iyanla-Vanzant-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account. "
+  },
+  {
    "date": "2026-12-05",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -1093,6 +1501,18 @@
    "asset": "assets/2026-12-05-article.mp4",
    "assetName": "FHT_2026-12-05_article_learn-to-ski-utah.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-12-05-tiktok",
+   "date": "2026-12-05",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1119,6 +1539,20 @@
    "notes": "Holiday batch (Sunday slot). FoundHer's own podcast clip (confirmed by Jess). Cut from 74s to 29s of clip: kept the 'created by women', 'it takes work' and 'it doesn't just happen' lines; removed the mothers/children/spouse lines (FoundHer is for women of all ages) and the 'pick me' line (reads as putting other women down). Tag the guest in the post. Full FoundHer logo badge (top left) for the whole video + end card."
   },
   {
+   "id": "2026-12-06-tiktok",
+   "date": "2026-12-06",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: The magic of Christmas is created by women (podcast clip)",
+   "caption": "The holidays don't just happen. Someone plans them, wraps them, cooks them and pulls it all together.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-06-reel.mp4",
+   "assetName": "FoundHer-Magic-Of-Christmas-Podcast-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-07",
    "order": 1,
@@ -1127,6 +1561,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-07-event"
+  },
+  {
+   "id": "2026-12-07-tiktok",
+   "date": "2026-12-07",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-08",
@@ -1163,6 +1609,20 @@
    "notes": "Lifestyle footage, permission confirmed by Jess. Pin bug + end card added."
   },
   {
+   "id": "2026-12-08-tiktok",
+   "date": "2026-12-08",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: I just woke up one day and knew",
+   "caption": "That moment you decide this season is for you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-08-reel.mp4",
+   "assetName": "FoundHer-Woke-Up-One-Day-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-09",
    "order": 1,
@@ -1171,6 +1631,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-09-auction"
+  },
+  {
+   "id": "2026-12-09-tiktok",
+   "date": "2026-12-09",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-12-10-quote",
@@ -1185,6 +1657,18 @@
    "asset": "assets/2026-12-10-quote.png",
    "assetName": "FoundHer-quote-2026-12-10.png",
    "notes": "Strength quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-12-10-tiktok",
+   "date": "2026-12-10",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1211,6 +1695,20 @@
    "notes": "FoundHer's own Splash Summit footage. Ties to the member-growth giveaway (closes Dec 12). If the background music is a TikTok sound, swap it for an Instagram library track when posting."
   },
   {
+   "id": "2026-12-11-tiktok",
+   "date": "2026-12-11",
+   "type": "tiktok",
+   "order": 2.25,
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Splash Summit (giveaway last call)",
+   "caption": "Dreaming of summer already? Splash Summit is our biggest event of the year, and it's part of the FoundHer giveaway prize.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2026-12-11-reel.mp4",
+   "assetName": "FoundHer-Splash-Summit-TikTok-9x16.mp4",
+   "notes": "Cross-post of the same-day reel. On TikTok you can add a trending sound at low volume under the original audio. "
+  },
+  {
    "date": "2026-12-12",
    "links": {
     "instagram": "https://foundhertribe.app/article/lonely-during-the-holidays?utm_source=instagram&utm_medium=social&utm_campaign=articles",
@@ -1231,6 +1729,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-12-tiktok",
+   "date": "2026-12-12",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-13",
    "order": 1,
@@ -1241,6 +1751,18 @@
    "id": "2026-12-13-auction"
   },
   {
+   "id": "2026-12-13-tiktok",
+   "date": "2026-12-13",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-14",
    "order": 1,
@@ -1249,6 +1771,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-14-event"
+  },
+  {
+   "id": "2026-12-14-tiktok",
+   "date": "2026-12-14",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-15",
@@ -1271,6 +1805,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-15-tiktok",
+   "date": "2026-12-15",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-16",
    "order": 1,
@@ -1279,6 +1825,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-16-auction"
+  },
+  {
+   "id": "2026-12-16-tiktok",
+   "date": "2026-12-16",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-12-17-quote",
@@ -1295,6 +1853,18 @@
    "notes": "Friendship quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
+   "id": "2026-12-17-tiktok",
+   "date": "2026-12-17",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-18",
    "order": 1,
@@ -1303,6 +1873,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-18-event"
+  },
+  {
+   "id": "2026-12-18-tiktok",
+   "date": "2026-12-18",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-19",
@@ -1325,6 +1907,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-19-tiktok",
+   "date": "2026-12-19",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-20",
    "order": 1,
@@ -1335,6 +1929,18 @@
    "id": "2026-12-20-auction"
   },
   {
+   "id": "2026-12-20-tiktok",
+   "date": "2026-12-20",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-21",
    "order": 1,
@@ -1343,6 +1949,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-21-event"
+  },
+  {
+   "id": "2026-12-21-tiktok",
+   "date": "2026-12-21",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-22",
@@ -1365,6 +1983,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-22-tiktok",
+   "date": "2026-12-22",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-23",
    "order": 1,
@@ -1373,6 +2003,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-23-auction"
+  },
+  {
+   "id": "2026-12-23-tiktok",
+   "date": "2026-12-23",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-12-24-quote",
@@ -1389,6 +2031,18 @@
    "notes": "Womanhood quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
   },
   {
+   "id": "2026-12-24-tiktok",
+   "date": "2026-12-24",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-25",
    "notes": "Christmas Day. Confirm whether to post.",
@@ -1398,6 +2052,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-25-event"
+  },
+  {
+   "id": "2026-12-25-tiktok",
+   "date": "2026-12-25",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-26",
@@ -1420,6 +2086,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-26-tiktok",
+   "date": "2026-12-26",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-27",
    "order": 1,
@@ -1430,6 +2108,18 @@
    "id": "2026-12-27-auction"
   },
   {
+   "id": "2026-12-27-tiktok",
+   "date": "2026-12-27",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on event details from Bella and Sophie.",
    "date": "2026-12-28",
    "order": 1,
@@ -1438,6 +2128,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-28-event"
+  },
+  {
+   "id": "2026-12-28-tiktok",
+   "date": "2026-12-28",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "date": "2026-12-29",
@@ -1460,6 +2162,18 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-29-tiktok",
+   "date": "2026-12-29",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-30",
    "order": 1,
@@ -1468,6 +2182,18 @@
    "title": "Auction feature (item to confirm)",
    "type": "auction",
    "id": "2026-12-30-auction"
+  },
+  {
+   "id": "2026-12-30-tiktok",
+   "date": "2026-12-30",
+   "type": "tiktok",
+   "order": 1.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-12-31-quote",
@@ -1482,6 +2208,18 @@
    "asset": "assets/2026-12-31-quote.png",
    "assetName": "FoundHer-quote-2026-12-31.png",
    "notes": "Strength quote. Rose Blush background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2026-12-31-tiktok",
+   "date": "2026-12-31",
+   "type": "tiktok",
+   "order": 9.75,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2027-01-07-quote",
