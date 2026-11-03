@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:26:37Z",
+ "updatedAt": "2026-11-03T00:35:18Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -506,11 +506,44 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok video (to confirm)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "status": "review",
+   "title": "TikTok: How anxious attachment can show up in friendships",
+   "caption": "If a slow reply sends your mind spiraling, you're not too much.\n\nFull guide in the FoundHer app. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #AnxiousAttachment #FriendshipTips #FindYourPeople",
+   "notes": "Video version of the same-day carousel. Already saved as a TikTok draft with the sound 'Friends (Instrumental)'.",
+   "asset": "assets/2026-11-04-anxious-attachment-tiktok.mp4",
+   "assetName": "FoundHer-Anxious-Attachment-Friendships-TikTok-9x16.mp4"
+  },
+  {
+   "id": "2026-11-04-carousel",
+   "date": "2026-11-04",
+   "type": "guide",
+   "order": 2.25,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Carousel: How anxious attachment can show up in friendships (9 slides)",
+   "caption": "If a slow reply sends your mind spiraling, you're not too much. You're someone who cares a lot.\n\nSwipe for a few ways anxious attachment can show up in friendships, and our new guide has gentle ways to feel more secure.\n\nRead it in the FoundHer app. Link in bio.\n\nTag a friend who gets it.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #AnxiousAttachment #FriendshipTips #FindYourPeople",
+   "asset": "assets/2026-11-04-anxious-attachment.zip",
+   "assetName": "FoundHer-Anxious-Attachment-carousel.zip",
+   "assetType": "application/zip",
+   "slides": [
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-01.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-02.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-03.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-04.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-05.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-06.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-07.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-08.png",
+    "assets/2026-11-04-anxious-attachment/FoundHer-Anxious-Attachment-09.png"
+   ],
+   "links": {
+    "instagram": "https://foundhertribe.app/article/anxious-attachment-in-friendships?utm_source=instagram&utm_medium=social&utm_campaign=articles",
+    "facebook": "https://foundhertribe.app/article/anxious-attachment-in-friendships?utm_source=facebook&utm_medium=social&utm_campaign=articles"
+   },
+   "linktreeTitle": "Anxious Attachment in Friendships",
+   "notes": "Carousel post: upload the 9 slides in order (1080x1350). Original FoundHer copy and illustrations. Links to the new 'Anxious Attachment in Friendships' article (live in the app). Optional music in Instagram."
   },
   {
    "id": "2026-11-05-quote",
@@ -760,37 +793,16 @@
    "notes": "Tate's and Stonehaven close tonight, so this slot waits for the next auction prizes."
   },
   {
-   "id": "2026-11-11-reel",
-   "date": "2026-11-11",
-   "type": "reel",
-   "order": 1.5,
-   "platform": "Instagram + Facebook",
-   "status": "review",
-   "title": "Reel: How anxious attachment can show up in friendships",
-   "caption": "If a slow reply sends your mind spiraling, you're not too much. You're someone who cares a lot.\n\nHere are a few ways anxious attachment can show up in friendships, and our new guide has gentle ways to feel more secure.\n\nRead it in the FoundHer app. Link in bio.\n\nTag a friend who gets it.",
-   "hashtags": "#FoundHerTribe #FemaleFriendship #AnxiousAttachment #FriendshipTips #FindYourPeople",
-   "asset": "assets/2026-11-11-reel.mp4",
-   "assetName": "FoundHer-Anxious-Attachment-Friendships-9x16.mp4",
-   "links": {
-    "instagram": "https://foundhertribe.app/article/anxious-attachment-in-friendships?utm_source=instagram&utm_medium=social&utm_campaign=articles",
-    "facebook": "https://foundhertribe.app/article/anxious-attachment-in-friendships?utm_source=facebook&utm_medium=social&utm_campaign=articles"
-   },
-   "linktreeTitle": "Anxious Attachment in Friendships",
-   "notes": "Original FoundHer version of a list-style idea Jess saved (new copy and original illustrations, nothing reused from the source). Links to the new article. Video is SILENT: add a soft sound in Instagram/TikTok when posting. Extra (4th) Instagram post this week; move it if you want to stay at 3."
-  },
-  {
    "id": "2026-11-11-tiktok",
    "date": "2026-11-11",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "review",
-   "title": "TikTok: How anxious attachment can show up in friendships",
-   "caption": "If a slow reply sends your mind spiraling, you're not too much.\n\nFull guide in the FoundHer app. Link in bio.",
-   "hashtags": "#FoundHerTribe #FemaleFriendship #AnxiousAttachment #FriendshipTips #FindYourPeople",
-   "notes": "Cross-post of the same-day reel. Saved as a TikTok draft with a sound added.",
-   "asset": "assets/2026-11-11-reel.mp4",
-   "assetName": "FoundHer-Anxious-Attachment-Friendships-TikTok-9x16.mp4"
+   "status": "placeholder",
+   "title": "TikTok video (to confirm)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
   },
   {
    "id": "2026-11-12-quote",
