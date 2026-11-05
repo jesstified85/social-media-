@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T00:35:18Z",
+ "updatedAt": "2026-11-05T03:08:39Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -546,6 +546,18 @@
    "notes": "Carousel post: upload the 9 slides in order (1080x1350). Original FoundHer copy and illustrations. Links to the new 'Anxious Attachment in Friendships' article (live in the app). Optional music in Instagram."
   },
   {
+   "id": "2026-11-05-weekday",
+   "date": "2026-11-05",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-05-quote",
    "date": "2026-11-05",
    "type": "quote",
@@ -566,10 +578,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -580,6 +593,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-06-event"
+  },
+  {
+   "id": "2026-11-06-weekday",
+   "date": "2026-11-06",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-06-reel",
@@ -608,6 +633,19 @@
    "asset": "assets/2026-11-06-reel.mp4",
    "assetName": "FoundHer-Take-Dolly-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
+  },
+  {
+   "id": "2026-11-06-weekday-tiktok",
+   "date": "2026-11-06",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-07",
@@ -723,16 +761,29 @@
    "id": "2026-11-09-event"
   },
   {
+   "id": "2026-11-09-weekday",
+   "date": "2026-11-09",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-09-tiktok",
    "date": "2026-11-09",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-10",
@@ -753,6 +804,18 @@
    "asset": "assets/2026-11-10-article.mp4",
    "assetName": "FHT_2026-11-10_article_host-a-friendsgiving.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-10-weekday",
+   "date": "2026-11-10",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-10-reel",
@@ -783,6 +846,19 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
+   "id": "2026-11-10-weekday-tiktok",
+   "date": "2026-11-10",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -793,16 +869,41 @@
    "notes": "Tate's and Stonehaven close tonight, so this slot waits for the next auction prizes."
   },
   {
+   "id": "2026-11-11-weekday",
+   "date": "2026-11-11",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-11-tiktok",
    "date": "2026-11-11",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-11-12-weekday",
+   "date": "2026-11-12",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-12-quote",
@@ -825,10 +926,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -839,6 +941,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-13-event"
+  },
+  {
+   "id": "2026-11-13-weekday",
+   "date": "2026-11-13",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-13-reel",
@@ -867,6 +981,19 @@
    "asset": "assets/2026-11-13-reel.mp4",
    "assetName": "FoundHer-Take-Every-Woman-Needs-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
+  },
+  {
+   "id": "2026-11-13-weekday-tiktok",
+   "date": "2026-11-13",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-14",
@@ -954,16 +1081,29 @@
    "id": "2026-11-16-event"
   },
   {
+   "id": "2026-11-16-weekday",
+   "date": "2026-11-16",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-16-tiktok",
    "date": "2026-11-16",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-17",
@@ -984,6 +1124,18 @@
    "asset": "assets/2026-11-17-article.mp4",
    "assetName": "FHT_2026-11-17_article_book-clubs-utah.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-17-weekday",
+   "date": "2026-11-17",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-17-reel",
@@ -1014,6 +1166,19 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
+   "id": "2026-11-17-weekday-tiktok",
+   "date": "2026-11-17",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-18",
    "order": 1,
@@ -1024,16 +1189,41 @@
    "id": "2026-11-18-auction"
   },
   {
+   "id": "2026-11-18-weekday",
+   "date": "2026-11-18",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-18-tiktok",
    "date": "2026-11-18",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-11-19-weekday",
+   "date": "2026-11-19",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-19-quote",
@@ -1056,10 +1246,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1070,6 +1261,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-20-event"
+  },
+  {
+   "id": "2026-11-20-weekday",
+   "date": "2026-11-20",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-20-reel",
@@ -1098,6 +1301,19 @@
    "asset": "assets/2026-11-20-reel.mp4",
    "assetName": "FoundHer-Take-Mel-Robbins-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
+  },
+  {
+   "id": "2026-11-20-weekday-tiktok",
+   "date": "2026-11-20",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-21",
@@ -1185,16 +1401,29 @@
    "id": "2026-11-23-event"
   },
   {
+   "id": "2026-11-23-weekday",
+   "date": "2026-11-23",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-23-tiktok",
    "date": "2026-11-23",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-24",
@@ -1215,6 +1444,18 @@
    "asset": "assets/2026-11-24-article.mp4",
    "assetName": "FHT_2026-11-24_article_volunteer-in-utah.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-11-24-weekday",
+   "date": "2026-11-24",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-24-reel",
@@ -1245,6 +1486,19 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
+   "id": "2026-11-24-weekday-tiktok",
+   "date": "2026-11-24",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-25",
    "order": 1,
@@ -1255,16 +1509,41 @@
    "id": "2026-11-25-auction"
   },
   {
+   "id": "2026-11-25-weekday",
+   "date": "2026-11-25",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-25-tiktok",
    "date": "2026-11-25",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-11-26-weekday",
+   "date": "2026-11-26",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-26-quote",
@@ -1287,10 +1566,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1302,6 +1582,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-27-event"
+  },
+  {
+   "id": "2026-11-27-weekday",
+   "date": "2026-11-27",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-27-reel",
@@ -1330,6 +1622,19 @@
    "asset": "assets/2026-11-27-reel.mp4",
    "assetName": "FoundHer-Soul-Sister-Quote-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
+  },
+  {
+   "id": "2026-11-27-weekday-tiktok",
+   "date": "2026-11-27",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-28",
@@ -1417,16 +1722,29 @@
    "id": "2026-11-30-event"
   },
   {
+   "id": "2026-11-30-weekday",
+   "date": "2026-11-30",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-11-30-tiktok",
    "date": "2026-11-30",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-01",
@@ -1447,6 +1765,18 @@
    "asset": "assets/2026-12-01-article.mp4",
    "assetName": "FHT_2026-12-01_article_utah-holiday-lights.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-12-01-weekday",
+   "date": "2026-12-01",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-01-reel",
@@ -1477,6 +1807,19 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
+   "id": "2026-12-01-weekday-tiktok",
+   "date": "2026-12-01",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-02",
    "order": 1,
@@ -1487,16 +1830,41 @@
    "id": "2026-12-02-auction"
   },
   {
+   "id": "2026-12-02-weekday",
+   "date": "2026-12-02",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-02-tiktok",
    "date": "2026-12-02",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-12-03-weekday",
+   "date": "2026-12-03",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-03-quote",
@@ -1519,10 +1887,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1533,6 +1902,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-04-event"
+  },
+  {
+   "id": "2026-12-04-weekday",
+   "date": "2026-12-04",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-04-reel",
@@ -1561,6 +1942,19 @@
    "asset": "assets/2026-12-04-reel.mp4",
    "assetName": "FoundHer-Take-Iyanla-Vanzant-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
+  },
+  {
+   "id": "2026-12-04-weekday-tiktok",
+   "date": "2026-12-04",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-05",
@@ -1643,16 +2037,29 @@
    "id": "2026-12-07-event"
   },
   {
+   "id": "2026-12-07-weekday",
+   "date": "2026-12-07",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-07-tiktok",
    "date": "2026-12-07",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-08",
@@ -1673,6 +2080,18 @@
    "asset": "assets/2026-12-08-article.mp4",
    "assetName": "FHT_2026-12-08_article_keep-friendships-when-busy.mp4",
    "assetType": "video/mp4"
+  },
+  {
+   "id": "2026-12-08-weekday",
+   "date": "2026-12-08",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-08-reel",
@@ -1703,6 +2122,19 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
+   "id": "2026-12-08-weekday-tiktok",
+   "date": "2026-12-08",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-09",
    "order": 1,
@@ -1713,16 +2145,41 @@
    "id": "2026-12-09-auction"
   },
   {
+   "id": "2026-12-09-weekday",
+   "date": "2026-12-09",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-09-tiktok",
    "date": "2026-12-09",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-12-10-weekday",
+   "date": "2026-12-10",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-10-quote",
@@ -1745,10 +2202,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1759,6 +2217,18 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-11-event"
+  },
+  {
+   "id": "2026-12-11-weekday",
+   "date": "2026-12-11",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-11-reel",
@@ -1787,6 +2257,19 @@
    "asset": "assets/2026-12-11-reel.mp4",
    "assetName": "FoundHer-Splash-Summit-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
+  },
+  {
+   "id": "2026-12-11-weekday-tiktok",
+   "date": "2026-12-11",
+   "type": "tiktok",
+   "order": 2.4,
+   "platform": "TikTok",
+   "status": "placeholder",
+   "title": "TikTok: weekday video cross-post (to come)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-12",
@@ -1869,16 +2352,29 @@
    "id": "2026-12-14-event"
   },
   {
+   "id": "2026-12-14-weekday",
+   "date": "2026-12-14",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-14-tiktok",
    "date": "2026-12-14",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-15",
@@ -1901,16 +2397,29 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-15-weekday",
+   "date": "2026-12-15",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-15-tiktok",
    "date": "2026-12-15",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -1923,16 +2432,41 @@
    "id": "2026-12-16-auction"
   },
   {
+   "id": "2026-12-16-weekday",
+   "date": "2026-12-16",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-16-tiktok",
    "date": "2026-12-16",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-12-17-weekday",
+   "date": "2026-12-17",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-17-quote",
@@ -1955,10 +2489,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1971,16 +2506,29 @@
    "id": "2026-12-18-event"
   },
   {
+   "id": "2026-12-18-weekday",
+   "date": "2026-12-18",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-18-tiktok",
    "date": "2026-12-18",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-19",
@@ -2047,16 +2595,29 @@
    "id": "2026-12-21-event"
   },
   {
+   "id": "2026-12-21-weekday",
+   "date": "2026-12-21",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-21-tiktok",
    "date": "2026-12-21",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-22",
@@ -2079,16 +2640,29 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-22-weekday",
+   "date": "2026-12-22",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-22-tiktok",
    "date": "2026-12-22",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -2101,16 +2675,41 @@
    "id": "2026-12-23-auction"
   },
   {
+   "id": "2026-12-23-weekday",
+   "date": "2026-12-23",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-23-tiktok",
    "date": "2026-12-23",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-12-24-weekday",
+   "date": "2026-12-24",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-24-quote",
@@ -2133,10 +2732,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -2150,16 +2750,29 @@
    "id": "2026-12-25-event"
   },
   {
+   "id": "2026-12-25-weekday",
+   "date": "2026-12-25",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-25-tiktok",
    "date": "2026-12-25",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-26",
@@ -2226,16 +2839,29 @@
    "id": "2026-12-28-event"
   },
   {
+   "id": "2026-12-28-weekday",
+   "date": "2026-12-28",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-28-tiktok",
    "date": "2026-12-28",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-29",
@@ -2258,16 +2884,29 @@
    "assetType": "video/mp4"
   },
   {
+   "id": "2026-12-29-weekday",
+   "date": "2026-12-29",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-29-tiktok",
    "date": "2026-12-29",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -2280,16 +2919,41 @@
    "id": "2026-12-30-auction"
   },
   {
+   "id": "2026-12-30-weekday",
+   "date": "2026-12-30",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+  },
+  {
    "id": "2026-12-30-tiktok",
    "date": "2026-12-30",
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
+  },
+  {
+   "id": "2026-12-31-weekday",
+   "date": "2026-12-31",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "placeholder",
+   "title": "Weekday video (Jess to create)",
+   "caption": "",
+   "hashtags": "",
+   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-31-quote",
@@ -2312,10 +2976,11 @@
    "order": 9.75,
    "platform": "TikTok",
    "status": "placeholder",
-   "title": "TikTok video (to confirm)",
+   "title": "TikTok: weekday video cross-post (to come)",
    "caption": "",
    "hashtags": "",
-   "notes": "Daily TikTok slot. New TikTok video to be added by Sophie and Bella."
+   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
+   "weekdayCrosspost": true
   },
   {
    "id": "2027-01-07-quote",

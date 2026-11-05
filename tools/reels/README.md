@@ -30,3 +30,17 @@ Footage and music (optional): add to a spec
 `"audio": {"src": "tools/reels/media/<track>.wav", "volume": 0.9, "fade_out": 1.0}`.
 Sources come from FoundHer's Motion Array account and stay in `tools/reels/media/`, which is git-ignored
 (licensed stock is not redistributed through the repo). Prefer tracks that are not Content ID registered.
+
+# Weekday original videos (from Nov 5 2026)
+
+Jess posts one FoundHer ORIGINAL video on Instagram + Facebook every weekday (Mon to Fri), on top of the
+Tue/Fri/Sun reels, and the same video is cross-posted to that day's TikTok slot.
+
+1. Jess saves raw videos to `~/Downloads/FoundHer Weekday Videos` on her Mac.
+2. Brand each one: `python3 tools/reels/brand_original.py IN.mov assets/YYYY-MM-DD-weekday.mp4`
+   (coral pin bug top-left, then the approved cream end card from the Nov 3 reel; 1080x1920, 30 fps).
+3. Fill the next open `YYYY-MM-DD-weekday` placeholder in `data/posts.json` (status `review`, captions in
+   second person, no em dashes) and the matching TikTok post flagged `weekdayCrosspost`, which uses the same asset.
+4. Save the branded file back to `~/Downloads/FoundHer Weekday Videos/Branded/`.
+
+Originals only. Third-party clips use the FoundHer Take format (credit kept, account tagged).
