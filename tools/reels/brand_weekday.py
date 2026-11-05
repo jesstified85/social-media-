@@ -16,6 +16,7 @@ S = Path(__file__).resolve().parent
 W, H, FPS = 720, 1280, 30
 CREAM = (252, 242, 232); CHARCOAL = (26, 26, 26); TERRACOTTA = (201, 101, 50)
 LOGO_SVG = S / "brand/FoundHer-Primary-Logo.svg"
+WORDMARK_SVG = S / "brand/FoundHer-Wordmark-NoTribe.svg"  # primary logo minus TRIBE and rules, for the on-video mark
 
 
 def font(name, size, var):
@@ -25,15 +26,15 @@ def font(name, size, var):
     return f
 
 
-def logo(width, out):
-    subprocess.run(["rsvg-convert", "-w", str(width), "-o", str(out), str(LOGO_SVG)], check=True)
+def logo(width, out, svg=LOGO_SVG):
+    subprocess.run(["rsvg-convert", "-w", str(width), "-o", str(out), str(svg)], check=True)
     return Image.open(out).convert("RGBA")
 
 
 def badge(path, tmp):
     """White logo, transparent background, soft shadow so it reads on light footage."""
     from PIL import ImageFilter
-    lg = logo(330, tmp / "lg_badge.png")
+    lg = logo(340, tmp / "lg_badge.png", WORDMARK_SVG)
     a = lg.getchannel("A")
     white = Image.new("RGBA", lg.size, (255, 255, 255, 255)); white.putalpha(a)
     pad = 24
