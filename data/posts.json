@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T03:08:39Z",
+ "updatedAt": "2026-11-05T04:13:59Z",
  "posts": [
   {
    "id": "2026-10-17-article",
@@ -551,11 +551,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Sometimes the sister you need wasn't the one you were born w...",
+   "caption": "Sometimes the sister you need wasn't the one you were born with.\n\nWant to find your next best friend? FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-05-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-05-Post30-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 30). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-05-quote",
@@ -577,12 +579,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Sometimes the sister you need wasn't the one you were born w...",
+   "caption": "Sometimes the sister you need wasn't the one you were born with.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-05-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-05-Post30-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -593,18 +596,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-06-event"
-  },
-  {
-   "id": "2026-11-06-weekday",
-   "date": "2026-11-06",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-06-reel",
@@ -633,19 +624,6 @@
    "asset": "assets/2026-11-06-reel.mp4",
    "assetName": "FoundHer-Take-Dolly-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
-  },
-  {
-   "id": "2026-11-06-weekday-tiktok",
-   "date": "2026-11-06",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-07",
@@ -766,11 +744,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: If you carry one thing with you today, let it be this",
+   "caption": "If you carry one thing with you today, let it be this.\n\nLooking to find yourself? Join like-minded women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-09-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-09-Post28-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 28). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-09-tiktok",
@@ -778,12 +758,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: If you carry one thing with you today, let it be this",
+   "caption": "If you carry one thing with you today, let it be this.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-09-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-09-Post28-TikTok-9x16.mp4"
   },
   {
    "date": "2026-11-10",
@@ -804,18 +785,6 @@
    "asset": "assets/2026-11-10-article.mp4",
    "assetName": "FHT_2026-11-10_article_host-a-friendsgiving.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-11-10-weekday",
-   "date": "2026-11-10",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-10-reel",
@@ -846,19 +815,6 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
-   "id": "2026-11-10-weekday-tiktok",
-   "date": "2026-11-10",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
-  },
-  {
    "date": "2026-11-11",
    "order": 1,
    "platform": "Instagram + Facebook",
@@ -874,11 +830,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: If you asked me about my best friend",
+   "caption": "If you asked me about my best friend...\n\nWant to find your next best friend? FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-11-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-11-Post44-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 44). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-11-tiktok",
@@ -886,12 +844,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: If you asked me about my best friend",
+   "caption": "If you asked me about my best friend...\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-11-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-11-Post44-TikTok-9x16.mp4"
   },
   {
    "id": "2026-11-12-weekday",
@@ -899,11 +858,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: A sentence that made me turn my phone off and stare in silen...",
+   "caption": "A sentence that made me turn my phone off and stare in silence.\n\nLooking to find yourself? Join like-minded women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-12-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-12-Post50-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 50). FoundHer logo badge + closing CTA card added. Page from the book Finding Me Again on screen."
   },
   {
    "id": "2026-11-12-quote",
@@ -925,12 +886,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: A sentence that made me turn my phone off and stare in silen...",
+   "caption": "A sentence that made me turn my phone off and stare in silence.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Page from the book Finding Me Again on screen.",
+   "asset": "assets/2026-11-12-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-12-Post50-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -941,18 +903,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-13-event"
-  },
-  {
-   "id": "2026-11-13-weekday",
-   "date": "2026-11-13",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-13-reel",
@@ -981,19 +931,6 @@
    "asset": "assets/2026-11-13-reel.mp4",
    "assetName": "FoundHer-Take-Every-Woman-Needs-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
-  },
-  {
-   "id": "2026-11-13-weekday-tiktok",
-   "date": "2026-11-13",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-14",
@@ -1086,11 +1023,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Adult friendships be like",
+   "caption": "Adult friendships be like...\n\nWant friends who actually show up? Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-16-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-16-Post47-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 47). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-16-tiktok",
@@ -1098,12 +1037,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Adult friendships be like",
+   "caption": "Adult friendships be like...\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-16-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-16-Post47-TikTok-9x16.mp4"
   },
   {
    "date": "2026-11-17",
@@ -1124,18 +1064,6 @@
    "asset": "assets/2026-11-17-article.mp4",
    "assetName": "FHT_2026-11-17_article_book-clubs-utah.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-11-17-weekday",
-   "date": "2026-11-17",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-17-reel",
@@ -1166,19 +1094,6 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
-   "id": "2026-11-17-weekday-tiktok",
-   "date": "2026-11-17",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-18",
    "order": 1,
@@ -1194,11 +1109,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: You are not starting over. You are rebuilding",
+   "caption": "You are not starting over. You are rebuilding.\n\nRebuilding? You don't have to do it alone. Find your people at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-18-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-18-Post51-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 51). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-18-tiktok",
@@ -1206,12 +1123,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: You are not starting over. You are rebuilding",
+   "caption": "You are not starting over. You are rebuilding.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-18-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-18-Post51-TikTok-9x16.mp4"
   },
   {
    "id": "2026-11-19-weekday",
@@ -1219,11 +1137,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: If adults made friends the way little kids do",
+   "caption": "If adults made friends the way little kids do...\n\nMaking friends shouldn't be this hard. Find your people at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-19-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-19-Post35-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 35). FoundHer logo badge + closing CTA card added. Skit by another creator. Keep any on-screen credit and tag them if known."
   },
   {
    "id": "2026-11-19-quote",
@@ -1245,12 +1165,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: If adults made friends the way little kids do",
+   "caption": "If adults made friends the way little kids do...\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Skit by another creator. Keep any on-screen credit and tag them if known.",
+   "asset": "assets/2026-11-19-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-19-Post35-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1261,18 +1182,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-20-event"
-  },
-  {
-   "id": "2026-11-20-weekday",
-   "date": "2026-11-20",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-20-reel",
@@ -1301,19 +1210,6 @@
    "asset": "assets/2026-11-20-reel.mp4",
    "assetName": "FoundHer-Take-Mel-Robbins-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
-  },
-  {
-   "id": "2026-11-20-weekday-tiktok",
-   "date": "2026-11-20",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-21",
@@ -1406,11 +1302,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: All the other versions of you had to fight to get here",
+   "caption": "All the other versions of you had to fight to get here.\n\nLooking to find yourself? Join like-minded women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-23-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-23-Post52-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 52). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-23-tiktok",
@@ -1418,12 +1316,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: All the other versions of you had to fight to get here",
+   "caption": "All the other versions of you had to fight to get here.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-23-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-23-Post52-TikTok-9x16.mp4"
   },
   {
    "date": "2026-11-24",
@@ -1444,18 +1343,6 @@
    "asset": "assets/2026-11-24-article.mp4",
    "assetName": "FHT_2026-11-24_article_volunteer-in-utah.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-11-24-weekday",
-   "date": "2026-11-24",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-24-reel",
@@ -1486,19 +1373,6 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
-   "id": "2026-11-24-weekday-tiktok",
-   "date": "2026-11-24",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-11-25",
    "order": 1,
@@ -1514,11 +1388,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: POV: making mom friends as an adult",
+   "caption": "POV: making mom friends as an adult.\n\nMaking friends shouldn't be this hard. Find your people at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-25-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-25-Post37-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 37). FoundHer logo badge + closing CTA card added. Skit by another creator. Keep any on-screen credit and tag them if known."
   },
   {
    "id": "2026-11-25-tiktok",
@@ -1526,12 +1402,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: POV: making mom friends as an adult",
+   "caption": "POV: making mom friends as an adult.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Skit by another creator. Keep any on-screen credit and tag them if known.",
+   "asset": "assets/2026-11-25-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-25-Post37-TikTok-9x16.mp4"
   },
   {
    "id": "2026-11-26-weekday",
@@ -1539,11 +1416,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: I hope I've been half as good a friend as you've been to me",
+   "caption": "I hope I've been half as good a friend as you've been to me.\n\nFind the women who feel like home, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-26-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-26-Post39-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 39). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-26-quote",
@@ -1565,12 +1444,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: I hope I've been half as good a friend as you've been to me",
+   "caption": "I hope I've been half as good a friend as you've been to me.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-26-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-26-Post39-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1582,18 +1462,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-11-27-event"
-  },
-  {
-   "id": "2026-11-27-weekday",
-   "date": "2026-11-27",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-11-27-reel",
@@ -1622,19 +1490,6 @@
    "asset": "assets/2026-11-27-reel.mp4",
    "assetName": "FoundHer-Soul-Sister-Quote-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
-  },
-  {
-   "id": "2026-11-27-weekday-tiktok",
-   "date": "2026-11-27",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-11-28",
@@ -1727,11 +1582,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Nature remembers who you are. You are allowed to rest",
+   "caption": "Nature remembers who you are. You are allowed to rest.\n\nFind your people. Find yourself. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-11-30-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-30-Post53-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 53). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-11-30-tiktok",
@@ -1739,12 +1596,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Nature remembers who you are. You are allowed to rest",
+   "caption": "Nature remembers who you are. You are allowed to rest.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-11-30-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-11-30-Post53-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-01",
@@ -1765,18 +1623,6 @@
    "asset": "assets/2026-12-01-article.mp4",
    "assetName": "FHT_2026-12-01_article_utah-holiday-lights.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-12-01-weekday",
-   "date": "2026-12-01",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-01-reel",
@@ -1807,19 +1653,6 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
-   "id": "2026-12-01-weekday-tiktok",
-   "date": "2026-12-01",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-02",
    "order": 1,
@@ -1835,11 +1668,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Your Christmas and winter bucket list is here. Who's doing i...",
+   "caption": "Your Christmas and winter bucket list is here. Who's doing it with you?\n\nWant friends to tick off this list with? Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-02-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-02-Post38-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 38). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-02-tiktok",
@@ -1847,12 +1682,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Your Christmas and winter bucket list is here. Who's doing i...",
+   "caption": "Your Christmas and winter bucket list is here. Who's doing it with you?\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-02-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-02-Post38-TikTok-9x16.mp4"
   },
   {
    "id": "2026-12-03-weekday",
@@ -1860,11 +1696,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Being everyone's friend but never anyone's first choice. We ...",
+   "caption": "Being everyone's friend but never anyone's first choice. We see you.\n\nReady to be someone's first choice? Find your people at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-03-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-03-Post34-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 34). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-03-quote",
@@ -1886,12 +1724,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Being everyone's friend but never anyone's first choice. We ...",
+   "caption": "Being everyone's friend but never anyone's first choice. We see you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-03-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-03-Post34-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -1902,18 +1741,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-04-event"
-  },
-  {
-   "id": "2026-12-04-weekday",
-   "date": "2026-12-04",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-04-reel",
@@ -1942,19 +1769,6 @@
    "asset": "assets/2026-12-04-reel.mp4",
    "assetName": "FoundHer-Take-Iyanla-Vanzant-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio. Keep the on-video credit and tag the original account."
-  },
-  {
-   "id": "2026-12-04-weekday-tiktok",
-   "date": "2026-12-04",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-05",
@@ -2042,11 +1856,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Silence is more powerful than proving your point",
+   "caption": "Silence is more powerful than proving your point.\n\nFind your people. Find yourself. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-07-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-07-Post54-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 54). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-07-tiktok",
@@ -2054,12 +1870,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Silence is more powerful than proving your point",
+   "caption": "Silence is more powerful than proving your point.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-07-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-07-Post54-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-08",
@@ -2080,18 +1897,6 @@
    "asset": "assets/2026-12-08-article.mp4",
    "assetName": "FHT_2026-12-08_article_keep-friendships-when-busy.mp4",
    "assetType": "video/mp4"
-  },
-  {
-   "id": "2026-12-08-weekday",
-   "date": "2026-12-08",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-08-reel",
@@ -2122,19 +1927,6 @@
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
   },
   {
-   "id": "2026-12-08-weekday-tiktok",
-   "date": "2026-12-08",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
-  },
-  {
    "assetNote": "Waiting on the auction link.",
    "date": "2026-12-09",
    "order": 1,
@@ -2150,11 +1942,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Every woman needs a woman in her life who sees her magic",
+   "caption": "Every woman needs a woman in her life who sees her magic.\n\nStill looking for the woman who sees your magic? Find her at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-09-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-09-Post27-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 27). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-09-tiktok",
@@ -2162,12 +1956,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Every woman needs a woman in her life who sees her magic",
+   "caption": "Every woman needs a woman in her life who sees her magic.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-09-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-09-Post27-TikTok-9x16.mp4"
   },
   {
    "id": "2026-12-10-weekday",
@@ -2175,11 +1970,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: The right doors won't open until you are the version of your...",
+   "caption": "The right doors won't open until you are the version of yourself that's meant to walk through them.\n\nReady for your next chapter? Grow alongside women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-10-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-10-Post55-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 55). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-10-quote",
@@ -2201,12 +1998,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: The right doors won't open until you are the version of your...",
+   "caption": "The right doors won't open until you are the version of yourself that's meant to walk through them.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-10-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-10-Post55-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -2217,18 +2015,6 @@
    "title": "Event promotion (event to confirm)",
    "type": "event",
    "id": "2026-12-11-event"
-  },
-  {
-   "id": "2026-12-11-weekday",
-   "date": "2026-12-11",
-   "type": "reel",
-   "order": 1.4,
-   "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
   },
   {
    "id": "2026-12-11-reel",
@@ -2257,19 +2043,6 @@
    "asset": "assets/2026-12-11-reel.mp4",
    "assetName": "FoundHer-Splash-Summit-TikTok-9x16.mp4",
    "notes": "Cross-post of the same-day reel. You can add a trending sound at low volume under the original audio."
-  },
-  {
-   "id": "2026-12-11-weekday-tiktok",
-   "date": "2026-12-11",
-   "type": "tiktok",
-   "order": 2.4,
-   "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
   },
   {
    "date": "2026-12-12",
@@ -2357,11 +2130,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Sometimes I forget my worth, and then I look at the women I ...",
+   "caption": "Sometimes I forget my worth, and then I look at the women I get to call my friends.\n\nYour people are looking for you, too. Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-14-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-14-Post40-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 40). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-14-tiktok",
@@ -2369,12 +2144,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Sometimes I forget my worth, and then I look at the women I ...",
+   "caption": "Sometimes I forget my worth, and then I look at the women I get to call my friends.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-14-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-14-Post40-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-15",
@@ -2402,11 +2178,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: No one can be 100% every day. And that's okay",
+   "caption": "No one can be 100% every day. And that's okay.\n\nGrowing a little every day? Do it with women who cheer you on, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-15-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-15-Post56-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 56). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-15-tiktok",
@@ -2414,12 +2192,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: No one can be 100% every day. And that's okay",
+   "caption": "No one can be 100% every day. And that's okay.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-15-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-15-Post56-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -2437,11 +2216,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Some people are just good people",
+   "caption": "Some people are just good people.\n\nWant more good people in your life? Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-16-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-16-Post41-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 41). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-16-tiktok",
@@ -2449,12 +2230,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Some people are just good people",
+   "caption": "Some people are just good people.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-16-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-16-Post41-TikTok-9x16.mp4"
   },
   {
    "id": "2026-12-17-weekday",
@@ -2462,11 +2244,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Small steps, big impact",
+   "caption": "Small steps, big impact.\n\nReady to grow? Join like-minded women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-17-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-17-Post58-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 58). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-17-quote",
@@ -2488,12 +2272,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Small steps, big impact",
+   "caption": "Small steps, big impact.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-17-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-17-Post58-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -2511,11 +2296,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: A true friend lets you express your darkness but always remi...",
+   "caption": "A true friend lets you express your darkness but always reminds you of your light.\n\nFind the women who feel like home, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-18-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-18-Post42-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 42). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-18-tiktok",
@@ -2523,12 +2310,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: A true friend lets you express your darkness but always remi...",
+   "caption": "A true friend lets you express your darkness but always reminds you of your light.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-18-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-18-Post42-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-19",
@@ -2600,11 +2388,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Five ways to find yourself again",
+   "caption": "Five ways to find yourself again.\n\nLooking to find yourself? Join like-minded women at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-21-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-21-Post59-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 59). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-21-tiktok",
@@ -2612,12 +2402,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Five ways to find yourself again",
+   "caption": "Five ways to find yourself again.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-21-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-21-Post59-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-22",
@@ -2645,11 +2436,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Bestie",
+   "caption": "Bestie.\n\nStill looking for your bestie? Find her at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-22-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-22-Post45-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 45). FoundHer logo badge + closing CTA card added. Poem voiced by Victorian Poetry (credit on screen). Keep the credit."
   },
   {
    "id": "2026-12-22-tiktok",
@@ -2657,12 +2450,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Bestie",
+   "caption": "Bestie.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Poem voiced by Victorian Poetry (credit on screen). Keep the credit.",
+   "asset": "assets/2026-12-22-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-22-Post45-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -2680,11 +2474,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Maybe this era is meant for getting to know yourself",
+   "caption": "Maybe this era is meant for getting to know yourself.\n\nGetting to know yourself? Meet women doing the same at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-23-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-23-Post60-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 60). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-23-tiktok",
@@ -2692,12 +2488,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Maybe this era is meant for getting to know yourself",
+   "caption": "Maybe this era is meant for getting to know yourself.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-23-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-23-Post60-TikTok-9x16.mp4"
   },
   {
    "id": "2026-12-24-weekday",
@@ -2705,11 +2502,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Friendship isn't about who you spend the most time with",
+   "caption": "Friendship isn't about who you spend the most time with.\n\nFind the friends you have the best time with, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-24-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-24-Post46-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 46). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-24-quote",
@@ -2731,12 +2530,13 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Friendship isn't about who you spend the most time with",
+   "caption": "Friendship isn't about who you spend the most time with.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-24-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-24-Post46-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on event details from Bella and Sophie.",
@@ -2755,11 +2555,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: You cannot use someone else's map to find yourself",
+   "caption": "You cannot use someone else's map to find yourself.\n\nFinding your own way? Do it with women who get it, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-25-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-25-Post61-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 61). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-25-tiktok",
@@ -2767,12 +2569,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: You cannot use someone else's map to find yourself",
+   "caption": "You cannot use someone else's map to find yourself.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-25-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-25-Post61-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-26",
@@ -2844,11 +2647,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Know yourself so well that no one's opinion can shake you",
+   "caption": "Know yourself so well that no one's opinion can shake you.\n\nFind your people. Find yourself. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-28-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-28-Post62-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 62). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-28-tiktok",
@@ -2856,12 +2661,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Know yourself so well that no one's opinion can shake you",
+   "caption": "Know yourself so well that no one's opinion can shake you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-28-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-28-Post62-TikTok-9x16.mp4"
   },
   {
    "date": "2026-12-29",
@@ -2889,11 +2695,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: The more women gather, the longer we live. Science agrees",
+   "caption": "The more women gather, the longer we live. Science agrees.\n\nCome alone. Leave with friends. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-29-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-29-Post31-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 31). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-29-tiktok",
@@ -2901,12 +2709,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: The more women gather, the longer we live. Science agrees",
+   "caption": "The more women gather, the longer we live. Science agrees.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-29-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-29-Post31-TikTok-9x16.mp4"
   },
   {
    "assetNote": "Waiting on the auction link.",
@@ -2924,11 +2733,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Girl, focus on you",
+   "caption": "Girl, focus on you.\n\nFocusing on you? Surround yourself with women who get it, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-30-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-30-Post63-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 63). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-30-tiktok",
@@ -2936,12 +2747,13 @@
    "type": "tiktok",
    "order": 1.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Girl, focus on you",
+   "caption": "Girl, focus on you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-30-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-30-Post63-TikTok-9x16.mp4"
   },
   {
    "id": "2026-12-31-weekday",
@@ -2949,11 +2761,13 @@
    "type": "reel",
    "order": 1.4,
    "platform": "Instagram + Facebook",
-   "status": "placeholder",
-   "title": "Weekday video (Jess to create)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Weekday Instagram video (FoundHer original). Jess saves the raw video to Downloads/FoundHer Weekday Videos; Claude brands it (coral pin + FoundHer end card) and fills this slot in the order videos are saved."
+   "status": "review",
+   "title": "Reel: Love is all around you. Sometimes it looks like a table full...",
+   "caption": "Love is all around you. Sometimes it looks like a table full of friends.\n\nCome alone. Leave with friends. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2026-12-31-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-31-Post43-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 43). FoundHer logo badge + closing CTA card added."
   },
   {
    "id": "2026-12-31-quote",
@@ -2975,12 +2789,153 @@
    "type": "tiktok",
    "order": 9.75,
    "platform": "TikTok",
-   "status": "placeholder",
-   "title": "TikTok: weekday video cross-post (to come)",
-   "caption": "",
-   "hashtags": "",
-   "notes": "Cross-post of today's weekday Instagram video once it is added. You can add a trending sound at low volume under the original audio.",
-   "weekdayCrosspost": true
+   "status": "review",
+   "title": "TikTok: Love is all around you. Sometimes it looks like a table full...",
+   "caption": "Love is all around you. Sometimes it looks like a table full of friends.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "asset": "assets/2026-12-31-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2026-12-31-Post43-TikTok-9x16.mp4"
+  },
+  {
+   "id": "2027-01-01-weekday",
+   "date": "2027-01-01",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Be \"difficult.\"",
+   "caption": "Be \"difficult.\"\n\nFind the women who change the game with you, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-01-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-01-Post65-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 65). FoundHer logo badge + closing CTA card added. Clip via @fearlessfemalesclub (credit on screen). Tag them in the post."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Be \"difficult.\"",
+   "caption": "Be \"difficult.\"\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-01-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-01-Post65-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Clip via @fearlessfemalesclub (credit on screen). Tag them in the post.",
+   "id": "2027-01-01-weekday-tiktok",
+   "date": "2027-01-01",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-04-weekday",
+   "date": "2027-01-04",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: If you're lost, you can look, and you will find me",
+   "caption": "If you're lost, you can look, and you will find me.\n\nYou can sit with us. FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-04-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-04-Post48-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 48). FoundHer logo badge + closing CTA card added."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: If you're lost, you can look, and you will find me",
+   "caption": "If you're lost, you can look, and you will find me.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-04-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-04-Post48-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "id": "2027-01-04-weekday-tiktok",
+   "date": "2027-01-04",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-05-weekday",
+   "date": "2027-01-05",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Women who love themselves love other women",
+   "caption": "Women who love themselves love other women.\n\nFind the women who cheer you on, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-05-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-05-Post26-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 26). FoundHer logo badge + closing CTA card added. Montage of film clips. Movie footage can be muted or removed for copyright."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Women who love themselves love other women",
+   "caption": "Women who love themselves love other women.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-05-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-05-Post26-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Montage of film clips. Movie footage can be muted or removed for copyright.",
+   "id": "2027-01-05-weekday-tiktok",
+   "date": "2027-01-05",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-06-weekday",
+   "date": "2027-01-06",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: The women who raised us, the women who stood by us",
+   "caption": "The women who raised us, the women who stood by us.\n\nSurround yourself with women who lift you up. Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-06-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-06-Post2-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 2). FoundHer logo badge + closing CTA card added. Clips: Academy Awards acceptance speeches. Third-party footage, keep the on-screen credit and do not claim it as original."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: The women who raised us, the women who stood by us",
+   "caption": "The women who raised us, the women who stood by us.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-06-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-06-Post2-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Clips: Academy Awards acceptance speeches. Third-party footage, keep the on-screen credit and do not claim it as original.",
+   "id": "2027-01-06-weekday-tiktok",
+   "date": "2027-01-06",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-07-weekday",
+   "date": "2027-01-07",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Every mom has had this exact day",
+   "caption": "Every mom has had this exact day.\n\nNeed mom friends who get it? Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-07-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-07-Post3-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 3). FoundHer logo badge + closing CTA card added. Clip: Bad Moms (2016). Movie footage can be muted or removed by Instagram/TikTok for copyright."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Every mom has had this exact day",
+   "caption": "Every mom has had this exact day.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-07-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-07-Post3-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Clip: Bad Moms (2016). Movie footage can be muted or removed by Instagram/TikTok for copyright.",
+   "id": "2027-01-07-weekday-tiktok",
+   "date": "2027-01-07",
+   "order": 2.4
   },
   {
    "id": "2027-01-07-quote",
@@ -2995,6 +2950,90 @@
    "asset": "assets/2027-01-07-quote.png",
    "assetName": "FoundHer-quote-2027-01-07.png",
    "notes": "Friendship quote. Sage background, 1080x1350 feed post. Original wording (not attributed to anyone). No music needed; can also be shared to Stories."
+  },
+  {
+   "id": "2027-01-08-weekday",
+   "date": "2027-01-08",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: Real talk about making friends as an adult",
+   "caption": "Real talk about making friends as an adult.\n\nWant to find your next best friend? FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-08-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-08-Post36-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 36). FoundHer logo badge + closing CTA card added. Talking-head video. If this is another creator, tag them."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: Real talk about making friends as an adult",
+   "caption": "Real talk about making friends as an adult.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-08-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-08-Post36-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio. Talking-head video. If this is another creator, tag them.",
+   "id": "2027-01-08-weekday-tiktok",
+   "date": "2027-01-08",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-11-weekday",
+   "date": "2027-01-11",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: The point is not to be liked by everyone. The right people w...",
+   "caption": "The point is not to be liked by everyone. The right people will love you.\n\nThe right people are out there. Find them at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-11-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-11-Post64-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 64). FoundHer logo badge + closing CTA card added."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: The point is not to be liked by everyone. The right people w...",
+   "caption": "The point is not to be liked by everyone. The right people will love you.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-11-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-11-Post64-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "id": "2027-01-11-weekday-tiktok",
+   "date": "2027-01-11",
+   "order": 2.4
+  },
+  {
+   "id": "2027-01-12-weekday",
+   "date": "2027-01-12",
+   "type": "reel",
+   "order": 1.4,
+   "platform": "Instagram + Facebook",
+   "status": "review",
+   "title": "Reel: No one is coming to build it for you. But you don't have to ...",
+   "caption": "No one is coming to build it for you. But you don't have to build it alone.\n\nBuilding your dream life? Do it alongside women who get it, at FoundHer.\n\nWhere you find your people.",
+   "hashtags": "#FoundHerTribe #FindYourPeople #FemaleFriendship #WomenSupportingWomen #UtahWomen",
+   "asset": "assets/2027-01-12-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-12-Post12-9x16.mp4",
+   "notes": "Weekday video from Jess's 'social videos' folder (FoundHer social post 12). FoundHer logo badge + closing CTA card added."
+  },
+  {
+   "type": "tiktok",
+   "platform": "TikTok",
+   "status": "review",
+   "title": "TikTok: No one is coming to build it for you. But you don't have to ...",
+   "caption": "No one is coming to build it for you. But you don't have to build it alone.\n\nFind your people with FoundHer Tribe. Link in bio.",
+   "hashtags": "#FoundHerTribe #FemaleFriendship #WomenSupportingWomen #UtahWomen #FindYourPeople",
+   "asset": "assets/2027-01-12-weekday.mp4",
+   "assetName": "FoundHer-Weekday-2027-01-12-Post12-TikTok-9x16.mp4",
+   "notes": "Cross-post of today's weekday reel. You can add a trending sound at low volume under the original audio.",
+   "id": "2027-01-12-weekday-tiktok",
+   "date": "2027-01-12",
+   "order": 2.4
   },
   {
    "id": "2027-01-14-quote",

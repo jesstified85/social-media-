@@ -65,12 +65,12 @@ def pin_bug(path, width=64):
 
 def probe(src):
     out = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
-                          "stream=codec_type,width,height:stream_side_data=rotation:format=duration",
+                          "stream=codec_type,width,height,duration:format=duration",
                           "-of", "json", str(src)], capture_output=True, text=True, check=True).stdout
     j = json.loads(out)
     v = next(s for s in j["streams"] if s["codec_type"] == "video")
     has_audio = any(s["codec_type"] == "audio" for s in j["streams"])
-    return float(j["format"]["duration"]), v["width"], v["height"], has_audio
+    return float(v.get("duration") or j["format"]["duration"]), v["width"], v["height"], has_audio
 
 
 def main():
@@ -88,7 +88,7 @@ def main():
             f"[bg][fg]overlay=(W-w)/2:(H-h)/2")
     portrait = h > w and abs((w / h) - 9 / 16) < 0.06
     base = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}" if portrait else fill)
-    fc = (f"{base},fps={FPS},setsar=1,format=yuv420p[v0];"
+    fc = (f"{base},fps={FPS},tpad=stop_mode=clone:stop_duration=2,trim=duration={dur:.3f},setsar=1,format=yuv420p[v0];"
           f"[v0][2:v]overlay=86:250,format=yuv420p[vb];"
           f"[1:v]loop=-1:1,fps={FPS},scale={W}:{H},setsar=1,format=yuv420p,trim=duration={a.end + fade}[ec];"
           f"[vb][ec]xfade=transition=fade:duration={fade}:offset={dur - fade:.3f}[v]")
