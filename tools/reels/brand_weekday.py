@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Brand a weekday Instagram video: prominent FoundHer logo badge over the footage,
+"""Brand a weekday Instagram video: prominent white FoundHer logo (transparent background) over the footage,
 then a cream closing card with a CTA that ends on the logo
 ("Want to find your next best friend?" + foundher logo). 720x1280, 30 fps, H.264 + AAC.
 
@@ -31,14 +31,20 @@ def logo(width, out):
 
 
 def badge(path, tmp):
-    lg = logo(300, tmp / "lg_badge.png")
-    px, py = 26, 16
-    w, h = lg.width + 2 * px, lg.height + 2 * py
-    im = Image.new("RGBA", (w, h), (0, 0, 0, 0))
-    ImageDraw.Draw(im).rounded_rectangle((0, 0, w - 1, h - 1), radius=22, fill=CREAM + (240,))
-    im.alpha_composite(lg, (px, py))
+    """White logo, transparent background, soft shadow so it reads on light footage."""
+    from PIL import ImageFilter
+    lg = logo(330, tmp / "lg_badge.png")
+    a = lg.getchannel("A")
+    white = Image.new("RGBA", lg.size, (255, 255, 255, 255)); white.putalpha(a)
+    pad = 24
+    im = Image.new("RGBA", (lg.width + 2 * pad, lg.height + 2 * pad), (0, 0, 0, 0))
+    sh = Image.new("RGBA", im.size, (0, 0, 0, 0))
+    shadow = Image.new("RGBA", lg.size, (0, 0, 0, 255)); shadow.putalpha(a.point(lambda v: int(v * 0.55)))
+    sh.alpha_composite(shadow, (pad + 2, pad + 3))
+    sh = sh.filter(ImageFilter.GaussianBlur(7))
+    im.alpha_composite(sh); im.alpha_composite(white, (pad, pad))
     im.save(path)
-    return w, h
+    return im.size
 
 
 def wrap(d, text, f, maxw):
@@ -88,7 +94,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("src"); ap.add_argument("out"); ap.add_argument("cta")
     ap.add_argument("--end", type=float, default=3.0)
-    ap.add_argument("--badge-y", type=int, default=64)
+    ap.add_argument("--badge-y", type=int, default=190)
     a = ap.parse_args()
     dur, w, h, has_audio = probe(a.src)
     tmp = Path(tempfile.mkdtemp())
